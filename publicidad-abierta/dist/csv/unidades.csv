@@ -1,0 +1,173 @@
+#,"Subcategorías del servicio","Unidades del servicio",Estatus
+1,Cine,"Cine minutos",Activo
+2,Cine,"Otro formato",Activo
+3,"Medios Digitales",Banner,Activo
+4,"Medios Digitales","Otro formato",Activo
+5,"Otro tipo de difusión por Internet","Unidad aplicable",Activo
+6,"Redes sociales y buscadores","Anuncio de video en YouTube;  Página",Activo
+7,"Redes sociales y buscadores","Contenido o publicación difundida en Facebook",Activo
+8,"Redes sociales y buscadores","Cuenta o tuit promovido en Twitter",Activo
+9,"Redes sociales y buscadores","Anuncios de imagen",Activo
+10,"Redes sociales y buscadores","Video o carrusel de imágenes en Instagram",Activo
+11,"Redes sociales y buscadores","Actualización de contenido promocionada en LinkedIn",Activo
+12,"Redes sociales y buscadores","Contenido promovido en Adwords de Google",Activo
+13,"Redes sociales y buscadores","Contenido promovido en Anuncios de Bing",Activo
+14,"Redes sociales y buscadores",Otro,Activo
+15,"Artículos promocionales",Pieza,Activo
+16,Espectaculares,"Otro formato",Activo
+17,Cenefas,"Cartelera doble",Activo
+18,Cenefas,"Cartelera sencilla",Activo
+19,Cenefas,"Otro formato",Activo
+20,Dovelas,"Cartelera doble",Activo
+21,Dovelas,"Cartelera sencilla",Activo
+22,Dovelas,"Otro formato",Activo
+23,Espectaculares,"Cartelera doble",Activo
+24,Espectaculares,"Cartelera sencilla",Activo
+25,"Mobiliario urbano","Cartelera doble",Activo
+26,"Mobiliario urbano","Cartelera sencilla",Activo
+27,"Mobiliario urbano","Otro formato",Activo
+28,"Muros o bardas","Cartelera doble",Activo
+29,"Muros o bardas","Cartelera sencilla",Activo
+30,"Muros o bardas","Otro formato",Activo
+31,"Otros medios complementarios","Unidades de producto",Activo
+32,"Otros medios complementarios","Unidades de servicio",Activo
+33,"Otros medios complementarios","Otro formato",Activo
+34,Parabuses,"Cartelera doble",Activo
+35,Parabuses,"Cartelera sencilla",Activo
+36,Parabuses,"Otro formato",Activo
+37,"Publicidad móvil","Cartelera doble",Activo
+38,"Publicidad móvil","Cartelera sencilla",Activo
+39,"Publicidad móvil","Otro formato",Activo
+40,"Rótulos o anuncios exteriores","Cartelera doble",Activo
+41,"Tarjetas telefónicas",Millar,Activo
+42,"Tarjetas telefónicas","Otro formato",Activo
+43,"Tarjetas telefónicas","Unidades de producto",Activo
+44,Vallas,"Cartelera doble",Activo
+45,Vallas,"Cartelera sencilla",Activo
+46,Vallas,"Otro formato",Activo
+47,Videobus,"Cartelera doble",Activo
+48,Videobus,"Cartelera sencilla",Activo
+49,Videobus,"Otro formato",Activo
+50,"Diarios Editados en el D.F.","1/2 plana",Activo
+51,"Diarios Editados en el D.F.","1/4 plana",Activo
+52,"Diarios Editados en el D.F.","1/8 plana",Activo
+53,"Diarios Editados en el D.F.",Cintillo,Activo
+54,"Diarios Editados en el D.F.",Plana,Activo
+55,"Diarios Editados en el D.F.",Robaplana,Activo
+56,"Diarios Editados en el D.F.","Otro formato",Activo
+57,"Diarios Editados en los Estados","1/2 plana",Activo
+58,"Diarios Editados en los Estados","1/4 plana",Activo
+59,"Diarios Editados en los Estados","1/8 plana",Activo
+60,"Diarios Editados en los Estados",Cintillo,Activo
+61,"Diarios Editados en los Estados",Plana,Activo
+62,"Diarios Editados en los Estados",Robaplana,Activo
+63,"Diarios Editados en los Estados","Otro formato",Activo
+64,Encartes,"Unidades de servicio",Activo
+65,Encartes,"Otro formato",Activo
+66,"Medios Impresos Internacionales","1/2 plana",Activo
+67,"Medios Impresos Internacionales","1/4 plana",Activo
+68,"Medios Impresos Internacionales","1/8 plana",Activo
+69,"Medios Impresos Internacionales",Cintillo,Activo
+70,"Medios Impresos Internacionales",Plana,Activo
+71,"Medios Impresos Internacionales",Robaplana,Activo
+72,"Medios Impresos Internacionales","Otro formato",Activo
+73,"Otros medios impresos","Unidad aplicable",Activo
+74,Revistas,"1/2 plana",Activo
+75,Revistas,"1/4 plana",Activo
+76,Revistas,"1/8 plana",Activo
+77,Revistas,"2a. Forros",Activo
+78,Revistas,"3a. Forros",Activo
+79,Revistas,"4a. Forros",Activo
+80,Revistas,Cintillo,Activo
+81,Revistas,Plana,Activo
+82,Revistas,Robaplana,Activo
+83,Revistas,"Otro formato",Activo
+84,Suplementos,"Unidades de servicio",Activo
+85,Suplementos,"Otro formato",Activo
+86,"Cadenas radiofónicas","Cápsula 1 min.",Activo
+87,"Cadenas radiofónicas","Cápsula 5 min.",Activo
+88,"Cadenas radiofónicas",Mención,Activo
+89,"Cadenas radiofónicas","Otro formato",Activo
+90,"Cadenas radiofónicas","Spot de 20 seg.",Activo
+91,"Cadenas radiofónicas","Spot de 30 seg.",Activo
+92,"Radiodifusoras comunitarias e indígenas","Cápsula 1 min.",Activo
+93,"Radiodifusoras comunitarias e indígenas","Cápsula 5 min.",Activo
+94,"Radiodifusoras comunitarias e indígenas",Mención,Activo
+95,"Radiodifusoras comunitarias e indígenas","Otro formato",Activo
+96,"Radiodifusoras comunitarias e indígenas","Spot de 20 seg.",Activo
+97,"Radiodifusoras comunitarias e indígenas","Spot de 30 seg.",Activo
+98,"Radiodifusoras internacionales","Cápsula 1 min.",Activo
+99,"Radiodifusoras internacionales","Cápsula 5 min.",Activo
+100,"Radiodifusoras internacionales",Mención,Activo
+101,"Radiodifusoras internacionales","Otro formato",Activo
+102,"Radiodifusoras internacionales","Spot de 20 seg.",Activo
+103,"Radiodifusoras internacionales","Spot de 30 seg.",Activo
+104,"Radiodifusoras locales","Cápsula 1 min.",Activo
+105,"Radiodifusoras locales","Cápsula 5 min.",Activo
+106,"Radiodifusoras locales",Mención,Activo
+107,"Radiodifusoras locales","Otro formato",Activo
+108,"Radiodifusoras locales","Spot de 20 seg.",Activo
+109,"Radiodifusoras locales","Spot de 30 seg.",Activo
+110,"Publicidad virtual","Cápsula 1 min.",Activo
+111,"Publicidad virtual","Cápsula 5 min.",Activo
+112,"Publicidad virtual",Mención,Activo
+113,"Publicidad virtual","Otro formato",Activo
+114,"Publicidad virtual","Spot de 20 seg.",Activo
+115,"Publicidad virtual","Spot de 30 seg.",Activo
+116,"Televisión abierta local","Cápsula 1 min.",Activo
+117,"Televisión abierta local","Cápsula 5 min.",Activo
+118,"Televisión abierta local",Mención,Activo
+119,"Televisión abierta local","Otro formato",Activo
+120,"Televisión abierta local","Spot de 20 seg.",Activo
+121,"Televisión abierta local","Spot de 30 seg.",Activo
+122,"Televisión abierta nacional","Cápsula 1 min.",Activo
+123,"Televisión abierta nacional","Cápsula 5 min.",Activo
+124,"Televisión abierta nacional",Mención,Activo
+125,"Televisión abierta nacional","Otro formato",Activo
+126,"Televisión abierta nacional","Spot de 20 seg.",Activo
+127,"Televisión abierta nacional","Spot de 30 seg.",Activo
+128,"Televisión internacional","Cápsula 1 min.",Activo
+129,"Televisión internacional","Cápsula 5 min.",Activo
+130,"Televisión internacional",Mención,Activo
+131,"Televisión internacional","Otro formato",Activo
+132,"Televisión internacional","Spot de 20 seg.",Activo
+133,"Televisión internacional","Spot de 30 seg.",Activo
+134,"Televisión restringida","Cápsula 1 min.",Activo
+135,"Televisión restringida","Cápsula 5 min.",Activo
+136,"Televisión restringida",Mención,Activo
+137,"Televisión restringida","Otro formato",Activo
+138,"Televisión restringida","Spot de 20 seg.",Activo
+139,"Televisión restringida","Spot de 30 seg.",Activo
+140,"Estudios (Pre-Campaña, Post-Campaña)","Otro formato",Activo
+141,"Estudios (Pre-Campaña, Post-Campaña)","Unidades de producto",Activo
+142,"Estudios (Pre-Campaña, Post-Campaña)","Unidades de servicio",Activo
+143,"Plan de medios","Plan de medios",Activo
+144,"Carteles o Pósters",Pieza,Activo
+145,"Folletos, Dípticos o Trípticos",Pieza,Activo
+146,"Mantas o Lonas",Pieza,Activo
+147,"Otro tipo de materiales impresos",Pieza,Activo
+148,Copiado,"Otro formato",Activo
+149,Copiado,"Unidades de producto",Activo
+150,Copiado,"Unidades de servicio",Activo
+151,"Diseño y servicios publicitarios","Otro formato",Activo
+152,"Diseño y servicios publicitarios","Prod. spot radio 20 seg",Activo
+153,"Diseño y servicios publicitarios","Prod. spot radio 30 seg",Activo
+154,"Diseño y servicios publicitarios","Prod. spot tv 20 seg.",Activo
+155,"Diseño y servicios publicitarios","Prod. spot tv 30 seg",Activo
+156,"Otro tipo de servicio de producción","Unidades de producto",Activo
+157,"Otro tipo de servicio de producción","Unidades de servicio",Activo
+158,"Otro tipo de servicio de producción","Otro formato",Activo
+159,Post-Producción,"Otro formato",Activo
+160,Post-Producción,"Prod. spot radio 20 seg",Activo
+161,Post-Producción,"Prod. spot radio 30 seg",Activo
+162,Post-Producción,"Prod. spot tv 20 seg",Activo
+163,Post-Producción,"Prod. spot tv 30 seg",Activo
+164,Producción,"Otro formato",Activo
+165,Producción,"Prod. spot radio 20 seg",Activo
+166,Producción,"Prod. spot radio 30 seg",Activo
+167,Producción,"Prod. spot tv 20 seg",Activo
+168,Producción,"Prod. spot tv 30 seg",Activo
+169,Streaming,Minutos,Activo
+170,"Radiodifusoras locales",Spot,Activo
+171,"Televisión abierta local",Spot,Activo
+172,"Televisión abierta local",Cápsula,Activo

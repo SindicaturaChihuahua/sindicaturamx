@@ -1,0 +1,608 @@
+#,"Número de factura",Proveedor,Contrato,Orden,Ejercicio,Trimestre,Monto,"Archivo factura en PDF (Vínculo al archivo)","Archivo factura en XML (Vínculo al archivo)","Fecha de erogación",Estatus
+1,A672,"Imprenta Siglo XXV, S.A. de C.V.",AD010/18,"Sin orden de compra",2018,enero-marzo,255200.00,1_IMPRENTA_SIGLO_XXV.PDF,,2018-03-21,Activo
+2,A671,"Imprenta Siglo XXV, S.A. de C.V.",AD010/18,"Sin orden de compra",2018,enero-marzo,232000.00,2_IMPRENTA_SIGLO_XXV.PDF,,2018-03-21,Activo
+3,"RL 8235","Radio Lobo, S.A. de C.V.",AD097/19,"Sin orden de compra",2019,abril-junio,273539.21,47-RADIO_LOBO_S.A._DE_C.V..PDF,,2019-05-03,Activo
+4,"RL 8231","Radio Lobo, S.A. de C.V.",AD097/19,"Sin orden de compra",2019,abril-junio,395912.00,48-RADIO_LOBO_S.A._DE_C.V..PDF,,2019-04-16,Activo
+5,"CCH 2672","Comunicaciones Chihua, S.A. de C.V.",AD098/19,"Sin orden de compra",2019,abril-junio,251944.01,49-COMUNICACIONES_CHIHUA_S.A._DE_C.V..PDF,,2019-05-03,Activo
+6,"CCH 2655","Comunicaciones Chihua, S.A. de C.V.",AD098/19,"Sin orden de compra",2019,abril-junio,387993.76,50-COMUNICACIONES_CHIHUA_S.A._DE_C.V..PDF,,2019-04-16,Activo
+7,"IRCRF 98","Imagen Radio Comercial, S.A. de C.V.",AD099/19,"Sin orden de compra",2019,abril-junio,522000.00,51-IMAGEN_RADIO_COMERCIAL_S.A._DE_C.V..PDF,,2019-04-23,Activo
+8,"IRCRF 118","Imagen Radio Comercial, S.A. de C.V.",AD099/19,"Sin orden de compra",2019,abril-junio,202710.00,52-IMAGEN_RADIO_COMERCIAL_S.A._DE_C.V..PDF,,2019-05-22,Activo
+9,150D,"Jessica Arely Medina Valerio",AD100/19,"Sin orden de compra",2019,abril-junio,66000.00,53-JESSICA_ARELY_MEDINA_VALERIO.PDF,,2019-05-24,Activo
+10,36C6,"Jessica Arely Medina Valerio",AD100/19,"Sin orden de compra",2019,abril-junio,90000.00,54-JESSICA_ARELY_MEDINA_VALERIO.PDF,,2019-04-22,Activo
+11,-206,"Recuperadora Ambiental Del Norte S de Rl de Cv",AD101/19,"Sin orden de compra",2019,abril-junio,182000.00,55-RECUPERADORA_AMBIENTAN_DEL_NORTE_S._DE_R.L._DE_C.V..PDF,,2019-04-16,Activo
+12,-208,"Recuperadora Ambiental Del Norte S de Rl de Cv",AD101/19,"Sin orden de compra",2019,abril-junio,84000.00,56-RECUPERADORA_AMBIENTAN_DEL_NORTE_S._DE_R.L._DE_C.V..PDF,,2019-05-22,Activo
+13,175,"AA Print, S.A. de C.V.",AD102/19,"Sin orden de compra",2019,abril-junio,100000.00,57-AA_PRINT_S.A._DE_C.V..PDF,,2019-06-14,Activo
+14,169,"AA Print, S.A. de C.V.",AD102/19,"Sin orden de compra",2019,abril-junio,500000.00,58-AA_PRINT_S.A._DE_C.V..PDF,,2019-05-02,Activo
+15,"CAB - 14","Cabafam, S.A. de C.V.",AD103/19,"Sin orden de compra",2019,abril-junio,1113600.00,59-CABAFAM_S.A._DE_C.V..PDF,,2019-05-06,Activo
+16,"CAB - 17","Cabafam, S.A. de C.V.",AD103/19,"Sin orden de compra",2019,abril-junio,485460.00,60-CABAFAM_S.A._DE_C.V..PDF,,2019-06-03,Activo
+17,304,"El Pueblo Familiar, S.A. de C.V.",AD104/19,"Sin orden de compra",2019,abril-junio,96000.00,61-EL_PUEBLO_FAMILIAR_S.A._DE_C.V..PDF,,2019-04-17,Activo
+18,310,"El Pueblo Familiar, S.A. de C.V.",AD104/19,"Sin orden de compra",2019,abril-junio,64000.00,62-EL_PUEBLO_FAMILIAR_S.A._DE_C.V..PDF,,2019-05-20,Activo
+19,"B 391","Grupo Grg Efectimedios, S.A. de C.V.",AD107/19,"Sin orden de compra",2019,abril-junio,576000.00,63-GRUPO_GRG_EFECTIMEDIOS_S.A._DE_C.V..PDF,,2019-05-21,Activo
+20,"B 389","Grupo Grg Efectimedios, S.A. de C.V.",AD107/19,"Sin orden de compra",2019,abril-junio,1344000.00,64-GRUPO_GRG_EFECTIMEDIOS_S.A._DE_C.V..PDF,,2019-04-30,Activo
+21,GF-33737,"Televisora de Occidente, S.A. de C.V.",AD108/19,"Sin orden de compra",2019,abril-junio,2226330.00,,,2019-06-10,Activo
+22,397,"Radioflash del Norte, S.A. de C.V.",AD109/19,"Sin orden de compra",2019,abril-junio,208034.00,66-RADIOFLASH_DEL_NORTE_S.A._DE_C.V..PDF,,2019-05-02,Activo
+23,392,"Radioflash del Norte, S.A. de C.V.",AD109/19,"Sin orden de compra",2019,abril-junio,511560.00,67-RADIOFLASH_DEL_NORTE_S.A._DE_C.V..PDF,,2019-04-17,Activo
+24,"A 2235","Radio Impulsora X.E.E., S.A",AD110/19,"Sin orden de compra",2019,abril-junio,326424.00,68-RADIO_IMPULSORA_X.E.E._S.A..PDF,,2019-04-17,Activo
+25,"A 2239","Radio Impulsora X.E.E., S.A",AD110/19,"Sin orden de compra",2019,abril-junio,273263.52,69-RADIO_IMPULSORA_X.E.E._S.A..PDF,,2019-05-03,Activo
+26,6,www.lajiribilla.com.mx,AD113/19,"Sin orden de compra",2019,abril-junio,40000.00,70-AURORA_MONTERDE_FERNANDEZ.PDF,,2019-06-28,Activo
+27,3,www.lajiribilla.com.mx,AD113/19,"Sin orden de compra",2019,abril-junio,80000.00,71-AURORA_MONTERDE_FERNANDEZ.PDF,,2019-04-29,Activo
+28,313,"Nueva Línea Comunicación, S.C.",AD116/19,"Sin orden de compra",2019,abril-junio,50049.23,72-NUEVA_LINEA_COMUNICACION_S.C..PDF,,2019-05-29,Activo
+29,308,"Nueva Línea Comunicación, S.C.",AD116/19,"Sin orden de compra",2019,abril-junio,120248.15,73-NUEVA_LINEA_COMUNICACION_S.C..PDF,,2019-04-24,Activo
+30,d152,"NN NUESTRAS NOTICIAS",AD117/19,"Sin orden de compra",2019,abril-junio,49286.70,74-FRANCISCO_JOSE_ALVAREZ_ITUARTE.PDF,,2019-05-16,Activo
+31,5de4,"NN NUESTRAS NOTICIAS",AD117/19,"Sin orden de compra",2019,abril-junio,131431.20,75-FRANCISCO_JOSE_ALVAREZ_ITUARTE.PDF,,2019-04-17,Activo
+32,432,"Merboca, S.A. de C.V.",AD120/19,"Sin orden de compra",2019,abril-junio,116000.00,76-MERBOCA_S.A._DE_C.V..PDF,,2019-06-10,Activo
+33,418,"Merboca, S.A. de C.V.",AD120/19,"Sin orden de compra",2019,abril-junio,116000.00,77-MERBOCA_S.A._DE_C.V..PDF,,2019-04-30,Activo
+34,255,"Consultores en Comunicación y Medios Masivos, S.A. de C.V.",AD121/19,"Sin orden de compra",2019,abril-junio,211700.00,78-CONSULTORES_EN_COMUNICACION_Y_MEDIOS_MASIVOS_S.A._DE_C.V..PDF,,2019-06-10,Activo
+35,252,"Consultores en Comunicación y Medios Masivos, S.A. de C.V.",AD121/19,"Sin orden de compra",2019,abril-junio,509600.22,79-CONSULTORES_EN_COMUNICACION_Y_MEDIOS_MASIVOS_S.A._DE_C.V..PDF,,2019-04-30,Activo
+36,A-150,"Comercializadora Imation, S.A. de C.V.",AD123/19,"Sin orden de compra",2019,abril-junio,548100.00,80-COMERCIALIZADORA_IMATION_S.A._DE_C.V..PDF,,2019-05-07,Activo
+37,A-189,"Comercializadora Imation, S.A. de C.V.",AD123/19,"Sin orden de compra",2019,abril-junio,243600.00,81-COMERCIALIZADORA_IMATION_S.A._DE_C.V..PDF,,2019-06-04,Activo
+38,310-1*,"ASERTO RADIO",AD125/19,"Sin orden de compra",2019,abril-junio,67999.00,82-LUIS_JAVIER_VALERO_FLORES.PDF,,2019-05-06,Activo
+39,312,"ASERTO RADIO",AD125/19,"Sin orden de compra",2019,abril-junio,31959.53,83-LUIS_JAVIER_VALERO_FLORES.PDF,,2019-06-21,Activo
+40,272,"Periodismo Referente, S. de R.L. de C.V.",AD127/19,"Sin orden de compra",2019,abril-junio,210000.00,84-PERIODISMO_REFERENTE_S._DE_R.L._DE_C.V..PDF,,2019-04-30,Activo
+41,279,"Periodismo Referente, S. de R.L. de C.V.",AD127/19,"Sin orden de compra",2019,abril-junio,100000.00,85-PERIODISMO_REFERENTE_S._DE_R.L._DE_C.V..PDF,,2019-06-12,Activo
+42,32,www.elpuntero.com.mx,AD128/19,"Sin orden de compra",2019,abril-junio,60000.00,86-XOCHITL_JASMIN_GARCIA_GOMEZ.PDF,,2019-05-06,Activo
+43,30,www.elpuntero.com.mx,AD128/19,"Sin orden de compra",2019,abril-junio,130000.00,87-XOCHITL_JASMIN_GARCIA_GOMEZ.PDF,,2019-04-29,Activo
+44,"A 54","""Plan de vuelo"", Radio 102.5 FM",AD129/19,"Sin orden de compra",2019,abril-junio,120000.00,88-RUBEN_EDUARDO_MALDONADO_CHAVEZ.PDF,,2019-05-19,Activo
+45,154,"""Expectativa Noticias""",AD132/19,"Sin orden de compra",2019,abril-junio,39150.00,5f1500dd94546_93-VICTOR_HUGO_VALLES_RIVAS.PDF,,2019-06-17,Activo
+46,"A 58","""Plan de vuelo"", Radio 102.5 FM",AD129/19,"Sin orden de compra",2019,abril-junio,47400.00,89-RUBEN_EDUARDO_MALDONADO_CHAVEZ.PDF,,2019-06-03,Activo
+47,49,"Programa CONTRASTE",AD130/19,"Sin orden de compra",2019,abril-junio,21998.24,90-ANGELICA_DELGADO_CANO.PDF,,2019-06-17,Activo
+48,40,"Programa CONTRASTE",AD130/19,"Sin orden de compra",2019,abril-junio,89998.20,91-ANGELICA_DELGADO_CANO.PDF,,2019-05-20,Activo
+49,150,"""Expectativa Noticias""",AD132/19,"Sin orden de compra",2019,abril-junio,152250.00,94-VICTOR_HUGO_VALLES_RIVAS.PDF,,2019-05-21,Activo
+50,24,noticiasaldia.com.mx,AD136/19,"Sin orden de compra",2019,abril-junio,35800.00,97-HECTOR_MANUEL_BERNAL_AMEZCUA.PDF,,2019-05-18,Activo
+51,25,noticiasaldia.com.mx,AD136/19,"Sin orden de compra",2019,abril-junio,25800.00,98-HECTOR_MANUEL_BERNAL_AMEZCUA.PDF,,2019-06-01,Activo
+52,321,"El Pueblo Familiar, S.A. de C.V.",AD203/19,"Sin orden de compra",2019,octubre-diciembre,120000.00,138_EL_PUEBLO_FAMILIAR.PDF,,2019-10-14,Activo
+53,34,"Analistas del Florido, S.A. de C.V.",AD202/19,"Sin orden de compra",2019,octubre-diciembre,95999.76,136_ANALISTAS_DEL_FLORIDO.PDF,,2019-10-28,Activo
+54,36,"Analistas del Florido, S.A. de C.V.",AD202/19,"Sin orden de compra",2019,octubre-diciembre,47996.16,137_ANALISTAS_DEL_FLORIDO.PDF,,2019-11-18,Activo
+55,EH6565,"Tv Azteca, S.A.B. de C.V.",AD197/19,"Sin orden de compra",2019,octubre-diciembre,957000.00,134_TV_AZTECA.PDF,,2019-10-31,Activo
+56,EH6591,"Tv Azteca, S.A.B. de C.V.",AD197/19,"Sin orden de compra",2019,octubre-diciembre,486000.00,135_TV_AZTECA.PDF,,2019-11-15,Activo
+57,GF-34815,"Televisora de Occidente, S.A. de C.V.",AD193/19,"Sin orden de compra",2019,octubre-diciembre,1251964.00,132_TELEVISORA_DE_OCCIDENTE.PDF,,2019-11-15,Activo
+58,GF-34425,"Televisora de Occidente, S.A. de C.V.",AD193/19,"Sin orden de compra",2019,octubre-diciembre,2088000.00,108_TELEVISORA_DE_OCCIDENTE.PDF,,2019-09-27,Activo
+59,577,"Omnia Comunicaciones, S. de R.L. de C.V.",AD268/19,"Sin orden de compra",2019,julio-septiembre,149999.99,131_OMNIA_COMUNICACIONES.PDF,,2019-09-19,Activo
+60,2060,"Editorial E Imagen Publica, S.A. de C.V.",AD259/19,"Sin orden de compra",2019,julio-septiembre,87999.98,130_EDITORIAL_E_IMAGEN_PUBLICA.PDF,,2019-09-04,Activo
+61,319,"El Pueblo Familiar, S.A. de C.V.",AD255/19,"Sin orden de compra",2019,julio-septiembre,160000.00,129_EL_PUEBLO_FAMILIAR.PDF,,2019-09-19,Activo
+62,A-337,"Comercializadora Imation, S.A. de C.V.",AD254/19,"Sin orden de compra",2019,julio-septiembre,835200.00,128_COMERCIALIZADORA_IMATION.PDF,,2019-09-27,Activo
+63,"PDCR / 57055","Publicaciones del Chuviscar, S.A. de C.V.",AD241/19,"Sin orden de compra",2019,julio-septiembre,770000.00,127_PUBLICACIONES_DEL_CHUVISCAR.PDF,,2019-09-10,Activo
+64,A-4568,"Radio Juarense, S.A. de C.V.",AD239/19,"Sin orden de compra",2019,julio-septiembre,77400.00,126_RADIO_JUARENSE.PDF,,2019-09-03,Activo
+65,449,"Merboca, S.A. de C.V.",AD238/19,"Sin orden de compra",2019,julio-septiembre,116000.00,125_MERBOCA.PDF,,2019-08-27,Activo
+66,"A 2331","Radio Impulsora X.E.E., S.A",AD235/19,"Sin orden de compra",2019,julio-septiembre,606216.00,123_RADIO_IMPULSORA_X.E.E.PDF,,2019-09-25,Activo
+67,"6 FCH","Radioflash del Norte, S.A. de C.V.",AD234/19,"Sin orden de compra",2019,julio-septiembre,433608.00,122_RADIO_FLASH_DEL_NORTE.PDF,,2019-09-02,Activo
+68,PD-458,"Plataforma en Difusión, S.A. de C.V.",AD232/19,"Sin orden de compra",2019,julio-septiembre,60239.30,121_PLATAFORMA_EN_DIFUSION.PDF,,2019-08-29,Activo
+69,324,"Nueva Línea Comunicación, S.C.",AD230/19,"Sin orden de compra",2019,julio-septiembre,103998.40,120_NUEVA_LINEA_COMUNICACION.PDF,,2019-09-04,Activo
+70,"IRCRF 240","Imagen Radio Comercial, S.A. de C.V.",AD226/19,"Sin orden de compra",2019,julio-septiembre,739500.00,119_IMAGEN_RADIO_COMERCIAL.PDF,,2019-09-27,Activo
+71,"CCH 2874","Comunicaciones Chihua, S.A. de C.V.",AD223/19,"Sin orden de compra",2019,julio-septiembre,381515.00,118_COMUNICACIONES_CHIHUA.PDF,,2019-09-04,Activo
+72,TOSCHI-767,"Comercializadora Tosgon, S.A. de C.V.",AD222/19,"Sin orden de compra",2019,julio-septiembre,208800.00,117_COMERCIALIZADORA_TOSGON.PDF,,2019-09-23,Activo
+73,-13,"Porlalibre, S.A. de C.V.",AD217/19,"Sin orden de compra",2019,julio-septiembre,135000.09,116_PORLALIBRE.PDF,,2019-08-27,Activo
+74,14205,"Promotora de Radio de Chihuahua, S.A. de C.V.",AD220/19,"Sin orden de compra",2019,julio-septiembre,908280.00,115_PROMOTORA_DE_RADIO_DE_CHIHUAHUA.PDF,,2019-09-19,Activo
+75,318,"El Pueblo Familiar, S.A. de C.V.",AD203/19,"Sin orden de compra",2019,julio-septiembre,120000.00,113_EL_PUEBLO_FAMILIAR.PDF,,2019-08-29,Activo
+76,33,"Analistas del Florido, S.A. de C.V.",AD202/19,"Sin orden de compra",2019,julio-septiembre,95999.76,112_ANALISTAS_DEL_FLORIDO.PDF,,2019-09-06,Activo
+77,"CAB - 40","Cabafam, S.A. de C.V.",AD198/19,"Sin orden de compra",2019,julio-septiembre,1566000.00,111_CABAFAM.PDF,,2019-09-25,Activo
+78,EH6465,"Tv Azteca, S.A.B. de C.V.",AD197/19,"Sin orden de compra",2019,julio-septiembre,957000.00,110_TV_AZTECA.PDF,,2019-09-06,Activo
+79,92,"Unidad Corporativa de Televisión, S.A. de C.V.",AD194/19,"Sin orden de compra",2019,julio-septiembre,1413750.00,109_UNIDAD_CORPORATIVA_DE_TELEVISION.PDF,,2019-09-20,Activo
+80,-11,"Porlalibre, S.A. de C.V.",AD152/19,"Sin orden de compra",2019,abril-junio,240000.00,106-PORLALIBRE_S.A._DE_C.V..PDF,,2019-06-05,Activo
+81,13594,"Promotora de Radio de Chihuahua, S.A. de C.V.",AD146/19,"Sin orden de compra",2019,abril-junio,605520.00,103-PROMOTORA_DE_RADIO_DE_CHIHUAHUA_S.A._DE_C.V..PDF,,2019-05-22,Activo
+82,13710,"Promotora de Radio de Chihuahua, S.A. de C.V.",AD146/19,"Sin orden de compra",2019,abril-junio,194439.20,102-PROMOTORA_DE_RADIO_DE_CHIHUAHUA_S.A._DE_C.V..PDF,,2019-06-14,Activo
+83,TOSCHI-607,"Comercializadora Tosgon, S.A. de C.V.",AD144/19,"Sin orden de compra",2019,abril-junio,167040.00,101-COMERCIALIZADORA_TOSGON_S.A._DE_C.V..PDF,,2019-05-21,Activo
+84,TOSCHI-625,"Comercializadora Tosgon, S.A. de C.V.",AD144/19,"Sin orden de compra",2019,abril-junio,72662.40,100-COMERCIALIZADORA_TOSGON_S.A._DE_C.V..PDF,,2019-06-11,Activo
+85,5666,"Publicaciones del Chuviscar, S.A. de C.V.",AD137/19,"Sin orden de compra",2019,abril-junio,400000.00,99-PUBLICACIONES_DEL_CHUVISCAR_S.A._DE_C.V..PDF,,2019-06-03,Activo
+86,0457,"Fénix Comunicaciones, S.A. de C.V.",AD161/19,"Sin orden de compra",2019,abril-junio,80000.00,107-FENIX_COMUNICACIONES_S.A._DE_C.V..PDF,,2019-06-25,Activo
+87,293B,"Periódicos Digitales de Chihuahua, S.A. de C.V.",AD214/19,"Sin orden de compra",2019,julio-septiembre,55999.30,114_PERIODICOS_DIGITALES_DE_CHIHUAHUA.PDF,,2019-08-27,Activo
+88,AB9E,"Periódicos Digitales de Chihuahua, S.A. de C.V.",AD150/19,"Sin orden de compra",2019,abril-junio,23999.97,105-PERIODICOS_DIGITALES_DE_CHIHUAHUA_S.A._DE_C.V..PDF,,2019-06-19,Activo
+89,CA50,"Periódicos Digitales de Chihuahua, S.A. de C.V.",AD150/19,"Sin orden de compra",2019,abril-junio,71999.91,104-PERIODICOS_DIGITALES_DE_CHIHUAHUA_S.A._DE_C.V..PDF,,2019-05-29,Activo
+90,APAB000011430,"Cia. Periodística El Sol de Chihuahua, S.A. de C.V.",AD076/19,"Sin orden de compra",2019,abril-junio,1597857.16,7-CIA._PERIODISTICA_EL_SOL_DE_CHIHUAHUA_S.A._DE_C.V..PDF,,2019-04-30,Activo
+91,29,"Analistas del Florido, S.A. de C.V.",AD075/19,"Sin orden de compra",2019,abril-junio,40000.00,6-ANALISTAS_DEL_FLORIDO_S.A._DE_C.V..PDF,,2019-05-17,Activo
+92,7,"Unidad Corporativa de Televisión, S.A. de C.V.",AD074/19,"Sin orden de compra",2019,abril-junio,515475.00,3-UNIDAD_CORPORATIVA_DE_TELEVISION_S.A._DE_C.V..PDF,,2019-05-17,Activo
+93,1,"Unidad Corporativa de Televisión, S.A. de C.V.",AD074/19,"Sin orden de compra",2019,abril-junio,891750.00,4-UNIDAD_CORPORATIVA_DE_TELEVISION_S.A._DE_C.V..PDF,,2019-04-24,Activo
+94,27,"Analistas del Florido, S.A. de C.V.",AD075/19,"Sin orden de compra",2019,abril-junio,120000.00,5-ANALISTAS_DEL_FLORIDO_S.A._DE_C.V..PDF,,2019-04-17,Activo
+95,APAB000011464,"Cia. Periodística El Sol de Chihuahua, S.A. de C.V.",AD076/19,"Sin orden de compra",2019,abril-junio,3728062.35,8-CIA._PERIODISTICA_EL_SOL_DE_CHIHUAHUA_S.A._DE_C.V..PDF,,2019-06-28,Activo
+96,311,"El Pueblo Familiar, S.A. de C.V.",AD077/19,"Sin orden de compra",2019,abril-junio,60000.00,9-EL_PUEBLO_FAMILIAR_S.A._DE_C.V..PDF,,2019-05-20,Activo
+97,303,"El Pueblo Familiar, S.A. de C.V.",AD077/19,"Sin orden de compra",2019,abril-junio,120000.00,10-EL_PUEBLO_FAMILIAR_S.A._DE_C.V..PDF,,2019-04-16,Activo
+98,A-4409,"Radio Juarense, S.A. de C.V.",AD079/19,"Sin orden de compra",2019,abril-junio,60000.00,13-RADIO_JUARENSE_S.A._DE_C.V..PDF,,2019-06-10,Activo
+99,A-4334,"Radio Juarense, S.A. de C.V.",AD079/19,"Sin orden de compra",2019,abril-junio,60000.00,14-RADIO_JUARENSE_S.A._DE_C.V..PDF,,2019-04-29,Activo
+100,1952,"Editorial E Imagen Publica, S.A. de C.V.",AD080/19,"Sin orden de compra",2019,abril-junio,116000.00,15-EDITORIAL_E_IMAGEN_PUBLICA_S.A._DE_C.V..PDF,,2019-04-29,Activo
+101,1985,"Editorial E Imagen Publica, S.A. de C.V.",AD080/19,"Sin orden de compra",2019,abril-junio,52999.99,16-EDITORIAL_E_IMAGEN_PUBLICA_S.A._DE_C.V..PDF,,2019-06-06,Activo
+102,207,www.circulorojo.com.mx,AD081/19,"Sin orden de compra",2019,abril-junio,128000.00,17-MARIA_ANDREA_MEDINA_MONTELONGO.PDF,,2019-04-16,Activo
+103,210,www.circulorojo.com.mx,AD081/19,"Sin orden de compra",2019,abril-junio,52000.00,18-MARIA_ANDREA_MEDINA_MONTELONGO.PDF,,2019-05-02,Activo
+104,F1EE,WWW.ADRIANARUIZ.COM.MX,AD082/19,"Sin orden de compra",2019,abril-junio,84000.00,19-RODRIGO_MALDONADO_AGUIRRE.PDF,,2019-04-16,Activo
+105,663C,WWW.ADRIANARUIZ.COM.MX,AD082/19,"Sin orden de compra",2019,abril-junio,35999.91,20-RODRIGO_MALDONADO_AGUIRRE.PDF,,2019-05-21,Activo
+106,196,elresumen.net,,"Sin orden de compra",2019,abril-junio,16000.00,21-JUAN_MANUEL_BARRIENTOS_MARQUEZ.PDF,,2019-05-24,Activo
+107,192,elresumen.net,AD083/19,"Sin orden de compra",2019,abril-junio,32001.00,22-JUAN_MANUEL_BARRIENTOS_MARQUEZ.PDF,,2019-04-22,Activo
+108,9BE5,WWW.PAUSA.MX,AD084/19,"Sin orden de compra",2019,abril-junio,37000.00,23-VALENTIN_JUAN_CARLOS_ESTRADA_LUEVANO.PDF,,2019-04-16,Activo
+109,8814,WWW.PAUSA.MX,AD084/19,"Sin orden de compra",2019,abril-junio,20500.00,24-VALENTIN_JUAN_CARLOS_ESTRADA_LUEVANO.PDF,,2019-05-22,Activo
+110,"A 808","Imprenta Siglo XXV, S.A. de C.V.",AD085/19,"Sin orden de compra",2019,abril-junio,1327500.00,25-IMPRENTA_SIGLO_XXV_S.A._DE_C.V..PDF,,2019-04-22,Activo
+111,"A 817","Imprenta Siglo XXV, S.A. de C.V.",AD085/19,"Sin orden de compra",2019,abril-junio,1003000.00,26-IMPRENTA_SIGLO_XXV_S.A._DE_C.V..PDF,,2019-05-29,Activo
+112,8742,"NOTICIERO CHIHUAHUA DIGITAL",AD087/19,"Sin orden de compra",2019,abril-junio,66700.00,27-MAYELA_CRISTINA_JIMENEZ_ALVIDREZ.PDF,,2019-05-27,Activo
+113,DC68,"NOTICIERO CHIHUAHUA DIGITAL",AD087/19,"Sin orden de compra",2019,abril-junio,156399.32,28-MAYELA_CRISTINA_JIMENEZ_ALVIDREZ.PDF,,2019-04-16,Activo
+114,D94A,www.noticiaschihuahua.mx,AD088/19,"Sin orden de compra",2019,abril-junio,168000.00,29-SAMUEL_SINALOA_RAMOS.PDF,,2019-04-17,Activo
+115,1AA6,www.noticiaschihuahua.mx,AD088/19,"Sin orden de compra",2019,abril-junio,72000.00,30-SAMUEL_SINALOA_RAMOS.PDF,,2019-05-29,Activo
+116,A522,"Omnia Comunicaciones, S. de R.L. de C.V.",AD089/19,"Sin orden de compra",2019,abril-junio,100000.00,31-OMNIA_COMUNICACIONES_S._DE_R.L._DE_C.V..PDF,,2019-04-29,Activo
+117,A533,"Omnia Comunicaciones, S. de R.L. de C.V.",AD089/19,"Sin orden de compra",2019,abril-junio,40000.00,32-OMNIA_COMUNICACIONES_S._DE_R.L._DE_C.V..PDF,,2019-05-20,Activo
+118,94BC,alinstante.com.mx,AD090/19,"Sin orden de compra",2019,abril-junio,128000.00,33-JESUS_EDUARDO_VARGAS_JIMENEZ.PDF,,2019-04-17,Activo
+119,192B,alinstante.com.mx,AD090/19,"Sin orden de compra",2019,abril-junio,62000.00,34-JESUS_EDUARDO_VARGAS_JIMENEZ.PDF,,2019-06-26,Activo
+120,4089,www.todoespolitica.com.mx,AD091/19,"Sin orden de compra",2019,abril-junio,191499.99,35-DANIEL_ABRAHAM_PRIETO_NEVAREZ.PDF,,2019-04-17,Activo
+121,FAB8,www.todoespolitica.com.mx,AD091/19,"Sin orden de compra",2019,abril-junio,62500.00,36-DANIEL_ABRAHAM_PRIETO_NEVAREZ.PDF,,2019-04-17,Activo
+122,C138,alcontacto.com.mx,AD092/19,"Sin orden de compra",2019,abril-junio,120000.00,37-FATIMA_ROXANA_DOZAL_VILLAGRAN.PDF,,2019-04-17,Activo
+123,F86F,alcontacto.com.mx,AD092/19,"Sin orden de compra",2019,abril-junio,40000.00,38-FATIMA_ROXANA_DOZAL_VILLAGRAN.PDF,,2019-05-21,Activo
+124,253,"La Ventana del Juicio.mx",AD093/19,"Sin orden de compra",2019,abril-junio,86400.00,39-ESTEBAN_SALMON_PAREDES.PDF,,2019-04-23,Activo
+125,"255,","La Ventana del Juicio.mx",AD093/19,"Sin orden de compra",2019,abril-junio,24480.00,40-ESTEBAN_SALMON_PAREDES.PDF,,2019-06-04,Activo
+126,B15,"SUEÑOS y REALIDADES",AD094/19,"Sin orden de compra",2019,abril-junio,10080.00,41-PEDRO_JAVIER_ONTIVEROS_BLANCO.PDF,,2019-06-07,Activo
+127,B14,"SUEÑOS y REALIDADES",AD094/19,"Sin orden de compra",2019,abril-junio,33600.00,42-PEDRO_JAVIER_ONTIVEROS_BLANCO.PDF,,2019-04-30,Activo
+128,87D8,"""No le cambie""",AD095/19,"Sin orden de compra",2019,abril-junio,115304.00,43-JUAN_ENRIQUE_LOPEZ_AGUIRRE.PDF,,2019-05-02,Activo
+129,7224,"""No le cambie""",AD095/19,"Sin orden de compra",2019,abril-junio,284200.00,44-JUAN_ENRIQUE_LOPEZ_AGUIRRE.PDF,,2019-04-23,Activo
+130,"MYA 73790","Multimedios, S.A. de C.V.",AD096/19,"Sin orden de compra",2019,abril-junio,819366.00,45-MULTIMEDIOS_S.A._DE_C.V..PDF,,2019-05-16,Activo
+131,"MYA 74255","Multimedios, S.A. de C.V.",AD096/19,"Sin orden de compra",2019,abril-junio,340277.68,46-MULTIMEDIOS_S.A._DE_C.V..PDF,,2019-06-03,Activo
+132,2058,"Cazonci Editores, S.A. de C.V.",AD131/19,"Sin orden de compra",2019,abril-junio,120000.00,92._CAZONCI_EDITORES_S.A._DE_C.V..PDF,,2019-05-23,Activo
+133,8499,"Radio América de México, S.A. de C.V.",AD133/19,"Sin orden de compra",2019,abril-junio,279629.60,5f720923177c4_G.FORMULA.PDF,,2019-06-30,Activo
+134,2600,"Enconcreto, CIDECH, y FINGUACH",AD110/2020,"Sin orden de compra",2020,abril-junio,50872.20,DAPHNECHAVEZ2567_REDACTED.PDF,,2020-06-15,Activo
+135,D3F1,www.elpuntero.com.mx,AD117/2020,"Sin orden de compra",2020,abril-junio,120600.00,AD117-2020_XOCHITLGOMEZ-1.PDF,,2020-06-16,Activo
+136,"RL 8435","Radio Lobo, S.A. de C.V.",AD236/19,"Sin orden de compra",2019,julio-septiembre,499568.96,124_RADIO_LOBO.PDF,,2019-10-23,Activo
+137,S2917,"Periodico Digital Sendero, S.A.P.I. de C.V.",AD116/2020,"Sin orden de compra",2020,abril-junio,320000.00,AD116-2020_PERIODICODIGSENDERO.PDF,,2020-06-19,Activo
+138,329,"El Pueblo Familiar, S.A. de C.V.",AD203/19,"Sin orden de compra",2019,julio-septiembre,30000.00,139_EL_PUEBLO_FAMILIAR.PDF,,2019-11-15,Activo
+139,-19,"Porlalibre, S.A. de C.V.",AD217/19,"Sin orden de compra",2019,octubre-diciembre,149999.90,141_PORLALIBRE.PDF,,2019-10-28,Activo
+140,-20,"Porlalibre, S.A. de C.V.",AD217/19,"Sin orden de compra",2019,octubre-diciembre,74999.88,142_PORLALIBRE.PDF,,2019-11-15,Activo
+141,14574,"Promotora de Radio de Chihuahua, S.A. de C.V.",AD220/19,"Sin orden de compra",2019,octubre-diciembre,486158.96,143_PROMOTORA_DE_RADIO_DE_CHIHUAHUA.PDF,,2019-11-25,Activo
+142,TOSCHI-870,"Comercializadora Tosgon, S.A. de C.V.",AD222/19,"Sin orden de compra",2019,octubre-diciembre,151171.20,,,2019-11-19,Activo
+143,CCH2987,"Comunicaciones Chihua, S.A. de C.V.",AD223/19,"Sin orden de compra",2019,octubre-diciembre,192707.59,145_COMUNICACIONES_CHIHUA.PDF,,2019-11-15,Activo
+144,"CCH 2921","Comunicaciones Chihua, S.A. de C.V.",AD223/19,"Sin orden de compra",2019,octubre-diciembre,381515.21,146_COMUNICACIONES_CHIHUA.PDF,,2019-10-08,Activo
+145,"IRCRF 297","Imagen Radio Comercial, S.A. de C.V.",AD226/19,"Sin orden de compra",2019,octubre-diciembre,335704.00,147_IMAGEN_RADIO_COMERCIAL.PDF,,2019-11-14,Activo
+146,332,"Nueva Línea Comunicación, S.C.",AD230/19,"Sin orden de compra",2019,octubre-diciembre,103998.40,148_NUEVA_LINEA_COMUNICACION.PDF,,2019-10-28,Activo
+147,337,"Nueva Línea Comunicación, S.C.",AD230/19,"Sin orden de compra",2019,octubre-diciembre,47423.99,149_NUEVA_LINEA_COMUNICACION.PDF,,2019-11-21,Activo
+148,PD-587,"Plataforma en Difusión, S.A. de C.V.",AD232/19,"Sin orden de compra",2019,octubre-diciembre,60239.30,150.PDF,,2019-10-30,Activo
+149,PD-612,"Plataforma en Difusión, S.A. de C.V.",AD232/19,"Sin orden de compra",2019,octubre-diciembre,29521.40,151.PDF,,2019-11-15,Activo
+150,"25 FCH","Radioflash del Norte, S.A. de C.V.",AD234/19,"Sin orden de compra",2019,octubre-diciembre,438480.00,153_RADIO_FLASH_DEL_NORTE.PDF,,2019-10-17,Activo
+151,"26 FCH","Radioflash del Norte, S.A. de C.V.",AD234/19,"Sin orden de compra",2019,octubre-diciembre,207912.00,5f1862ca652de_153_RADIO_FLASH_DEL_NORTE.PDF,,2019-11-15,Activo
+152,"A 2370","Radio Impulsora X.E.E., S.A",AD235/19,"Sin orden de compra",2019,octubre-diciembre,293315.28,154_RADIO_IMPULSORA_X.E.E.PDF,,2019-09-15,Activo
+153,"RL 8557","Radio Lobo, S.A. de C.V.",AD236/19,"Sin orden de compra",2019,octubre-diciembre,171518.08,155_RADIO_LOBO.PDF,,2019-12-15,Activo
+154,"RL 8513","Radio Lobo, S.A. de C.V.",AD236/19,"Sin orden de compra",2019,octubre-diciembre,499568.96,156_RADIO_LOBO.PDF,,2019-10-08,Activo
+155,463,"Merboca, S.A. de C.V.",AD238/19,"Sin orden de compra",2019,octubre-diciembre,174000.00,157_MERBOCA.PDF,,2019-10-28,Activo
+156,467,"Merboca, S.A. de C.V.",AD238/19,"Sin orden de compra",2019,octubre-diciembre,58000.00,158_MERBOCA.PDF,,2019-11-15,Activo
+157,A-4664,"Radio Juarense, S.A. de C.V.",AD239/19,"Sin orden de compra",2019,octubre-diciembre,102600.00,159_RADIO_JUARENSE.PDF,,2019-10-29,Activo
+158,330,"El Pueblo Familiar, S.A. de C.V.",AD255/19,"Sin orden de compra",2019,octubre-diciembre,80000.00,160_EL_PUEBLO_FAMILIAR.PDF,,2019-11-15,Activo
+159,2102,"Editorial E Imagen Publica, S.A. de C.V.",AD259/19,"Sin orden de compra",2019,octubre-diciembre,163820.00,161_EDITORIAL_E_IMAGEN_PUBLICA.PDF,,2019-10-29,Activo
+160,A5BA,"Periódicos Digitales de Chihuahua, S.A. de C.V.",AD214/19,"Sin orden de compra",2019,octubre-diciembre,87999.89,5f187a8a6f94e_140_PERIODICOS_DIGITALES_DE_CHIHUAHUA.PDF,,2019-11-22,Activo
+161,"JULIO-AGOSTO 2019","""Expectativa Noticias""",AD196/19,"Sin orden de compra",2019,julio-septiembre,119625.00,163_VICTOR_HUGO_VALLES_RIVAS.PDF,,2019-09-20,Activo
+162,217,www.circulorojo.com.mx,AD199/19,"Sin orden de compra",2019,julio-septiembre,120000.00,164_MARIA_ANDREA_MEDINA_MONTELOGNO.PDF,,2019-08-29,Activo
+163,7ACE,www.elpuntero.com.mx,AD200/19,"Sin orden de compra",2019,julio-septiembre,179599.92,165_XOCHITL_JASMIN_GARCIA_GOMEZ.PDF,,2019-09-21,Activo
+164,8,www.lajiribilla.com.mx,AD204/19,"Sin orden de compra",2019,julio-septiembre,110000.00,166_AURORA_MONTERDE_FERNANDEZ.PDF,,2019-09-18,Activo
+165,211,elresumen.net,AD205/19,"Sin orden de compra",2019,julio-septiembre,28000.00,167_JUAN_MANUEL_BARRIENTOS_MARQUEZ.PDF,,2019-08-27,Activo
+166,66B3,alcontacto.com.mx,AD207/19,"Sin orden de compra",2019,julio-septiembre,160000.00,168_FATIMA_ROXANA_DOZAL_VILLAGRAN.PDF,,2019-09-23,Activo
+167,83CF,WWW.ADRIANARUIZ.COM.MX,AD208/19,"Sin orden de compra",2019,julio-septiembre,75000.00,169_RODRIGO_MALDONADO_AGUIRRE.PDF,,2019-08-28,Activo
+168,7BEC,WWW.PAUSA.MX,AD211/19,"Sin orden de compra",2019,julio-septiembre,28500.00,170_VALENTIN_JUAN_CARLOS_ESTRADA_LUEVANO.PDF,,2019-09-03,Activo
+169,827C,www.noticiaschihuahua.mx,AD213/19,"Sin orden de compra",2019,julio-septiembre,144000.00,171_SAMUEL_SINALOA_RAMOS.PDF,,2019-08-28,Activo
+170,2E23,www.atlasenlinea.com,AD219/19,"Sin orden de compra",2019,julio-septiembre,60000.00,172_SAUL_RAUL_GMBOA_ORTA.PDF,,2019-08-27,Activo
+171,78,"Programa CONTRASTE",AD221/19,"Sin orden de compra",2019,julio-septiembre,117997.64,173_ANGELICA_DELGADO_CANO.PDF,,2019-09-26,Activo
+172,258,"La Ventana del Juicio.mx",AD224/19,"Sin orden de compra",2019,julio-septiembre,67200.00,174_ESTEBAN_SALMON_PAREDES.PDF,,2019-08-28,Activo
+173,9595,"NN NUESTRAS NOTICIAS",AD225/19,"Sin orden de compra",2019,julio-septiembre,109526.01,175_FRANCISCO_JOSE_ALVAREZ_ITUARTE.PDF,,2019-08-28,Activo
+174,318-2,"ASERTO RADIO",AD228/19,"Sin orden de compra",2019,julio-septiembre,61199.10,177_LUIS_JAVIER_VALERO_FLORES.PDF,,2019-09-11,Activo
+175,2411,"Enconcreto, CIDECH, y FINGUACH",AD240/19,"Sin orden de compra",2019,julio-septiembre,78300.00,179_DAPHNE_ALEJANDRA_CHAVEZ_RAMOS.PDF,,2019-09-20,Activo
+176,3709,"Jessica Arely Medina Valerio",AD252/19,"Sin orden de compra",2019,octubre-diciembre,144000.00,5f188e3974a2f_180_JESSICA_ARELY_MEDINA_VALERIO.PDF,,2019-10-07,Activo
+177,28,noticiasaldia.com.mx,AD201/19,"Sin orden de compra",2019,julio-septiembre,25800.00,181_HECTOR_MANUEL_BERNAL_AMEZCUA.PDF,,2019-09-13,Activo
+178,0143,"NOTICIERO CHIHUAHUA DIGITAL",AD195/19,"Sin orden de compra",2019,julio-septiembre,138000.00,182_MAYELA_CRISTINA_JIMENEZ_ALVIDREZ.PDF,,2019-09-03,Activo
+179,230,"Expreseditores, S.A. de C.V.",AD069/18,"Sin orden de compra",2018,enero-marzo,30000.00,76_EXPRESEDITORES.PDF,,2018-03-28,Activo
+180,-276,"Consultores en Comunicación y Medios Masivos, S.A. de C.V.",AD118/2020,"Sin orden de compra",2020,abril-junio,839100.00,AD118-2020-CONSULTORES_EN_COMUNICACION_Y_MEDIOS_MASIVOS_S.A._DE_C.V.-1.PDF,,2020-06-19,Activo
+181,229,"Expreseditores, S.A. de C.V.",AD069/18,"Sin orden de compra",2018,enero-marzo,44400.00,77_EXPRESEDITORES.PDF,,2018-03-28,Activo
+182,"AC 5000091","Radio América de México, S.A. de C.V.",AD070/18,"Sin orden de compra",2018,enero-marzo,105892.00,78_RADIO_AMERICA_DE_MEXICO.PDF,,2018-03-28,Activo
+183,"AC 5000092","Radio América de México, S.A. de C.V.",AD070/18,"Sin orden de compra",2018,enero-marzo,105176.81,79_RADIO_AMERICA_DE_MEXICO.PDF,,2018-03-28,Activo
+184,"AC 5000090","Radio América de México, S.A. de C.V.",AD070/18,"Sin orden de compra",2018,enero-marzo,78880.00,80_RADIO_AMERICA_DE_MEXICO.PDF,,2018-03-28,Activo
+185,41AF,WWW.ADRIANARUIZ.COM.MX,AD071/18,"Sin orden de compra",2018,enero-marzo,50000.00,81_RODRIGO_MALDONADO_AGUIRRE.PDF,,2018-03-26,Activo
+186,04FB,WWW.ADRIANARUIZ.COM.MX,AD071/18,"Sin orden de compra",2018,enero-marzo,25000.00,82_RODRIGO_MALDONADO_AGUIRRE.PDF,,2018-03-26,Activo
+187,E75F,WWW.ADRIANARUIZ.COM.MX,AD071/18,"Sin orden de compra",2018,enero-marzo,25000.00,83_RODRIGO_MALDONADO_AGUIRRE.PDF,,2018-03-26,Activo
+188,1000,"Imagen Radio Comercial, S.A. de C.V.",AD072/18,"Sin orden de compra",2018,enero-marzo,269700.00,84_IMAGEN_RADIO_COMERCIAL.PDF,,2018-03-30,Activo
+189,999,"Imagen Radio Comercial, S.A. de C.V.",AD072/18,"Sin orden de compra",2018,enero-marzo,213150.00,85_IMAGEN_RADIO_COMERCIAL.PDF,,2018-03-30,Activo
+190,1001,"Imagen Radio Comercial, S.A. de C.V.",AD072/18,"Sin orden de compra",2018,enero-marzo,267150.00,86_IMAGEN_RADIO_COMERCIAL.PDF,,2018-03-30,Activo
+191,"MYA 61592","Multimedios, S.A. de C.V.",AD073/18,"Sin orden de compra",2018,enero-marzo,305735.98,87_MULTIMEDIOS.PDF,,2018-03-30,Activo
+192,"MYA 61589","Multimedios, S.A. de C.V.",AD073/18,"Sin orden de compra",2018,enero-marzo,491619.60,88_MULTIMEDIOS.PDF,,2018-03-30,Activo
+193,B11,"SUEÑOS y REALIDADES",AD074/18,"Sin orden de compra",2018,enero-marzo,18000.00,,,2018-04-04,Activo
+194,"MYA 61590","Multimedios, S.A. de C.V.",AD073/18,"Sin orden de compra",2018,enero-marzo,402453.30,89_MULTIMEDIOS.PDF,,2018-03-30,Activo
+195,B10,"SUEÑOS y REALIDADES",AD074/18,"Sin orden de compra",2018,enero-marzo,18000.00,91_PEDRO_JAVIER_ONTIVEROS_BLANCO.PDF,,2018-03-27,Activo
+196,B12,"SUEÑOS y REALIDADES",AD074/18,"Sin orden de compra",2018,enero-marzo,18960.00,92_PEDRO_JAVIER_ONTIVEROS_BLANCO.PDF,,2018-04-04,Activo
+197,-191,"Recuperadora Ambiental Del Norte S de Rl de Cv",AD075/18,"Sin orden de compra",2018,enero-marzo,112000.00,93_RECUPERADORA_AMBIENTAN_DEL_NORTE.PDF,,2018-03-26,Activo
+198,-192,"Recuperadora Ambiental Del Norte S de Rl de Cv",AD075/18,"Sin orden de compra",2018,enero-marzo,140000.00,94_RECUPERADORA_AMBIENTAN_DEL_NORTE.PDF,,2018-03-06,Activo
+199,-193,"Recuperadora Ambiental Del Norte S de Rl de Cv",AD075/18,"Sin orden de compra",2018,enero-marzo,84000.00,95_RECUPERADORA_AMBIENTAN_DEL_NORTE.PDF,,2018-03-26,Activo
+200,200,"Fénix Comunicaciones, S.A. de C.V.",AD076/18,"Sin orden de compra",2018,enero-marzo,25000.00,96_FENIX_COMUNICACIONES.PDF,,2018-03-28,Activo
+201,199,"Fénix Comunicaciones, S.A. de C.V.",AD076/18,"Sin orden de compra",2018,enero-marzo,50000.00,97_FENIX_COMUNICACIONES.PDF,,2018-03-28,Activo
+202,198,"Fénix Comunicaciones, S.A. de C.V.",AD076/18,"Sin orden de compra",2018,enero-marzo,25000.00,98_FENIX_COMUNICACIONES.PDF,,2018-03-28,Activo
+203,183,www.circulorojo.com.mx,AD077/18,"Sin orden de compra",2018,enero-marzo,63200.00,99_MARIA_ANDREA_MEDINA_MONTELONGO.PDF,,2018-03-26,Activo
+204,184,www.circulorojo.com.mx,AD077/18,"Sin orden de compra",2018,enero-marzo,47400.00,100_MARIA_ANDREA_MEDINA_MONTELONGO.PDF,,2018-03-26,Activo
+205,186,www.circulorojo.com.mx,AD077/18,"Sin orden de compra",2018,enero-marzo,63200.00,101_MARIA_ANDREA_MEDINA_MONTELONGO.PDF,,2018-03-28,Activo
+206,8152,NOTITODO,AD078/18,"Sin orden de compra",2018,enero-marzo,14450.00,102_ALEJANDRA_JUAREZ_PADILLA.PDF,,2018-03-28,Activo
+207,05DF,NOTITODO,AD078/18,"Sin orden de compra",2018,enero-marzo,28900.00,103_ALEJANDRA_JUAREZ_PADILLA.PDF,,2018-03-26,Activo
+208,EDAA,NOTITODO,AD078/18,"Sin orden de compra",2018,enero-marzo,14450.00,104_ALEJANDRA_JUAREZ_PADILLA_1.PDF,,2018-03-23,Activo
+209,26,www.elpuntero.com.mx,AD111/18,"Sin orden de compra",2018,enero-marzo,79800.00,105_XOCHITL_JASMIN_GARCIA_GOMEZ.PDF,,2018-03-27,Activo
+210,-25,www.elpuntero.com.mx,AD111/18,"Sin orden de compra",2018,enero-marzo,69800.01,5f1b296aca044_106_XOCHITL_JASMIN_GARCIA_GOMEZ.PDF,,2018-03-27,Activo
+211,-24,www.elpuntero.com.mx,AD111/18,"Sin orden de compra",2018,enero-marzo,49800.01,107_XOCHITL_JASMIN_GARCIA_GOMEZ.PDF,,2018-03-27,Activo
+212,AXAB0000204722,"Cia. Periodística El Sol de Chihuahua, S.A. de C.V.",AD114/18,"Sin orden de compra",2018,enero-marzo,2219352.58,108_CIA._PERIODISTICA_EL_SOL_DE_CHIHUAHUA.PDF,,2018-03-28,Activo
+213,"FEC - 1696","Roger Sistemas Exteriores, S. de R.L. de C.V.",AD115/18,"Sin orden de compra",2018,enero-marzo,194999.95,109_ROGER_SISTEMAS_EXTERIORES.PDF,,2018-03-28,Activo
+214,A656,"Imprenta Siglo XXV, S.A. de C.V.",AD010/18,"Sin orden de compra",2018,enero-marzo,116000.00,3_IMPRENTA_SIGLO_XXV.PDF,,2018-02-13,Activo
+215,A660,"Imprenta Siglo XXV, S.A. de C.V.",AD010/18,"Sin orden de compra",2018,enero-marzo,232000.00,4_IMPRENTA_SIGLO_XXV.PDF,,2018-02-19,Activo
+216,2,"Unidad Corporativa de Televisión, S.A. de C.V.",AD035/18,"Sin orden de compra",2018,enero-marzo,638000.00,5_UNIDAD_CORPORATIVA_DE_TELEVISION.PDF,,2018-02-26,Activo
+217,01,"Unidad Corporativa de Televisión, S.A. de C.V.",AD035/18,"Sin orden de compra",2018,enero-marzo,630750.00,5f1e2d64284a1_6_UNIDAD_CORPORATIVA_DE_TELEVISION.PDF,,2018-02-26,Activo
+218,41CF,www.alcontacto.com.mx,AD036/18,"Sin orden de compra",2018,enero-marzo,49999.99,7_GLORIA_IVETH_PORRAS_LOYA.PDF,,2018-03-28,Activo
+219,A64E,www.alcontacto.com.mx,AD036/18,"Sin orden de compra",2018,enero-marzo,49999.99,8_GLORIA_IVETH_PORRAS_LOYA.PDF,,2018-03-28,Activo
+220,53CC,www.alcontacto.com.mx,AD036/18,"Sin orden de compra",2018,enero-marzo,25000.00,9_GLORIA_IVETH_PORRAS_LOYA.PDF,,2018-03-28,Activo
+221,DCFF,WWW.PAUSA.MX,AD038/18,"Sin orden de compra",2018,enero-marzo,24000.00,13_VALENTIN_JUAN_CARLOS_ESTRADA_LUEVANO.PDF,,2018-03-27,Activo
+222,3899,WWW.PAUSA.MX,AD038/18,"Sin orden de compra",2018,enero-marzo,24000.00,14_VALENTIN_JUAN_CARLOS_ESTRADA_LUEVANO.PDF,,2018-03-27,Activo
+223,66CA,WWW.PAUSA.MX,AD038/18,"Sin orden de compra",2018,enero-marzo,12000.00,15_VALENTIN_JUAN_CARLOS_ESTRADA_LUEVANO.PDF,,2018-03-27,Activo
+224,4E5E,WWW.MASNOTICIAS.NET,AD039/18,"Sin orden de compra",2018,enero-marzo,41664.00,16_ROGELIO_GUTIERREZ_ACOSTA.PDF,,2018-03-29,Activo
+225,296A,WWW.MASNOTICIAS.NET,AD039/18,"Sin orden de compra",2018,enero-marzo,41664.00,17_ROGELIO_GUTIERREZ_ACOSTA.PDF,,2018-03-28,Activo
+226,A843,WWW.MASNOTICIAS.NET,AD039/18,"Sin orden de compra",2018,enero-marzo,41664.00,18_ROGELIO_GUTIERREZ_ACOSTA.PDF,,2018-03-28,Activo
+227,12,"Analistas del Florido, S.A. de C.V.",AD040/18,"Sin orden de compra",2018,enero-marzo,33332.00,19_ANALISTAS_DEL_FLORIDO.PDF,,2018-03-28,Activo
+228,13,"Analistas del Florido, S.A. de C.V.",AD040/18,"Sin orden de compra",2018,enero-marzo,49998.00,20_ANALISTAS_DEL_FLORIDO.PDF,,2018-03-28,Activo
+229,14,"Analistas del Florido, S.A. de C.V.",AD040/18,"Sin orden de compra",2018,enero-marzo,66664.00,21_ANALISTAS_DEL_FLORIDO.PDF,,2018-03-28,Activo
+230,18,noticiasaldia.com.mx,AD041/18,"Sin orden de compra",2018,abril-junio,25000.00,22_HECTOR_MANUEL_BERNAL_AMEZCUA.PDF,,2018-04-17,Activo
+231,17,noticiasaldia.com.mx,AD041/18,"Sin orden de compra",2018,abril-junio,15000.00,23_HECTOR_MANUEL_BERNAL_AMEZCUA.PDF,,2018-04-17,Activo
+232,19,noticiasaldia.com.mx,AD041/18,"Sin orden de compra",2018,abril-junio,25000.00,24_HECTOR_MANUEL_BERNAL_AMEZCUA.PDF,,2018-04-17,Activo
+233,7B79,"Jessica Arely Medina Valerio",AD042/18,"Sin orden de compra",2018,enero-marzo,78000.00,25_JESSICA_ARELY_MEDINA_VALERIO.PDF,,2018-03-26,Activo
+234,9674,"Jessica Arely Medina Valerio",AD042/18,"Sin orden de compra",2018,enero-marzo,60000.00,26_JESSICA_ARELY_MEDINA_VALERIO.PDF,,2018-03-26,Activo
+235,1A9C,"Jessica Arely Medina Valerio",AD042/18,"Sin orden de compra",2018,enero-marzo,60000.00,27_JESSICA_ARELY_MEDINA_VALERIO.PDF,,2018-03-26,Activo
+236,125,"LA PARADA DIGITAL",AD043/18,"Sin orden de compra",2018,enero-marzo,41700.00,28_ALEJANDRA_JUAREZ_PADILLA.PDF,,2018-03-27,Activo
+237,127,"LA PARADA DIGITAL",AD043/18,"Sin orden de compra",2018,enero-marzo,41600.00,29_ALEJANDRA_JUAREZ_PADILLA.PDF,,2018-03-28,Activo
+238,126,"LA PARADA DIGITAL",AD043/18,"Sin orden de compra",2018,enero-marzo,41700.00,30_ALEJANDRA_JUAREZ_PADILLA.PDF,,2018-03-27,Activo
+239,243,"La Ventana del Juicio.mx",AD049/18,"Sin orden de compra",2018,enero-marzo,51300.71,31_ESTABAN_SALMON.PDF,,2018-03-27,Activo
+240,241,"La Ventana del Juicio.mx",AD049/18,"Sin orden de compra",2018,enero-marzo,38940.00,32_ESTEBAN_SALMON.PDF,,2018-03-27,Activo
+241,242,"La Ventana del Juicio.mx",AD049/18,"Sin orden de compra",2018,enero-marzo,48700.75,33_ESTEBAN_SALMON.PDF,,2018-03-27,Activo
+242,204,"Comunicación Futura, S.A. de C.V.",AD050/18,"Sin orden de compra",2018,enero-marzo,47199.87,34_COMUNICACION_FUTURA.PDF,,2018-03-31,Activo
+243,203,"Comunicación Futura, S.A. de C.V.",AD050/18,"Sin orden de compra",2018,enero-marzo,99199.72,35_COMUNICACION_FUTURA.PDF,,2018-03-31,Activo
+244,202,"Comunicación Futura, S.A. de C.V.",AD050/18,"Sin orden de compra",2018,enero-marzo,52799.78,36_COMUNICACION_FUTURA.PDF,,2018-03-31,Activo
+245,7480,"NOTICIERO CHIHUAHUA DIGITAL",AD051/18,"Sin orden de compra",2018,enero-marzo,127700.00,37_MAYELA_CRISTINA_JIMENEZ_ALVIDREZ.PDF,,2018-03-23,Activo
+246,5495,"NOTICIERO CHIHUAHUA DIGITAL",AD051/18,"Sin orden de compra",2018,enero-marzo,46000.00,38_MAYELA_CRISTINA_JIMENEZ_ALVIDREZ.PDF,,2018-03-23,Activo
+247,C086,"ANTENA DEPORTIVA",AD052/18,"Sin orden de compra",2018,abril-junio,45200.00,39_PEDRO_GERMAN_ZAVALA_ORNELAS.PDF,,2018-04-17,Activo
+248,B86F,"ANTENA DEPORTIVA",AD052/18,"Sin orden de compra",2018,abril-junio,45250.00,40_PEDRO_GERMAN_ZAVALA_ORNELAS.PDF,,2018-04-17,Activo
+249,7CCD,"ANTENA DEPORTIVA",AD052/18,"Sin orden de compra",2018,abril-junio,59450.00,41_PEDRO_GERMAN_ZAVALA_ORNELAS.PDF,,2018-04-17,Activo
+250,270,"""No le cambie""",AD053/18,"Sin orden de compra",2018,enero-marzo,128500.01,42_JUAN_ENRIQUE_LOPEZ_AGUIRRE.PDF,,2018-03-27,Activo
+251,82AB,"""No le cambie""",AD053/18,"Sin orden de compra",2018,abril-junio,172116.01,43_JUAN_ENRIQUE_LOPEZ_AGUIRRE.PDF,,2018-04-14,Activo
+252,282,"""No le cambie""",AD053/18,"Sin orden de compra",2018,abril-junio,151768.00,44_JUAN_ENRIQUE_LOPEZ_AGUIRRE.PDF,,2018-04-17,Activo
+253,301,"ASERTO RADIO",AD054/18,"Sin orden de compra",2018,enero-marzo,84148.68,45_LUIS_JAVIER_VALERO_FLORES.PDF,,2018-03-27,Activo
+254,300,"ASERTO RADIO",AD054/18,"Sin orden de compra",2018,enero-marzo,51019.06,46_LUIS_JAVIER_VALERO_FLORES.PDF,,2018-03-27,Activo
+255,274,"Nueva Línea Comunicación, S.C.",AD055/18,"Sin orden de compra",2018,enero-marzo,58590.00,47_NUEVA_LINEA_COMUNICACION.PDF,,2018-03-28,Activo
+256,277,"Nueva Línea Comunicación, S.C.",AD055/18,"Sin orden de compra",2018,enero-marzo,68160.00,48_NUEVA_LINEA_COMUNICACION.PDF,,2018-03-28,Activo
+257,276,"Nueva Línea Comunicación, S.C.",AD055/18,"Sin orden de compra",2018,enero-marzo,50720.00,49_NUEVA_LINEA_COMUNICACION.PDF,,2018-03-28,Activo
+258,001,"""Expectativa Noticias""",AD056/18,"Sin orden de compra",2018,enero-marzo,65250.00,50_VICTOR_HUGO_VALLES_RIVAS.PDF,,2018-03-26,Activo
+259,03,"""Expectativa Noticias""",AD056/18,"Sin orden de compra",2018,enero-marzo,39949.88,51_VICTOR_HUGO_VALLES_RIVAS.PDF,,2018-03-26,Activo
+260,02,"""Expectativa Noticias""",AD056/18,"Sin orden de compra",2018,enero-marzo,94250.00,52_VICTOR_HUGO_VALLES_RIVAS.PDF,,2018-03-26,Activo
+261,"FEC - 1698","Roger Sistemas Exteriores, S. de R.L. de C.V.",AD115/18,"Sin orden de compra",2018,enero-marzo,203999.99,110_ROGER_SISTEMAS_EXTERIORES.PDF,,2018-03-28,Activo
+262,"FEC - 1697","Roger Sistemas Exteriores, S. de R.L. de C.V.",AD115/18,"Sin orden de compra",2018,enero-marzo,201000.00,111_ROGER_SISTEMAS_EXTERIORES.PDF,,2018-03-28,Activo
+263,4F44,"NN NUESTRAS NOTICIAS",AD117/18,"Sin orden de compra",2018,enero-marzo,70407.77,112_FRANCISCO_JOSE_ALVAREZ_ITUARTE.PDF,,2018-03-27,Activo
+264,A1D6,"NN NUESTRAS NOTICIAS",AD117/18,"Sin orden de compra",2018,enero-marzo,61434.31,113_FRANCISCO_JOSE_ALVAREZ_ITUARTE.PDF,,2018-03-27,Activo
+265,A-3722,"Radio Juarense, S.A. de C.V.",AD118/18,"Sin orden de compra",2018,enero-marzo,17400.00,114_RADIO_JUARENSE.PDF,,2018-03-27,Activo
+266,A-3721,"Radio Juarense, S.A. de C.V.",AD118/18,"Sin orden de compra",2018,enero-marzo,29999.99,115_RADIO_JUARENSE.PDF,,2018-03-27,Activo
+267,A-3720,"Radio Juarense, S.A. de C.V.",AD118/18,"Sin orden de compra",2018,enero-marzo,57000.00,116_RADIO_JUARENSE.PDF,,2018-03-27,Activo
+268,161,elresumen.net,AD121/18,"Sin orden de compra",2018,enero-marzo,20000.00,5f1efcfbed5ef_116_RADIO_JUARENSE.PDF,,2018-03-27,Activo
+269,162,elresumen.net,AD121/18,"Sin orden de compra",2018,enero-marzo,20000.00,,,2018-03-27,Activo
+270,163,elresumen.net,AD121/18,"Sin orden de compra",2018,enero-marzo,10000.00,119_JUAN_MANUEL_BARRIENTOS_MARQUEZ.PDF,,2018-03-27,Activo
+271,"PRC 11285","Promotora de Radio de Chihuahua, S.A. de C.V.",AD122/18,"Sin orden de compra",2018,enero-marzo,237846.40,120_PROMOTORA_DE_RADIO_DE_CHIHUAHUA.PDF,,2018-03-27,Activo
+272,"PRC 11284","Promotora de Radio de Chihuahua, S.A. de C.V.",AD122/18,"Sin orden de compra",2018,enero-marzo,223184.00,121_PROMOTORA_DE_RADIO_DE_CHIHUAHUA.PDF,,2018-03-27,Activo
+273,"PRC 11283","Promotora de Radio de Chihuahua, S.A. de C.V.",AD122/18,"Sin orden de compra",2018,enero-marzo,238844.00,122_PROMOTORA_DE_RADIO_DE_CHIHUAHUA.PDF,,2018-03-27,Activo
+274,413,"Omnia Comunicaciones, S. de R.L. de C.V.",AD123/18,"Sin orden de compra",2018,enero-marzo,45714.28,123_OMNIA_COMUNICACIONES.PDF,,2018-03-27,Activo
+275,414,"Omnia Comunicaciones, S. de R.L. de C.V.",AD123/18,"Sin orden de compra",2018,enero-marzo,55714.28,124_OMNIA_COMUNICACIONES.PDF,,2018-03-27,Activo
+276,"B 375","Grupo Grg Efectimedios, S.A. de C.V.",AD248/18,"Sin orden de compra",2018,abril-junio,466488.80,125_GRUPO_GRG_EFECTIMEDIOS.PDF,,2018-06-06,Activo
+277,"PDCR / 53525","Publicaciones del Chuviscar, S.A. de C.V.",AD357/18,"Sin orden de compra",2018,octubre-diciembre,257928.89,126_PUBLICACIONES_DEL_CHUVISCAR.PDF,,2018-12-05,Activo
+278,"PDCR / 52889","Publicaciones del Chuviscar, S.A. de C.V.",AD357/18,"Sin orden de compra",2018,octubre-diciembre,612071.11,5f1f06a99c0f2_127_PUBLICACIONES_DEL_CHUVISCAR.PDF,,2018-10-11,Activo
+279,236,"Consultores en Comunicación y Medios Masivos, S.A. de C.V.",AD307/18,"Sin orden de compra",2018,octubre-diciembre,326300.00,128_CONSULTORES_EN_COMUNICACION_Y_MEDIOS_MASIVOS.PDF,,2018-11-22,Activo
+280,235,"Consultores en Comunicación y Medios Masivos, S.A. de C.V.",AD307/18,"Sin orden de compra",2018,octubre-diciembre,426700.00,129_CONSULTORES_EN_COMUNICACION_Y_MEDIOS_MASIVOS.PDF,,2018-11-11,Activo
+281,755,"Imprenta Siglo XXV, S.A. de C.V.",AD319/18,"Sin orden de compra",2018,octubre-diciembre,350399.99,130_IMPRENTA_SIGLO_XXV.PDF,,2018-11-21,Activo
+282,747,"Imprenta Siglo XXV, S.A. de C.V.",AD319/18,"Sin orden de compra",2018,octubre-diciembre,649600.00,131_IMPRENTA_SIGLO_XXV.PDF,,2018-10-23,Activo
+283,"MYA 68950","Multimedios, S.A. de C.V.",AD322/18,"Sin orden de compra",2018,octubre-diciembre,573234.88,132_MULTIMEDIOS.PDF,,2018-11-26,Activo
+284,"MYA 68951","Multimedios, S.A. de C.V.",AD322/18,"Sin orden de compra",2018,octubre-diciembre,626574.00,133_MULTIMEDIOS.PDF,,2018-11-26,Activo
+285,"A 2142","Radio Impulsora X.E.E., S.A",AD323/18,"Sin orden de compra",2018,octubre-diciembre,324092.40,134_RADIO_IMPULSORA_X.E.E.PDF,,2018-11-08,Activo
+286,"A 2140","Radio Impulsora X.E.E., S.A",AD323/18,"Sin orden de compra",2018,octubre-diciembre,300765.80,135_RADIO_IMPULSORA_X.E.E.PDF,,2018-11-01,Activo
+287,"RL 7935","Radio Lobo, S.A. de C.V.",AD328/18,"Sin orden de compra",2018,octubre-diciembre,450139.53,138_RADIO_LOBO.PDF,,2018-10-31,Activo
+288,"RL 7960","Radio Lobo, S.A. de C.V.",AD328/18,"Sin orden de compra",2018,octubre-diciembre,364238.66,139_RADIO_LOBO.PDF,,2018-11-06,Activo
+289,"PRC 12715","Promotora de Radio de Chihuahua, S.A. de C.V.",AD332/18,"Sin orden de compra",2018,octubre-diciembre,325796.00,140_PROMOTORA_DE_RADIO_DE_CHIHUAHUA.PDF,,2018-11-14,Activo
+290,"PRC 12604","Promotora de Radio de Chihuahua, S.A. de C.V.",AD332/18,"Sin orden de compra",2018,octubre-diciembre,373984.00,141_PROMOTORA_DE_RADIO_DE_CHIHUAHUA.PDF,,2018-10-30,Activo
+291,APAB000011306,"Cia. Periodística El Sol de Chihuahua, S.A. de C.V.",AD340/18,"Sin orden de compra",2018,octubre-diciembre,1774308.30,142_CIA._PERIODISTICA_EL_SOL_DE_CHIHUAHUA.PDF,,2018-11-07,Activo
+292,AXAB000215004,"Cia. Periodística El Sol de Chihuahua, S.A. de C.V.",AD340/18,"Sin orden de compra",2018,octubre-diciembre,445044.28,143_CIA._PERIODISTICA_EL_SOL_DE_CHIHUAHUA.PDF,,2018-11-12,Activo
+293,GF-32546,"Televisora de Occidente, S.A. de C.V.",AD347/18,"Sin orden de compra",2018,octubre-diciembre,2319420.00,144_TELEVISORA_DE_OCCIDENTE.PDF,,2018-11-27,Activo
+294,61,"Unidad Corporativa de Televisión, S.A. de C.V.",AD353/18,"Sin orden de compra",2018,octubre-diciembre,482850.00,145_UNIDAD_CORPORATIVA_DE_TELEVISION.PDF,,2018-11-21,Activo
+295,62,"Unidad Corporativa de Televisión, S.A. de C.V.",AD353/18,"Sin orden de compra",2018,octubre-diciembre,1355750.00,146_UNIDAD_CORPORATIVA_DE_TELEVISION.PDF,,2018-11-21,Activo
+296,"EH 5996","Tv Azteca, S.A.B. de C.V.",AD354/18,"Sin orden de compra",2018,octubre-diciembre,998500.00,147_TV_AZTECA.PDF,,2018-11-21,Activo
+297,-6,"Jesús Antonio Pérez Rodríguez",AD247-2018,"Sin orden de compra",2018,julio-septiembre,160660.00,,,2018-08-30,Activo
+298,-7,"Jesús Antonio Pérez Rodríguez",AD247-2018,"Sin orden de compra",2018,julio-septiembre,160660.00,149_JESUS_ANTONIO_PEREZ_RODRIGUEZ.PDF,,2018-08-30,Activo
+299,"CCH 1985","Comunicaciones Chihua, S.A. de C.V.",AD064/18,"Sin orden de compra",2018,enero-marzo,246184.57,150_COMUNICACIONES_CHIHUA.PDF,,2018-03-22,Activo
+300,"CCH 1984","Comunicaciones Chihua, S.A. de C.V.",AD064/18,"Sin orden de compra",2018,enero-marzo,235146.85,151_COMUNICACIONES_CHIHUA.PDF,,2018-03-22,Activo
+301,"CCH 1983","Comunicaciones Chihua, S.A. de C.V.",AD064/18,"Sin orden de compra",2018,enero-marzo,183559.20,152_COMUNICACIONES_CHIHUA.PDF,,2018-03-22,Activo
+302,025,www.lajiribilla.com.mx,AD057/18,"Sin orden de compra",2018,abril-junio,41666.64,53_AURORA_MONTERDE_FERNANDEZ.PDF,,2018-04-04,Activo
+303,23,www.lajiribilla.com.mx,AD057/18,"Sin orden de compra",2018,abril-junio,41666.67,54_AURORA_MONTERDE_FERNANDEZ.PDF,,2018-04-04,Activo
+304,024,www.lajiribilla.com.mx,AD057/18,"Sin orden de compra",2018,abril-junio,41666.67,55_AURORA_MONTERDE_FERNANDEZ.PDF,,2018-04-04,Activo
+305,1665,"Editorial E Imagen Publica, S.A. de C.V.",AD058/18,"Sin orden de compra",2018,enero-marzo,95000.00,56_EDITORIAL_E_IMAGEN_PUBLICA.PDF,,2018-03-27,Activo
+306,1664,"Editorial E Imagen Publica, S.A. de C.V.",AD058/18,"Sin orden de compra",2018,enero-marzo,98600.00,57_EDITORIAL_E_IMAGEN_PUBLICA.PDF,,2018-03-27,Activo
+307,1667,"Editorial E Imagen Publica, S.A. de C.V.",AD058/18,"Sin orden de compra",2018,enero-marzo,157083.33,58_EDITORIAL_E_IMAGEN_PUBLICA.PDF,,2018-03-27,Activo
+308,134,"AA Print, S.A. de C.V.",AD060/18,"Sin orden de compra",2018,enero-marzo,74999.97,59_AA_PRINT.PDF,,2018-03-27,Activo
+309,133,"AA Print, S.A. de C.V.",AD060/18,"Sin orden de compra",2018,enero-marzo,99999.96,60_AA_PRINT.PDF,,2018-03-27,Activo
+310,132,"AA Print, S.A. de C.V.",AD060/18,"Sin orden de compra",2018,enero-marzo,175000.00,61_AA_PRINT.PDF,,2018-03-22,Activo
+311,188,"Consultores en Comunicación y Medios Masivos, S.A. de C.V.",AD062/18,"Sin orden de compra",2018,abril-junio,391200.00,5f6e2eac78de7_62_CONSULTORES_EN_COMUNICACION_Y_MEDIOS_MASIVOS.PDF,,2018-04-03,Activo
+312,187,"Consultores en Comunicación y Medios Masivos, S.A. de C.V.",AD062/18,"Sin orden de compra",2018,abril-junio,100400.00,63_CONSULTORES_EN_COMUNICACION_Y_MEDIOS_MASIVOS.PDF,,2018-04-03,Activo
+313,"RL 7449","Radio Lobo, S.A. de C.V.",AD063/18,"Sin orden de compra",2018,enero-marzo,282176.47,64_RADIO_LOBO.PDF,,2018-03-22,Activo
+314,"RL 7448","Radio Lobo, S.A. de C.V.",AD063/18,"Sin orden de compra",2018,enero-marzo,302331.80,65_RADIO_LOBO.PDF,,2018-03-22,Activo
+315,"RL 7447","Radio Lobo, S.A. de C.V.",AD063/18,"Sin orden de compra",2018,enero-marzo,230348.80,66_RADIO_LOBO.PDF,,2018-03-22,Activo
+316,1988,"Radio Impulsora X.E.E., S.A",AD065/18,"Sin orden de compra",2018,enero-marzo,142227.60,67_RADIO_IMPULSORA_X.E.E.PDF,,2018-03-31,Activo
+317,1990,"Radio Impulsora X.E.E., S.A",AD065/18,"Sin orden de compra",2018,enero-marzo,251812.80,68_RADIO_IMPULSORA_X.E.E.PDF,,2018-03-31,Activo
+318,1989,"Radio Impulsora X.E.E., S.A",AD065/18,"Sin orden de compra",2018,enero-marzo,230828.40,69_RADIO_IMPULSORA_X.E.E.PDF,,2018-03-31,Activo
+319,"12707 CHI","Nueva Era Radio de Chihuahua, S.A. de C.V.",AD066/18,"Sin orden de compra",2018,abril-junio,155904.00,70_NUEVA_ERA_RADIO_DE_CHIHUAHUA.PDF,,2018-04-17,Activo
+320,"12709 CHI","Nueva Era Radio de Chihuahua, S.A. de C.V.",AD066/18,"Sin orden de compra",2018,abril-junio,213718.40,71_NUEVA_ERA_RADIO_DE_CHIHUAHUA.PDF,,2018-04-17,Activo
+321,"12708 CHI","Nueva Era Radio de Chihuahua, S.A. de C.V.",AD066/18,"Sin orden de compra",2018,abril-junio,180264.00,72_NUEVA_ERA_RADIO_DE_CHIHUAHUA.PDF,,2018-04-17,Activo
+322,-335,"Especialistas en Comunicación Integral, S.A. de C.V.",AD067/18,"Sin orden de compra",2018,enero-marzo,74990.00,73_ESPECIALISTAS_EN_COMUNICACION_INTEGRAL.PDF,,2018-03-28,Activo
+323,-334,"Especialistas en Comunicación Integral, S.A. de C.V.",AD067/18,"Sin orden de compra",2018,enero-marzo,46800.00,74_ESPECIALISTAS_EN_COMUNICACION_INTEGRAL.PDF,,2018-03-28,Activo
+324,231,"Expreseditores, S.A. de C.V.",AD069/18,"Sin orden de compra",2018,enero-marzo,30000.00,75_EXPRESEDITORES.PDF,,2018-03-28,Activo
+325,F8F5,www.elpuntero.com.mx,AD117/2020,"Sin orden de compra",2020,abril-junio,101500.00,AD117-2020_XOCHITLGOMEZ-2.PDF,,2020-06-16,Activo
+326,234,"Periodismo Referente, S. de R.L. de C.V.",AD037/18,"Sin orden de compra",2018,enero-marzo,71760.00,10_REFERENTE.PDF,,2018-03-27,Activo
+327,-235,"Periodismo Referente, S. de R.L. de C.V.",AD037/18,"Sin orden de compra",2018,enero-marzo,143520.00,11_REFERENTE.PDF,,2018-03-27,Activo
+328,-236,"Periodismo Referente, S. de R.L. de C.V.",AD037/18,"Sin orden de compra",2018,enero-marzo,109700.00,12_REFERENTE.PDF,,2018-03-27,Activo
+329,-337,"Antena 102.5",AD324/18,"Sin orden de compra",2018,octubre-diciembre,229332.00,136_JUAN_ENRIQUE.PDF,,2018-11-07,Activo
+330,338,"Antena 102.5",AD324/18,"Sin orden de compra",2018,octubre-diciembre,224924.00,137_JUAN_ENRIQUE.PDF,,2018-11-12,Activo
+331,367,"Merboca, S.A. de C.V.","AD 068/18","Sin orden de compra",2018,enero-marzo,23333.33,153_154_Y_155_MERBOCA-1.PDF,,2018-03-26,Activo
+332,365,"Merboca, S.A. de C.V.","AD 068/18","Sin orden de compra",2018,enero-marzo,23333.33,153_154_Y_155_MERBOCA-2.PDF,,2018-03-26,Activo
+333,366,"Merboca, S.A. de C.V.","AD 068/18","Sin orden de compra",2018,enero-marzo,23333.33,153_154_Y_155_MERBOCA-3.PDF,,2018-03-26,Activo
+334,1243,"Now New Media S.A.P.I de C.V.",AD119/2020,"Sin orden de compra",2020,abril-junio,320000.00,AD119-2020_NOWNEWMEDIA.PDF,,2020-06-18,Activo
+335,85198,"Multimedios, S.A. de C.V.",AD052/2020,"Sin orden de compra",2020,abril-junio,957858.01,AD052-2020_MULTIMEDIOSRADIO-1.PDF,,2020-06-16,Activo
+336,84530,"Multimedios, S.A. de C.V.",AD052/2020,"Sin orden de compra",2020,abril-junio,642620.00,AD052-2020MULTIMEDIOSRADIO-2.PDF,,2020-05-14,Activo
+337,"A 2455","Radio Impulsora X.E.E., S.A",AD053/2020,"Sin orden de compra",2020,abril-junio,380329.79,AD053-2020RADIOIMPULSORA2441-1.PDF,,2020-06-15,Activo
+338,34-,noticiasaldia.com.mx,AD120/2020,"Sin orden de compra",2020,abril-junio,40080.00,AD120-2020_HECTORMANUELBERNAL-1.PDF,,2020-06-17,Activo
+339,"A 2441","Radio Impulsora X.E.E., S.A",AD053/2020,"Sin orden de compra",2020,abril-junio,255499.86,AD053-2020RADIOIMPULSORA2441-2.PDF,,2020-04-23,Activo
+340,32-,noticiasaldia.com.mx,AD120/2020,"Sin orden de compra",2020,abril-junio,34800.00,AD-120-2020_HECTORMANUELBERNAL-2.PDF,,2020-05-13,Activo
+341,406,WWW.PAUSA.MX,AD121/2020,"Sin orden de compra",2020,abril-junio,50112.00,AD121-2020-CONSORCIO_EMPRESARIAL_ADPL_S.A.P.I._DE_C.V.-1.PDF,,2020-06-01,Activo
+342,B85C,"NN NUESTRAS NOTICIAS",AD054/2020,"Sin orden de compra",2020,abril-junio,152197.08,AD054-2020FRANCISCOALVAREZ_2-1.PDF,,2020-06-16,Activo
+343,410,WWW.PAUSA.MX,AD121/2020,"Sin orden de compra",2020,abril-junio,19008.00,AD121-2020-CONSORCIO_EMPRESARIAL_ADPL_S.A.P.I._DE_C.V.-2.PDF,,2020-06-18,Activo
+344,CBAF,"NN NUESTRAS NOTICIAS",AD054/2020,"Sin orden de compra",2020,abril-junio,101220.00,AD054-2020FRANCISCOALVAREZ_2-2.PDF,,2020-05-04,Activo
+345,GE49281,"Expansión, S.A. de C.V.",AD123/2020,"Sin orden de compra",2020,abril-junio,400000.00,AD0123-2020_EXPANSION.PDF,,2020-06-26,Activo
+346,"RL 8794","Radio Lobo, S.A. de C.V.",AD055/2020,"Sin orden de compra",2020,abril-junio,325003.12,AD055-2020-RADIO_LOBO_S.A._DE_C.V.-1.PDF,,2020-04-22,Activo
+347,-226,"Recuperadora Ambiental Del Norte S de Rl de Cv",AD124/2020,"Sin orden de compra",2020,abril-junio,900480.00,AD0124-2020_RECUPERADORAAMBIENTALF226.PDF,,2020-06-04,Activo
+348,"RL 8847","Radio Lobo, S.A. de C.V.",AD055/2020,"Sin orden de compra",2020,abril-junio,496372.80,AD055-2020-RADIO_LOBO_S.A._DE_C.V.-2.PDF,,2020-06-16,Activo
+349,192-,"AA Print, S.A. de C.V.",AD125/2020,"Sin orden de compra",2020,abril-junio,999999.99,AD125-2020-AA_PRINT_S.A._DE_C.V.-1.PDF,,2020-06-22,Activo
+350,"55 FCH","Radioflash del Norte, S.A. de C.V.",AD056/2020,"Sin orden de compra",2020,abril-junio,413144.00,AD056-2020RADIOFLASH55-1.PDF,,2020-04-24,Activo
+351,C243,"Jessica Arely Medina Valerio",AD126/2020,"Sin orden de compra",2020,abril-junio,190080.00,AD0126-2020_JESSICAMEDINA.PDF,,2020-06-04,Activo
+352,"PRC 15199","Promotora de Radio de Chihuahua, S.A. de C.V.",AD057/2020,"Sin orden de compra",2020,abril-junio,396720.00,AD057-2020PROMOTORADERADIO-1.PDF,,2020-05-11,Activo
+353,"PRC 15290","Promotora de Radio de Chihuahua, S.A. de C.V.",AD057/2020,"Sin orden de compra",2020,abril-junio,562945.68,AD057-2020PROMOTORADERADIO-2.PDF,,2020-06-15,Activo
+354,"CCH 3315","Comunicaciones Chihua, S.A. de C.V.",AD058/2020,"Sin orden de compra",2020,abril-junio,405672.30,AD058-2020-COMUNICACIONES_CHIHUA_S.A._DE_C.V.-1.PDF,,2020-06-16,Activo
+355,A-563,"Comercializadora Imation, S.A. de C.V.",AD127/2020,"Sin orden de compra",2020,abril-junio,650000.00,AD127-2020-COMERCIALIZADORA_IMATION_S.A._DE_C.V.-1.PDF,,2020-05-27,Activo
+356,"CCH 3258","Comunicaciones Chihua, S.A. de C.V.",AD058/2020,"Sin orden de compra",2020,abril-junio,264537.42,AD058-2020-COMUNICACIONES_CHIHUA_S.A._DE_C.V.-2.PDF,,2020-04-22,Activo
+357,A-582,"Comercializadora Imation, S.A. de C.V.",AD127/2020,"Sin orden de compra",2020,abril-junio,350000.00,AD127-2020-COMERCIALIZADORA_IMATION_S.A._DE_C.V.-2.PDF,,2020-06-12,Activo
+358,TOSCHI-1173,"Comercializadora Tosgon, S.A. de C.V.",AD059/2020,"Sin orden de compra",2020,abril-junio,288000.00,AD059-2020-COMERCIALIZADORA_TOSGON_S.A._DE_C.V.-1.PDF,,2020-06-19,Activo
+359,PD-846,"Plataforma en Difusión, S.A. de C.V.",AD060/2020,"Sin orden de compra",2020,abril-junio,149501.30,AD060-2020PLATENDIFF2-1.PDF,,2020-04-22,Activo
+360,PD-898,"Plataforma en Difusión, S.A. de C.V.",AD060/2020,"Sin orden de compra",2020,abril-junio,220498.70,AD060-2020PLATENDIFF2-2.PDF,,2020-06-15,Activo
+361,F2E8,"NOTICIERO CHIHUAHUA DIGITAL",AD069/2020,"Sin orden de compra",2020,abril-junio,161472.00,AD069-2020_MAYELAJIMENEZ-1.PDF,,2020-06-16,Activo
+362,9E92,"NOTICIERO CHIHUAHUA DIGITAL",AD069/2020,"Sin orden de compra",2020,abril-junio,106720.00,AD069-2020_MAYELAJIMENEZ-2.PDF,,2020-04-27,Activo
+363,"CAB 96","Cabafam, S.A. de C.V.",AD070/2020,"Sin orden de compra",2020,abril-junio,1107800.00,AD070-2020-CABAFAM_SA_DE_CV-1.PDF,,2020-06-12,Activo
+364,"CAB 85","Cabafam, S.A. de C.V.",AD070/2020,"Sin orden de compra",2020,abril-junio,748200.00,AD070-2020-CABAFAM_SA_DE_CV-2.PDF,,2020-04-27,Activo
+365,EH6898,"Tv Azteca, S.A.B. de C.V.",AD071/2020,"Sin orden de compra",2020,abril-junio,1154142.00,AD071-2020_TVAZTECA6862-1.PDF,,2020-06-15,Activo
+366,368,"El Pueblo Familiar, S.A. de C.V.",AD128/2020,"Sin orden de compra",2020,abril-junio,100000.00,AD0128-2020_ELPUEBLOPANTALLA-1.PDF,,2020-06-16,Activo
+367,EH6862,"Tv Azteca, S.A.B. de C.V.",AD071/2020,"Sin orden de compra",2020,abril-junio,765600.00,AD071-2020TVAZTECA6862-2.PDF,,2020-05-04,Activo
+368,363,"El Pueblo Familiar, S.A. de C.V.",AD128/2020,"Sin orden de compra",2020,abril-junio,80000.00,AD0128-2020ELPUEBLOPANTALLA-2.PDF,,2020-05-14,Activo
+369,16,"Unidad Corporativa de Televisión, S.A. de C.V.",AD072/2020,"Sin orden de compra",2020,abril-junio,2322900.00,AD072-2020_UNIDADCORPTV-1.PDF,,2020-06-15,Activo
+370,08,"Unidad Corporativa de Televisión, S.A. de C.V.",AD072/2020,"Sin orden de compra",2020,abril-junio,1548600.00,AD072-2020_UNIDADCORPTV-2.PDF,,2020-04-27,Activo
+371,GF-35944,"Televisora de Occidente, S.A. de C.V.",AD073/2020,"Sin orden de compra",2020,abril-junio,287100.00,AD073-2020_TELEVISORADELOCCIDENTE.PDF,,2020-06-05,Activo
+372,GF-35980,"Televisora de Occidente, S.A. de C.V.",AD073/2020,"Sin orden de compra",2020,abril-junio,352286.00,AD073-2020_TELEVISORADELOCCIDENTE-1.PDF,,2020-06-11,Activo
+373,GF-35855,"Televisora de Occidente, S.A. de C.V.",AD073/2020,"Sin orden de compra",2020,abril-junio,1054416.00,AD073-2020_TELEVISORADEOCCIDENTE-1.PDF,,2020-05-15,Activo
+374,GF-36001,"Televisora de Occidente, S.A. de C.V.",AD073/2020,"Sin orden de compra",2020,abril-junio,827809.80,AD073-2020_TELEVISORADEOCCIDENTE-2.PDF,,2020-06-12,Activo
+375,4,"""Expectativa Noticias""",AD074/2020,"Sin orden de compra",2020,abril-junio,117450.00,AD074-2020_VICTORHUGOVALLES-1.PDF,,2020-06-15,Activo
+376,"Hugo Valles 03","""Expectativa Noticias""",AD074/2020,"Sin orden de compra",2020,abril-junio,121800.00,5f57f0b742306_AD074-2020_VICTORHUGOVALLES-2.PDF,,2020-05-13,Activo
+377,"MYA 85189","Multimedios, S.A. de C.V.",AD075/2020,"Sin orden de compra",2020,abril-junio,1112559.00,AD075-2020MULTIMEDIOSTV-1.PDF,,2020-06-16,Activo
+378,"MYA 84554","Multimedios, S.A. de C.V.",AD075/2020,"Sin orden de compra",2020,abril-junio,743415.00,AD075-2020MULTIMEDIOSTV-2.PDF,,2020-05-14,Activo
+379,EF6A,"""No le cambie""",AD099/2020,"Sin orden de compra",2020,abril-junio,246999.99,,,2020-06-16,Activo
+380,745,"""No le cambie""",AD099/2020,"Sin orden de compra",2020,abril-junio,153000.00,AD099-2020_JUANENRIQUELOPEZ-2.PDF,,2020-05-14,Activo
+381,267,"La Ventana del Juicio.mx",AD100/2020,"Sin orden de compra",2020,abril-junio,60887.99,AD100-2020_ESTEBANSALMON-1.PDF,,2020-06-16,Activo
+382,266,"La Ventana del Juicio.mx",AD100/2020,"Sin orden de compra",2020,abril-junio,50112.00,AD100-2020_ESTEBANSALMON-2.PDF,,2020-04-29,Activo
+383,"IRCRF 458","Imagen Radio Comercial, S.A. de C.V.",AD101/2020,"Sin orden de compra",2020,julio-septiembre,516345.00,AD101-2020_IMAGENRADIO-1.PDF,,2020-06-15,Activo
+384,"IRCRF 447","Imagen Radio Comercial, S.A. de C.V.",AD101/2020,"Sin orden de compra",2020,abril-junio,343650.00,AD101-2020_IMAGENRADIO-2.PDF,,2020-05-14,Activo
+385,A-83,"""Plan de vuelo"", Radio 102.5 FM",AD102/2020,"Sin orden de compra",2020,abril-junio,104400.00,AD102-2020_RUBENMALDONADO-1.PDF,,2020-06-15,Activo
+386,A-63,"""Plan de vuelo"", Radio 102.5 FM",AD102/2020,"Sin orden de compra",2020,abril-junio,69600.00,AD102-2020_RUBENMALDONADO-2.PDF,,2020-04-27,Activo
+387,"PED ONT 03","SUEÑOS y REALIDADES",AD103/2020,"Sin orden de compra",2020,abril-junio,46799.99,AD103-2020_PEDROONTIVEROS.PDF,,2020-06-24,Activo
+388,2252,"Cazonci Editores, S.A. de C.V.",AD104/2020,"Sin orden de compra",2020,abril-junio,144000.00,5f58fa692baa5_AD103-2020_PEDROONTIVEROS.PDF,,2020-05-14,Activo
+389,2308,"Editorial E Imagen Publica, S.A. de C.V.",AD105/2020,"Sin orden de compra",2020,abril-junio,130890.00,AD105-2020-EDITORIAL_E_IMAGEN_PUBLICA_S.A._DE_C.V.-1.PDF,,2020-06-16,Activo
+390,2283,"Editorial E Imagen Publica, S.A. de C.V.",AD105/2020,"Sin orden de compra",2020,abril-junio,81200.00,AD105-2020-EDITORIAL_E_IMAGEN_PUBLICA_S.A._DE_C.V.-2.PDF,,2020-05-13,Activo
+391,APAB000011618,"Cia. Periodística El Sol de Chihuahua, S.A. de C.V.",AD106/2020,"Sin orden de compra",2020,abril-junio,3899999.99,AD106-2020_HERALDOIMPRESO-1.PDF,,2020-06-15,Activo
+392,APAB000011598,"Cia. Periodística El Sol de Chihuahua, S.A. de C.V.",AD106/2020,"Sin orden de compra",2020,abril-junio,2600000.00,AD106-2020_HERALDOIMPRESO-2.PDF,,2020-04-27,Activo
+393,A-4958,"Radio Juarense, S.A. de C.V.",AD107/2020,"Sin orden de compra",2020,abril-junio,83984.00,,,2020-06-15,Activo
+394,A-4921,"Radio Juarense, S.A. de C.V.",AD107/2020,"Sin orden de compra",2020,abril-junio,83984.00,,,2020-05-14,Activo
+395,PDCR/60093,"Publicaciones del Chuviscar, S.A. de C.V.",AD108/2020,"Sin orden de compra",2020,abril-junio,1999999.00,AD108-2020-PUBLICACIONES_DEL_CHUVISCAR_S.A._DE_C.V.-1.PDF,,2020-06-17,Activo
+396,PDCR/59718,"Publicaciones del Chuviscar, S.A. de C.V.",AD108/2020,"Sin orden de compra",2020,abril-junio,2000000.00,AD108-2020-PUBLICACIONES_DEL_CHUVISCAR_S.A._DE_C.V.-2.PDF,,2020-04-29,Activo
+397,496,"Merboca, S.A. de C.V.",AD109/2020,"Sin orden de compra",2020,abril-junio,226920.00,AD109-2020_MERBOCA488-1.PDF,,2020-06-15,Activo
+398,488,"Merboca, S.A. de C.V.",AD109/2020,"Sin orden de compra",2020,abril-junio,134999.99,AD109-2020_MERBOCA488-2.PDF,,2020-04-27,Activo
+399,A11,www.lajiribilla.com.mx,AD076/2020,"Sin orden de compra",2020,abril-junio,83999.99,,,2020-06-15,Activo
+400,A10,www.lajiribilla.com.mx,AD076/2020,"Sin orden de compra",2020,abril-junio,60000.01,AD076-2020-AURORA_MONTERDE_FERNANDEZ-2.PDF,,2020-04-30,Activo
+401,251,elresumen.net,AD077/2020,"Sin orden de compra",2020,abril-junio,40200.00,AD077-2020_JUANMANUELBARRIENTOS-1.PDF,,2020-06-19,Activo
+402,246,elresumen.net,AD077/2020,"Sin orden de compra",2020,abril-junio,17400.00,AD077-2020_JUANMANUELBARRIENTOS-2.PDF,,2020-05-04,Activo
+403,A908,"Imprenta Siglo XXV, S.A. de C.V.",AD078/2020,"Sin orden de compra",2020,abril-junio,3105273.60,AD078-2020_IMPRENTASIGLOXXV908.PDF,,2020-05-13,Activo
+404,82FA,www.noticiaschihuahua.mx,AD079/2020,"Sin orden de compra",2020,abril-junio,185600.00,AD079-2020_SAMUELSINALOA-1.PDF,,2020-06-15,Activo
+405,1405,www.noticiaschihuahua.mx,AD079/2020,"Sin orden de compra",2020,abril-junio,92800.00,AD079-2020_SAMUELSINALOA-2.PDF,,2020-04-27,Activo
+406,68F6,WWW.ADRIANARUIZ.COM.MX,AD080/2020,"Sin orden de compra",2020,abril-junio,215000.00,AD080-2020_RODRIGOMALDONADO-1.PDF,,2020-06-17,Activo
+407,EA7D,WWW.ADRIANARUIZ.COM.MX,AD080/2020,"Sin orden de compra",2020,abril-junio,145000.00,AD080-2020_RODRIGOMALDONADO-2.PDF,,2020-04-27,Activo
+408,PDCR/60098,"Publicaciones del Chuviscar, S.A. de C.V.",AD082/2020,"Sin orden de compra",2020,abril-junio,658400.00,AD082-2020-PUBLICACIONES_DEL_CHUVISCAR_S.A._DE_C.V.-1.PDF,,2020-06-17,Activo
+409,PDCR/59719,"Publicaciones del Chuviscar, S.A. de C.V.",AD082/2020,"Sin orden de compra",2020,abril-junio,591600.00,AD082-2020-PUBLICACIONES_DEL_CHUVISCAR_S.A._DE_C.V.-2.PDF,,2020-04-29,Activo
+410,"ELP 367","El Pueblo Familiar, S.A. de C.V.",AD083/2020,"Sin orden de compra",2020,abril-junio,136000.00,AD083-2020_ELPUEBLODIGITAL_362-1.PDF,,2020-06-15,Activo
+411,362,"El Pueblo Familiar, S.A. de C.V.",AD083/2020,"Sin orden de compra",2020,abril-junio,80000.00,AD083-2020_ELPUEBLODIGITAL_362-2.PDF,,2020-04-27,Activo
+412,"LF 4",www.lavisiondechihuahua.com,AD084/2020,"Sin orden de compra",2020,abril-junio,136320.00,AD084-2020_LUISCASTANEDA_4-3-1.PDF,,2020-06-15,Activo
+413,"LF 3",www.lavisiondechihuahua.com,AD084/2020,"Sin orden de compra",2020,abril-junio,55680.00,,,2020-05-12,Activo
+414,11,www.todoespolitica.com.mx,AD085/2020,"Sin orden de compra",2020,abril-junio,235712.00,AD085-2020-DANIEL_ABRAHAM_PRIETO_NEVAREZ-1.PDF,,2020-06-11,Activo
+415,2020,"Periódicos Digitales de Chihuahua, S.A. de C.V.",AD086/2020,"Sin orden de compra",2020,abril-junio,77465.08,AD086-2020_PERIODICOSDIGITALESCHIHUAHUANOTICIAS-1.PDF,,2020-06-18,Activo
+416,B56B,"Periódicos Digitales de Chihuahua, S.A. de C.V.",AD086/2020,"Sin orden de compra",2020,abril-junio,47334.91,AD086-2020_PERIODICOSDIGITALESCHIHUAHUANOTICIAS-2.PDF,,2020-04-30,Activo
+417,0325,"Periodismo Referente, S. de R.L. de C.V.",AD087/2020,"Sin orden de compra",2020,abril-junio,220390.00,AD087-2020_REFERENTE-00321-1.PDF,,2020-06-16,Activo
+418,"PR 321","Periodismo Referente, S. de R.L. de C.V.",AD087/2020,"Sin orden de compra",2020,abril-junio,139200.00,AD087-2020_REFERENTE-00321-2.PDF,,2020-05-06,Activo
+419,"A 665","Omnia Comunicaciones, S. de R.L. de C.V.",AD089/2020,"Sin orden de compra",2020,abril-junio,98000.00,AD089-2020_OMNIAA_648-1.PDF,,2020-06-15,Activo
+420,"A 648","Omnia Comunicaciones, S. de R.L. de C.V.",AD089/2020,"Sin orden de compra",2020,abril-junio,49000.00,AD089-2020_OMNIAA_648-2.PDF,,2020-04-27,Activo
+421,-38,"Porlalibre, S.A. de C.V.",AD091/2020,"Sin orden de compra",2020,abril-junio,232000.00,AD091-2020_PORLALIBREF2-1.PDF,,2020-06-02,Activo
+422,-41,"Porlalibre, S.A. de C.V.",AD091/2020,"Sin orden de compra",2020,abril-junio,46400.00,AD091-2020_PORLALIBREF2-2.PDF,,2020-06-18,Activo
+423,9658,"Fénix Comunicaciones, S.A. de C.V.",AD093/2020,"Sin orden de compra",2020,abril-junio,120000.00,AD093-2020_FENIXCOMUNICACIONES.PDF,,2020-06-12,Activo
+424,AXAB000231362,"Cia. Periodística El Sol de Chihuahua, S.A. de C.V.",AD094/2020,"Sin orden de compra",2020,abril-junio,603200.00,AD094-2020_HERALDODIGITAL-2.PDF,,2020-04-27,Activo
+425,AXAB000232032,"Cia. Periodística El Sol de Chihuahua, S.A. de C.V.",AD094/2020,"Sin orden de compra",2020,abril-junio,886800.00,AD094-2020HERALDODIGITAL-1.PDF,,2020-06-15,Activo
+426,"NLC 365","Nueva Línea Comunicación, S.C.",AD096/2020,"Sin orden de compra",2020,abril-junio,111079.28,AD096-2020_NUEVALINEACOM-1.PDF,,2020-06-16,Activo
+427,"NLC 357","Nueva Línea Comunicación, S.C.",AD096/2020,"Sin orden de compra",2020,abril-junio,78717.60,AD096-2020_NUEVALINEACOM-2.PDF,,2020-04-29,Activo
+428,"AC 5000639","Radio América de México, S.A. de C.V.",AD098/2020,"Sin orden de compra",2020,abril-junio,100966.40,AD098-2020_RADIOAMERICA-1.PDF,,2020-06-18,Activo
+429,"AC 5000632","Radio América de México, S.A. de C.V.",AD098/2020,"Sin orden de compra",2020,abril-junio,232969.00,AD098-2020_RADIOAMERICA-2.PDF,,2020-06-03,Activo
+430,42,"Programa CONTRASTE",AD088/2020,"Sin orden de compra",2020,abril-junio,108000.00,AD088-2020-ANGELICA_DELGADO_CANO-1.PDF,,2020-06-15,Activo
+431,20,"Programa CONTRASTE",AD088/2020,"Sin orden de compra",2020,abril-junio,83520.00,5f59233b91bd0_AD088-2020-ANGELICA_DELGADO_CANO-1.PDF,,2020-04-27,Activo
+432,"A 231",www.circulorojo.com.mx,AD090/2020,"Sin orden de compra",2020,abril-junio,141760.00,AD090-2020_MARIAANDREAMEDINA-1.PDF,,2020-06-15,Activo
+433,"A 228",www.circulorojo.com.mx,AD090/2020,"Sin orden de compra",2020,abril-junio,74240.00,AD090-2020_MARIAANDREAMEDINA-2.PDF,,2020-04-27,Activo
+434,5,alinstante.com.mx,AD092/2020,"Sin orden de compra",2020,abril-junio,209728.00,AD092-2020_JESUSEVARGAS.PDF,,2020-06-15,Activo
+435,D28D,alcontacto.com.mx,AD095/2020,"Sin orden de compra",2020,abril-junio,174000.00,AD095-2020_FATIMADOZAL-1.PDF,,2020-06-15,Activo
+436,F7F6,alcontacto.com.mx,AD095/2020,"Sin orden de compra",2020,abril-junio,104000.00,AD095-2020_FATIMADOZAL-2.PDF,,2020-04-28,Activo
+437,344,"ASERTO RADIO",AD097/2020,"Sin orden de compra",2020,abril-junio,73599.98,AD097-2020_LUISJAVIERVALERO-1.PDF,,2020-06-15,Activo
+438,339,"ASERTO RADIO",AD097/2020,"Sin orden de compra",2020,abril-junio,46399.98,AD097-2020_LUISJAVIERVALERO-2.PDF,,2020-04-27,Activo
+439,127-,"María Cristina Sánchez Manzano",AD011/18,"Sin orden de compra",2018,enero-marzo,74999.28,1_2018-1.PDF,,2018-03-27,Activo
+440,128,"María Cristina Sánchez Manzano",AD011/18,"Sin orden de compra",2018,enero-marzo,99999.04,1_2018-2.PDF,,2018-03-26,Activo
+441,fe89,"Nora Angélica de la Rosa Martínez",AD106/19,"Sin orden de compra",2019,abril-junio,87500.01,NORA-1.PDF,,2019-04-22,Activo
+442,129,"María Cristina Sánchez Manzano",AD011/18,"Sin orden de compra",2018,enero-marzo,49999.52,5f6a9e785c19b_1_2018-4.PDF,,2018-03-26,Activo
+443,851B,"Nora Angélica de la Rosa Martínez",AD034/2018,"Sin orden de compra",2018,abril-junio,40800.00,5f6a9e9245dc1_1_2018-5.PDF,,2018-04-17,Activo
+444,0930,"Nora Angélica de la Rosa Martínez",AD106/19,"Sin orden de compra",2019,abril-junio,27500.00,NORA-2.PDF,,2019-05-21,Activo
+445,CE2E,"Nora Angélica de la Rosa Martínez",AD034/2018,"Sin orden de compra",2018,abril-junio,40800.00,5f6a9ea64a2d3_1_2018-6.PDF,,2018-04-17,Activo
+446,537b,"Nora Angélica de la Rosa Martínez",AD034/2018,"Sin orden de compra",2018,abril-junio,40800.00,5f6a9ebdd135b_1_2018-7.PDF,,2018-04-17,Activo
+447,1195,"Tolk MX, S. de R.L. de C.V.",AD122/19,"Sin orden de compra",2019,abril-junio,606750.00,TOLK-1.PDF,,2019-05-14,Activo
+448,GF-30749,"Televisora de Occidente, S.A. de C.V.",AD048/18,"Sin orden de compra",2018,enero-marzo,393675.00,5f6a9edd62735_1_2018-8.PDF,,2018-03-27,Activo
+449,1229,"Tolk MX, S. de R.L. de C.V.",AD122/19,"Sin orden de compra",2019,abril-junio,242700.00,TOLK-2.PDF,,2019-06-11,Activo
+450,GF-30748,"Televisora de Occidente, S.A. de C.V.",AD048/18,"Sin orden de compra",2018,enero-marzo,572460.00,1_2018-10.PDF,,2018-03-27,Activo
+451,2567,"Enconcreto, CIDECH, y FINGUACH",AD110/2020,"Sin orden de compra",2020,abril-junio,21697.80,5fb416f7c8977_DAPHNECHAVEZ2567_REDACTED.PDF,,2020-04-28,Activo
+452,60223,"Rosa Isela Estrella Gallardo",AD376/18,"Sin orden de compra",2018,octubre-diciembre,75000.00,ROSA.PDF,,2018-12-08,Activo
+453,287,"TREINTA Y UNO MAS UNO SC",AD134/19,"Sin orden de compra",2019,abril-junio,600000.00,31-1.PDF,,2019-05-28,Activo
+454,289,"TREINTA Y UNO MAS UNO SC",AD134/19,"Sin orden de compra",2019,abril-junio,149999.99,31-2.PDF,,2019-06-26,Activo
+455,B747,"Asociación para el Fomento al Deporte Chihuahuense, A.C.",AD156/19,"Sin orden de compra",2019,abril-junio,348000.00,ASOC._FOMENTO.PDF,,2019-06-04,Activo
+456,386,"Plataforma en Difusión, S.A. de C.V.",AD185/19,"Sin orden de compra",2019,abril-junio,99668.66,PLAT._EN_DIF..PDF,,2019-06-28,Activo
+457,2328,"Enconcreto, CIDECH, y FINGUACH",AD078/19,"Sin orden de compra",2019,abril-junio,12020.00,DAPHNE-1.PDF,,2019-05-20,Activo
+458,2313,"Enconcreto, CIDECH, y FINGUACH",AD078/19,"Sin orden de compra",2019,abril-junio,52200.00,DAPHNE-2.PDF,,2019-04-24,Activo
+459,65A9,"Tv Azteca, S.A.B. de C.V.",AD086/19,"Sin orden de compra",2019,abril-junio,1117776.00,TV_AZTECA-1.PDF,,2019-05-07,Activo
+460,65EF,"Tv Azteca, S.A.B. de C.V.",AD086/19,"Sin orden de compra",2019,abril-junio,480414.00,TV_AZTECA-2.PDF,,2019-06-03,Activo
+461,155,"María Cristina Sánchez Manzano",AD105/19,"Sin orden de compra",2019,abril-junio,179200.00,MA._CRISTINA.PDF,,2019-04-17,Activo
+462,157,"María Cristina Sánchez Manzano",AD105/19,"Sin orden de compra",2019,abril-junio,36000.00,5f6aa018d975e_MA._CRISTINA.PDF,,2019-05-21,Activo
+463,GF-30747,"Televisora de Occidente, S.A. de C.V.",AD048/18,"Sin orden de compra",2018,enero-marzo,1353285.00,1_2018-12.PDF,,2018-03-27,Activo
+464,I850,"Información Procesada Hemeroteca  Y Análisis de Prensa, S.C.",AD114/19,"Sin orden de compra",2019,abril-junio,61950.00,INF._PROC.-1.PDF,,2019-05-10,Activo
+465,1837,"Información Procesada Hemeroteca  Y Análisis de Prensa, S.C.",AD114/19,"Sin orden de compra",2019,abril-junio,100450.00,INF._PROC.-2.PDF,,2019-04-18,Activo
+466,1658,"Información Procesada Hemeroteca  Y Análisis de Prensa, S.C.",AD059/18,"Sin orden de compra",2018,enero-marzo,50825.01,1_2018-14.PDF,,2018-03-28,Activo
+467,4009,"Monito, Análisis y Monitoreo de Medios, S.A. de C.V.",AD115/19,"Sin orden de compra",2019,abril-junio,210000.00,MONITO-1.PDF,,2019-04-17,Activo
+468,1660,"Información Procesada Hemeroteca  Y Análisis de Prensa, S.C.",AD059/18,"Sin orden de compra",2018,enero-marzo,66849.99,1_2018-15.PDF,,2018-03-28,Activo
+469,4007,"Monito, Análisis y Monitoreo de Medios, S.A. de C.V.",AD115/19,"Sin orden de compra",2019,abril-junio,138000.00,MONITO-2.PDF,,2019-05-21,Activo
+470,1659,"Información Procesada Hemeroteca  Y Análisis de Prensa, S.C.",AD059/18,"Sin orden de compra",2018,enero-marzo,57325.00,1_2018-16.PDF,,2018-03-28,Activo
+471,84,"Monito, Análisis y Monitoreo de Medios, S.A. de C.V.",AD301/18,"Sin orden de compra",2018,enero-marzo,252160.00,1_2018-17.PDF,,2018-11-02,Activo
+472,85,"Monito, Análisis y Monitoreo de Medios, S.A. de C.V.",AD301/18,"Sin orden de compra",2018,enero-marzo,182840.00,1_2018-18.PDF,,2018-11-02,Activo
+473,C6343,"Jesús Antonio Pérez Rodríguez",AD116/18,"Sin orden de compra",2018,enero-marzo,600000.00,1_2018-19.PDF,,2018-03-28,Activo
+474,765,"Tolk MX, S. de R.L. de C.V.",AD127/18,"Sin orden de compra",2018,enero-marzo,83380.00,1_2018-20.PDF,,2018-03-28,Activo
+475,764,"Tolk MX, S. de R.L. de C.V.",AD127/18,"Sin orden de compra",2018,enero-marzo,83140.00,1_2018-21.PDF,,2018-03-28,Activo
+476,763,"Tolk MX, S. de R.L. de C.V.",AD127/18,"Sin orden de compra",2018,enero-marzo,83380.00,1_2018-22.PDF,,2018-03-28,Activo
+477,63,"Silent Mobil S. de R.L. de C.V.",AD128/18,"Sin orden de compra",2018,enero-marzo,83320.00,1_2018-23.PDF,,2018-03-28,Activo
+478,62-,"Silent Mobil S. de R.L. de C.V.",AD128/18,"Sin orden de compra",2018,enero-marzo,83320.00,1_2018-24.PDF,,2018-03-28,Activo
+479,61-,"Silent Mobil S. de R.L. de C.V.",AD128/18,"Sin orden de compra",2018,enero-marzo,83320.00,1_2018-25.PDF,,2018-03-28,Activo
+480,-202,"Recuperadora Ambiental Del Norte S de Rl de Cv",AD295/18,"Sin orden de compra",2018,octubre-diciembre,112000.04,1_2018-26_1.PDF,,2018-11-01,Activo
+481,-201,"Recuperadora Ambiental Del Norte S de Rl de Cv",AD295/18,"Sin orden de compra",2018,octubre-diciembre,223999.96,1_2018-27.PDF,,2018-11-01,Activo
+482,146,"María Cristina Sánchez Manzano",AD296/18,"Sin orden de compra",2018,octubre-diciembre,61999.99,1_2018-28.PDF,,2018-11-13,Activo
+483,145,"María Cristina Sánchez Manzano",AD296/18,"Sin orden de compra",2018,octubre-diciembre,162000.00,1_2018-29.PDF,,2018-11-13,Activo
+484,138,"AA Print, S.A. de C.V.",AD297/18,"Sin orden de compra",2018,octubre-diciembre,349999.94,1_2018-30.PDF,,2018-11-29,Activo
+485,"G 56","Nora Angélica de la Rosa Martínez",AD298/18,"Sin orden de compra",2018,octubre-diciembre,64960.00,5f6aa8a28ab6d_1_2018-28.PDF,,2018-10-26,Activo
+486,"G 59","Nora Angélica de la Rosa Martínez",AD298/18,"Sin orden de compra",2018,octubre-diciembre,57240.00,1_2018-32.PDF,,2018-11-12,Activo
+487,16-,"Jesús Antonio Pérez Rodríguez",AD299/18,"Sin orden de compra",2018,octubre-diciembre,600000.00,1_2018-33.PDF,,2018-11-26,Activo
+488,F4B1E,"Jessica Arely Medina Valerio",AD300/18,"Sin orden de compra",2018,octubre-diciembre,60000.00,1_2018-34.PDF,,2018-11-21,Activo
+489,DB08F,"Jessica Arely Medina Valerio",AD300/18,"Sin orden de compra",2018,octubre-diciembre,138000.00,1_2018-35.PDF,,2018-10-26,Activo
+490,98,"Silent Mobil S. de R.L. de C.V.",AD302/18,"Sin orden de compra",2018,octubre-diciembre,249960.00,1_2018-38.PDF,,2018-11-30,Activo
+491,753,"Información Procesada Hemeroteca  Y Análisis de Prensa, S.C.",AD303/18,"Sin orden de compra",2018,octubre-diciembre,96925.01,1_2018-39.PDF,,2018-10-26,Activo
+492,2106,"Roger Sistemas Exteriores, S. de R.L. de C.V.",AD304/18,"Sin orden de compra",2018,octubre-diciembre,350000.00,1_2018-41.PDF,,2018-11-27,Activo
+493,983,"Tolk MX, S. de R.L. de C.V.","AD 305/18","Sin orden de compra",2018,octubre-diciembre,83300.00,1_2018-42.PDF,,2018-11-29,Activo
+494,984,"Tolk MX, S. de R.L. de C.V.","AD 305/18","Sin orden de compra",2018,octubre-diciembre,83300.00,1_2018-43.PDF,,2018-11-29,Activo
+495,985,"Tolk MX, S. de R.L. de C.V.","AD 305/18","Sin orden de compra",2018,octubre-diciembre,83300.00,1_2018-44.PDF,,2018-11-29,Activo
+496,26FB3,www.lajiribilla.com.mx,AD306/18,"Sin orden de compra",2018,octubre-diciembre,37800.00,1_2018-45.PDF,,2018-10-29,Activo
+497,E5CD7,www.lajiribilla.com.mx,AD306/18,"Sin orden de compra",2018,octubre-diciembre,85600.01,1_2018-46.PDF,,2018-10-29,Activo
+498,176,elresumen.net,AD308/18,"Sin orden de compra",2018,octubre-diciembre,20000.00,1_2018-47.PDF,,2018-11-08,Activo
+499,175-,elresumen.net,AD308/18,"Sin orden de compra",2018,octubre-diciembre,30000.00,1_2018-48.PDF,,2018-11-02,Activo
+500,00253,"Periodismo Referente, S. de R.L. de C.V.",AD309/18,"Sin orden de compra",2018,octubre-diciembre,194800.00,1_2018-49.PDF,,2018-11-16,Activo
+501,00250,"Periodismo Referente, S. de R.L. de C.V.",AD309/18,"Sin orden de compra",2018,octubre-diciembre,254800.00,1_2018-50.PDF,,2018-10-29,Activo
+502,FFC67,alcontacto.com.mx,AD310/18,"Sin orden de compra",2018,octubre-diciembre,99999.98,1_2018-51.PDF,,2018-11-14,Activo
+503,3D7F3,alcontacto.com.mx,AD310/18,"Sin orden de compra",2018,octubre-diciembre,23999.99,1_2018-52.PDF,,2018-11-14,Activo
+504,38595,WWW.ADRIANARUIZ.COM.MX,AD311/18,"Sin orden de compra",2018,octubre-diciembre,58000.00,1_2018-53.PDF,,2018-11-09,Activo
+505,4F782,WWW.ADRIANARUIZ.COM.MX,AD311/18,"Sin orden de compra",2018,octubre-diciembre,41499.99,2_2018-1.PDF,,2018-11-13,Activo
+506,198-,www.circulorojo.com.mx,AD312/18,"Sin orden de compra",2018,octubre-diciembre,47400.00,2_2018-2.PDF,,2018-11-05,Activo
+507,196-,www.circulorojo.com.mx,AD312/18,"Sin orden de compra",2018,octubre-diciembre,126400.00,2_2018-3.PDF,,2018-10-26,Activo
+508,12-,www.elpuntero.com.mx,AD313/18,"Sin orden de compra",2018,octubre-diciembre,30000.00,2_2018-8.PDF,,2018-11-12,Activo
+509,10,www.elpuntero.com.mx,AD313/18,"Sin orden de compra",2018,octubre-diciembre,166000.00,2_2018-9.PDF,,2018-11-12,Activo
+510,20-,noticiasaldia.com.mx,AD314/18,"Sin orden de compra",2018,octubre-diciembre,40000.00,2_2018-10.PDF,,2018-11-15,Activo
+511,23-,noticiasaldia.com.mx,AD314/18,"Sin orden de compra",2018,octubre-diciembre,25000.00,2_2018-11.PDF,,2018-11-20,Activo
+512,A5AE5,WWW.MASNOTICIAS.NET,AD315/18,"Sin orden de compra",2018,octubre-diciembre,47800.00,5f6b8fc78de97_1_2018-12.PDF,,2018-11-15,Activo
+513,65647F,WWW.MASNOTICIAS.NET,AD315/18,"Sin orden de compra",2018,octubre-diciembre,75600.00,5f6b90000cf69_2_2018-13.PDF,,2018-11-12,Activo
+514,C189F,"Analistas del Florido, S.A. de C.V.",AD316/18,"Sin orden de compra",2018,octubre-diciembre,97800.00,5f6b90699f217_2_2018-14.PDF,,2018-11-08,Activo
+515,B1F92,"Analistas del Florido, S.A. de C.V.",AD316/18,"Sin orden de compra",2018,octubre-diciembre,81200.00,5f6b9107a3db6_2_2018-15.PDF,,2018-11-12,Activo
+516,637EE,WWW.PAUSA.MX,AD317/18,"Sin orden de compra",2018,octubre-diciembre,24000.01,2_2018-16.PDF,,2018-11-12,Activo
+517,93AAF,WWW.PAUSA.MX,AD317/18,"Sin orden de compra",2018,octubre-diciembre,36000.00,2_2018-17.PDF,,2018-11-18,Activo
+518,216,"Fénix Comunicaciones, S.A. de C.V.",AD318/18,"Sin orden de compra",2018,octubre-diciembre,49999.99,2_2018-18.PDF,,2018-11-27,Activo
+519,214,"Fénix Comunicaciones, S.A. de C.V.",AD318/18,"Sin orden de compra",2018,octubre-diciembre,50000.04,2_2018-19.PDF,,2018-11-22,Activo
+520,B13,"SUEÑOS y REALIDADES",AD320/18,"Sin orden de compra",2018,octubre-diciembre,49919.63,2_2018-20.PDF,,2018-11-23,Activo
+521,7F785,"ANTENA DEPORTIVA",AD321-2018,"Sin orden de compra",2018,octubre-diciembre,93000.00,2_2018-21.PDF,,2018-11-08,Activo
+522,03C47,"ANTENA DEPORTIVA",AD321-2018,"Sin orden de compra",2018,octubre-diciembre,107000.00,2_2018-22.PDF,,2018-10-30,Activo
+523,306,"ASERTO RADIO",AD325/18,"Sin orden de compra",2018,octubre-diciembre,100998.98,2_2018-23.PDF,,2018-11-19,Activo
+524,305,"ASERTO RADIO",AD325/18,"Sin orden de compra",2018,octubre-diciembre,107798.75,2_2018-24.PDF,,2018-10-26,Activo
+525,249,"La Ventana del Juicio.mx",AD326/18,"Sin orden de compra",2018,octubre-diciembre,64600.06,2_2018-25.PDF,,2018-11-14,Activo
+526,248,"La Ventana del Juicio.mx",AD326/18,"Sin orden de compra",2018,octubre-diciembre,74200.00,2_2018-26.PDF,,2018-11-14,Activo
+527,E69FC,"NN NUESTRAS NOTICIAS",AD327/18,"Sin orden de compra",2018,octubre-diciembre,79290.66,5f6b99080eda7_2_2018-27.PDF,,2018-11-14,Activo
+528,46ECE,"NN NUESTRAS NOTICIAS",AD327/18,"Sin orden de compra",2018,octubre-diciembre,94612.89,2_2018-28.PDF,,2018-10-31,Activo
+529,14089CHI,"Nueva Era Radio de Chihuahua, S.A. de C.V.",AD329/18,"Sin orden de compra",2018,octubre-diciembre,315218.40,2_2018-29.PDF,,2018-11-09,Activo
+530,13969CHIH,"Nueva Era Radio de Chihuahua, S.A. de C.V.",AD329/18,"Sin orden de compra",2018,octubre-diciembre,434744.88,2_2018-30.PDF,,2018-10-25,Activo
+531,363-,"Especialistas en Comunicación Integral, S.A. de C.V.",AD330/18,"Sin orden de compra",2018,octubre-diciembre,89600.00,2_2018-31.PDF,,2018-11-01,Activo
+532,371,"Especialistas en Comunicación Integral, S.A. de C.V.",AD330/18,"Sin orden de compra",2018,octubre-diciembre,85340.00,2_2018-32.PDF,,2018-12-07,Activo
+533,293,"Nueva Línea Comunicación, S.C.",AD331/18,"Sin orden de compra",2018,octubre-diciembre,86199.11,2_2018-33.PDF,,2018-11-17,Activo
+534,294,"Nueva Línea Comunicación, S.C.",AD331/18,"Sin orden de compra",2018,octubre-diciembre,89139.09,5f6b9e2ed98a4_2_2018-34.PDF,,2018-11-12,Activo
+535,"IRCCHI 1248","Imagen Radio Comercial, S.A. de C.V.",AD333/18,"Sin orden de compra",2018,octubre-diciembre,364820.00,5f6b9f7c8fee3_2_2018-35.PDF,,2018-11-16,Activo
+536,IRCCHI-1243,"Imagen Radio Comercial, S.A. de C.V.",AD333/18,"Sin orden de compra",2018,octubre-diciembre,385120.00,IMAGEN.PDF,,2018-11-14,Activo
+537,2407,"Comunicaciones Chihua, S.A. de C.V.",AD334/18,"Sin orden de compra",2018,octubre-diciembre,295133.58,COMUN.-1.PDF,,2018-11-14,Activo
+538,2406,"Comunicaciones Chihua, S.A. de C.V.",AD334/18,"Sin orden de compra",2018,octubre-diciembre,369516.84,COMUN.-2.PDF,,2018-11-14,Activo
+539,94CFC,"Programa CONTRASTE",AD335/18,"Sin orden de compra",2018,octubre-diciembre,72499.36,ALNGELICA-1.PDF,,2018-10-29,Activo
+540,A7EBC,"Programa CONTRASTE",AD335/18,"Sin orden de compra",2018,octubre-diciembre,64499.40,ANGELICA-2.PDF,,2018-11-06,Activo
+541,1115,"""Expectativa Noticias""",AD336/18,"Sin orden de compra",2018,octubre-diciembre,92075.00,,,2018-11-14,Activo
+542,1114,"""Expectativa Noticias""",AD336/18,"Sin orden de compra",2018,octubre-diciembre,106575.00,VICTOR-2.PDF,,2018-11-14,Activo
+543,0272,"Comunicación Futura, S.A. de C.V.",AD337/18,"Sin orden de compra",2018,octubre-diciembre,100800.00,COM.FUTU.-1.PDF,,2018-11-15,Activo
+544,273,"Comunicación Futura, S.A. de C.V.",AD337/18,"Sin orden de compra",2018,octubre-diciembre,98400.00,COM.FUTU.-2.PDF,,2018-11-15,Activo
+545,10C92,"NOTICIERO CHIHUAHUA DIGITAL",AD338/18,"Sin orden de compra",2018,octubre-diciembre,207000.14,MAYELA-1.PDF,,2018-10-28,Activo
+546,30B86,"NOTICIERO CHIHUAHUA DIGITAL",AD338/18,"Sin orden de compra",2018,octubre-diciembre,85100.06,,,2018-11-13,Activo
+547,1841,"Editorial E Imagen Publica, S.A. de C.V.",AD339/18,"Sin orden de compra",2018,octubre-diciembre,174099.99,,,2018-11-13,Activo
+548,1838,"Editorial E Imagen Publica, S.A. de C.V.",AD339/18,"Sin orden de compra",2018,octubre-diciembre,100034.99,EDITORIAL-2.PDF,,2018-11-07,Activo
+549,1839,"Editorial E Imagen Publica, S.A. de C.V.",AD339/18,"Sin orden de compra",2018,octubre-diciembre,75499.99,EDITORIAL-3.PDF,,2018-11-07,Activo
+550,400,"Merboca, S.A. de C.V.",AD341/18,"Sin orden de compra",2018,octubre-diciembre,46666.00,MERBOCA-1.PDF,,2018-11-15,Activo
+551,299,"Merboca, S.A. de C.V.",AD341/18,"Sin orden de compra",2018,octubre-diciembre,23332.99,MERBOCA-2.PDF,,2018-11-15,Activo
+552,A-4161,"Radio Juarense, S.A. de C.V.","AD342/18 ","Sin orden de compra",2018,octubre-diciembre,47399.00,RAD.JUA.-1.PDF,,2018-11-16,Activo
+553,A-4160,"Radio Juarense, S.A. de C.V.","AD342/18 ","Sin orden de compra",2018,octubre-diciembre,57000.00,RAD.JUA.-2.PDF,,2018-11-16,Activo
+554,247,"Expreseditores, S.A. de C.V.","AD343/2018 ","Sin orden de compra",2018,octubre-diciembre,44000.00,EXPRESS-1.PDF,,2018-11-22,Activo
+555,275,"Expreseditores, S.A. de C.V.","AD343/2018 ","Sin orden de compra",2018,octubre-diciembre,60000.00,EXPRESS-2.PDF,,2018-11-22,Activo
+556,7EB9C,"Sistema Regional de Televisión, A.C.",AD351-2018,"Sin orden de compra",2018,octubre-diciembre,1113600.00,SIST.REG..PDF,,2018-11-21,Activo
+557,0248,"El Pueblo Familiar, S.A. de C.V.",AD352/18,"Sin orden de compra",2018,octubre-diciembre,269999.84,ELPUEBLO-1.PDF,,2018-11-12,Activo
+558,250,"El Pueblo Familiar, S.A. de C.V.",AD352/18,"Sin orden de compra",2018,octubre-diciembre,179999.89,ELPUEBLO-2.PDF,,2018-11-12,Activo
+559,TOSCHI-437,"Comercializadora Tosgon, S.A. de C.V.",AD355/18,"Sin orden de compra",2018,octubre-diciembre,449999.99,COM.TOS..PDF,,2018-12-07,Activo
+560,2199,"Enconcreto, CIDECH, y FINGUACH",AD358/18,"Sin orden de compra",2018,octubre-diciembre,50000.00,5f6bb81305aa8_DAPHNE-1.PDF,,2018-11-14,Activo
+561,2198,"Enconcreto, CIDECH, y FINGUACH",AD358/18,"Sin orden de compra",2018,octubre-diciembre,50000.00,5f6bb85bd1d5a_DAPHNE-2.PDF,,2018-11-14,Activo
+562,"B 11417","Gerardo Quezada García",AD245/18,32407,2018,julio-septiembre,39930.39,,,2018-08-27,Activo
+563,C05C,"Alma Leticia Acosta Almodovar",AD249/18,32271,2018,julio-septiembre,90828.00,FACTURA_C05C_-_24_SEP_2020_-_11-01.PDF,,2018-08-30,Activo
+564,"B 11416","Gerardo Quezada García",AD244/18,32408,2018,julio-septiembre,173164.22,FACTURA_B11416_-_24_SEP_2020_-_11-13.PDF,,2018-08-27,Activo
+565,"FN 17838","Imprenta Ochoa, S.A. de C.V.","Sin contrato","Sin orden de compra",2019,octubre-diciembre,265640.00,,,2019-10-02,Activo
+566,"A 167","María Cristina Sánchez Manzano",AD249/19,"Sin orden de compra",2019,julio-septiembre,67976.00,A_167_-_24_SEP_2020_-_11-54.PDF,,2019-09-09,Activo
+567,768,"Información Procesada Hemeroteca  Y Análisis de Prensa, S.C.",AD303/18,"Sin orden de compra",2018,octubre-diciembre,78074.99,5f6e28197c505_1_2018-40.PDF,,2018-11-06,Activo
+568,238A,www.platicachihuahua.com,AD081/2020,"Sin orden de compra",2020,abril-junio,0.00,ERNESTO_ALMANZA.PDF,,2020-06-15,Activo
+569,0450,"""No le cambie""",AD227/19,"Sin orden de compra",2019,abril-junio,243600.00,176_JUAN_ENRIQUE_LOPEZ_AGUIRRE.PDF,,2019-09-11,Activo
+570,5029,www.platicachihuahua.com,AD081/2020,"Sin orden de compra",2020,abril-junio,32000.00,5fb41936d8406_ERNESTO_ALMANZA.PDF,,2020-04-27,Activo
+571,5572,"SUEÑOS y REALIDADES",AD231/19,"Sin orden de compra",2019,julio-septiembre,48000.80,178_PEDRO_JAVIER_ONTIVEROS_BLANCO.PDF,,2019-09-24,Activo
+572,205E,elresumen.net,AD083/19,"Sin orden de compra",2019,abril-junio,15999.00,5f71fcc41d95e_21-JUAN_MANUEL_BARRIENTOS_MARQUEZ.PDF,,2019-05-22,Activo
+573,170,"Omnia Comunicaciones, S. de R.L. de C.V.",AD268/19,"Sin orden de compra",2019,octubre-diciembre,60000.00,162_OMNIA.PDF,,2019-11-19,Activo
+574,54,"Jesús Antonio Pérez Rodríguez",AD172/2020,"Sin orden de compra",2020,julio-septiembre,388600.00,FACTURA.PDF,,2020-10-02,Activo
+575,25-,"Jesús Antonio Pérez Rodríguez",AD157/19,"Sin orden de compra",2019,abril-junio,580000.00,FACT.PDF,,2019-06-18,Activo
+576,CA4A,"NOTICIERO CHIHUAHUA DIGITAL",AD195/19,"Sin orden de compra",2019,octubre-diciembre,58200.00,FACT_MAYELA_001.PDF,,2019-11-16,Activo
+577,EC60,"NOTICIERO CHIHUAHUA DIGITAL",AD195/19,"Sin orden de compra",2019,octubre-diciembre,138000.00,5fb6e02e41b88_FACT_MAYELA_001.PDF,,2019-10-30,Activo
+578,169-,"""Expectativa Noticias""",AD196/19,"Sin orden de compra",2019,octubre-diciembre,47850.00,VICTOR_HUGO_VALLES_-_COPIA.PDF,,2019-11-16,Activo
+579,166,"""Expectativa Noticias""",AD196/19,"Sin orden de compra",2019,octubre-diciembre,119625.00,5fb6e394267dc_VICTOR_HUGO_VALLES_-_COPIA.PDF,,2019-10-29,Activo
+580,"A 217",www.circulorojo.com.mx,AD199/19,"Sin orden de compra",2019,julio-septiembre,120000.00,FACT_2.PDF,,2019-08-29,Activo
+581,"A 221",www.circulorojo.com.mx,AD199/19,"Sin orden de compra",2019,octubre-diciembre,30000.00,5fb6e5e54392f_FACT.PDF,,2019-11-15,Activo
+582,F6EC,www.elpuntero.com.mx,AD200/19,"Sin orden de compra",2019,octubre-diciembre,107534.99,FACT_DE_XOCHITL_003.PDF,,2019-11-19,Activo
+583,30-,noticiasaldia.com.mx,AD201/19,"Sin orden de compra",2019,octubre-diciembre,40800.00,BERNAL_AMEZCUA_001.PDF,,2019-10-28,Activo
+584,31-,noticiasaldia.com.mx,AD201/19,"Sin orden de compra",2019,octubre-diciembre,27000.00,5fb6e90e5c520_BERNAL_AMEZCUA_001.PDF,,2019-11-15,Activo
+585,"A 9",www.lajiribilla.com.mx,AD204/19,"Sin orden de compra",2019,octubre-diciembre,70000.00,AURORA_MONTERDE.PDF,,2019-11-21,Activo
+586,219,elresumen.net,AD205/19,"Sin orden de compra",2019,octubre-diciembre,44000.00,FACT_211.PDF,,2019-10-13,Activo
+587,CE49,alcontacto.com.mx,AD207/19,"Sin orden de compra",2019,octubre-diciembre,79999.89,5fb6ebf75ce90_FACT.PDF,,2019-11-19,Activo
+588,03FE,WWW.ADRIANARUIZ.COM.MX,AD208/19,"Sin orden de compra",2019,octubre-diciembre,37500.00,FACTURAS.PDF,,2019-10-21,Activo
+589,AD23,WWW.ADRIANARUIZ.COM.MX,AD208/19,"Sin orden de compra",2019,octubre-diciembre,37500.00,5fb6f0c700c97_FACTURAS.PDF,,2019-10-31,Activo
+590,EE73,WWW.ADRIANARUIZ.COM.MX,AD208/19,"Sin orden de compra",2019,octubre-diciembre,50000.00,5fb6f1a07a863_FACTURAS.PDF,,2019-11-22,Activo
+591,353A,WWW.PAUSA.MX,AD211/19,"Sin orden de compra",2019,octubre-diciembre,36500.00,20200817105756318.PDF,,2019-10-28,Activo
+592,6FBC,WWW.PAUSA.MX,AD211/19,"Sin orden de compra",2019,octubre-diciembre,21399.99,5fb6f4626fcca_20200817105756318.PDF,,2019-11-16,Activo
+593,DD69,www.noticiaschihuahua.mx,AD213/19,"Sin orden de compra",2019,octubre-diciembre,144000.00,SAMUEL_SINALOA_RAMOS.PDF,,2019-10-28,Activo
+594,0A18,www.atlasenlinea.com,AD219/19,"Sin orden de compra",2019,octubre-diciembre,40000.00,20200817111512032.PDF,,2019-11-18,Activo
+595,6B14,www.atlasenlinea.com,AD219/19,"Sin orden de compra",2019,octubre-diciembre,80000.00,5fb6f73ed0d5c_20200817111512032.PDF,,2019-10-29,Activo
+596,"91 19","Programa CONTRASTE",AD221/19,"Sin orden de compra",2019,octubre-diciembre,49999.48,5fb6f8b0b7fe5_FACT.PDF,,2019-11-15,Activo
+597,264,"La Ventana del Juicio.mx",AD224/19,"Sin orden de compra",2019,octubre-diciembre,99360.00,ESTEBAN_SALMON_PAREDES.PDF,,2019-11-21,Activo
+598,8581,"NN NUESTRAS NOTICIAS",AD225/19,"Sin orden de compra",2019,octubre-diciembre,100084.09,20200817113711517.PDF,,2019-10-30,Activo
+599,F42D,"NN NUESTRAS NOTICIAS",AD225/19,"Sin orden de compra",2019,octubre-diciembre,38512.13,5fb6fb8f74fff_20200817113711517.PDF,,2019-11-25,Activo
+600,34A0,"""No le cambie""",AD227/19,"Sin orden de compra",2019,octubre-diciembre,111516.00,5fb6fcc2c7c89_FACT.PDF,,2019-11-21,Activo
+601,3F7A,"""No le cambie""",AD227/19,"Sin orden de compra",2019,octubre-diciembre,243600.00,5fb6fd90b0cbd_FACT.PDF,,2019-10-28,Activo
+602,326,"ASERTO RADIO",AD228/19,"Sin orden de compra",2019,octubre-diciembre,27879.67,5fb6fe4b1e3b1_FACT.PDF,,2019-11-15,Activo
+603,323,"ASERTO RADIO",AD228/19,"Sin orden de compra",2019,octubre-diciembre,61199.28,5fb6fed5dad13_FACT.PDF,,2019-10-28,Activo
+604,E1A9,"SUEÑOS y REALIDADES",AD231/19,"Sin orden de compra",2019,octubre-diciembre,17760.30,5fb7005ca030e_FACT.PDF,,2019-11-20,Activo
+605,2452,"Enconcreto, CIDECH, y FINGUACH",AD240/19,"Sin orden de compra",2019,octubre-diciembre,19700.00,DAPHNE_ALEJANDRA_CHAVEZ.PDF,,2019-11-22,Activo
+606,PDCR/55666,"Publicaciones del Chuviscar, S.A. de C.V.",AD241/19,"Sin orden de compra",2019,abril-junio,400000.00,EL_DIARIO.PDF,,2019-06-03,Activo
+607,15B8,"Jessica Arely Medina Valerio",AD252/19,"Sin orden de compra",2019,octubre-diciembre,93599.99,FACT_ESICA_ARELY_MEDINA_001.PDF,,2019-11-22,Activo

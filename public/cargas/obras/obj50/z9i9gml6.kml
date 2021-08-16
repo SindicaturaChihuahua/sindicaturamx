@@ -1,0 +1,1102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>LIFER DEL NORTE, CONTRATOS CD08-11 Y CD09-11.kml</name>
+	<Style id="sh_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>990055ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>990055ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>990055ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>990055ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin30">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>990055ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>9900aaff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin50">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>9900aaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>9900aaff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>9900aaff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin32">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>990055ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>9900aaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>990055ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>990055ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>9900aaff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>9900aaff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>990055ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>990055ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>9900aaff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>LIFER DEL NORTE, CONTRATOS CD08-11 Y CD09-11</name>
+		<Placemark>
+			<name>A-L47, FRACC REAL UNIVERSIDAD-INSURGENTES-MEXICO 68 Y DEPORTISTAS, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin32</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.1281579169447,28.70137779531621,0 -106.1263941503927,28.69729354723112,0 -106.127070984107,28.69704051440455,0 -106.1264831830765,28.69636695133446,0 -106.1274805843623,28.69275745011258,0 -106.1269076341046,28.69129219769177,0 -106.1310367094879,28.68989063251881,0 -106.1323156720002,28.68938278805931,0 -106.1312888490046,28.68683995068921,0 -106.1296321351588,28.6874411908551,0 -106.1257513154055,28.68876659218945,0 -106.1234119284923,28.68955530389587,0 -106.1199979103597,28.69080278766063,0 -106.1176219118861,28.69160136531506,0 -106.1149484202739,28.69251614429668,0 -106.116562657306,28.69416827542111,0 -106.1206280884985,28.69835076154511,0 -106.1228465172441,28.70063803523541,0 -106.124284372626,28.7021095557601,0 -106.12508294967,28.70289991698987,0 -106.1261794229348,28.70257139773572,0 -106.1267512999251,28.70241671110949,0 -106.1272362862563,28.70223604671835,0 -106.1275251294913,28.70210019930624,0 -106.1280891300769,28.7018640052221,0 -106.1278744228905,28.70166947541486,0 -106.1281579169447,28.70137779531621,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-L33, ADRIANA-LOMAS SAN JOSE-QUINTAS QUIJOTE-SAN JOSE Y TORRES DEL REY. LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin32</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.1206339918147,28.69050719526355,0 -106.1200168518779,28.6892151627876,0 -106.1196216111973,28.68862783196968,0 -106.119296078252,28.68802935399736,0 -106.1191343431831,28.68791306054363,0 -106.1180890898366,28.68584744707263,0 -106.1173702864706,28.68441677595089,0 -106.1172016645108,28.68398933945512,0 -106.1167352451468,28.68292511250653,0 -106.1162799519011,28.68193760153516,0 -106.1161531671615,28.68165278312462,0 -106.1156214484729,28.6818315637356,0 -106.1151276967843,28.682028094925,0 -106.1145905873937,28.68220639792785,0 -106.1140843140942,28.68238512114879,0 -106.1135912179072,28.68255520439974,0 -106.1130685240079,28.68276101808041,0 -106.1126398660207,28.68289493217563,0 -106.1120332027234,28.68311101705386,0 -106.1109219998842,28.68354257053177,0 -106.1113054154495,28.68438582051225,0 -106.1113801778371,28.68466192753627,0 -106.1113675456562,28.68508420816802,0 -106.1112577671877,28.68547406787936,0 -106.1109876087638,28.68610334190298,0 -106.1107330305741,28.68665052482661,0 -106.1105347401154,28.68703832848154,0 -106.110500659503,28.6873999806106,0 -106.1105936306445,28.68776489978888,0 -106.1107901040795,28.68808608723513,0 -106.1110682091132,28.6883924370768,0 -106.1115507092428,28.6889108483003,0 -106.1120621939923,28.68942642863646,0 -106.1128162591292,28.69019589872044,0 -106.1132135813831,28.69061178901041,0 -106.1143055085433,28.69175384454167,0 -106.1149228793673,28.69246185078373,0 -106.1149411586599,28.69247949963272,0 -106.1149338980515,28.69247662346395,0 -106.1206339918147,28.69050719526355,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-L8, SE, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin31</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.095530299344,28.71664250446849,0 -106.0954328049924,28.71626154524439,0 -106.0953061097443,28.71614592696174,0 -106.0951284921259,28.71572156999439,0 -106.0948442982299,28.7150620422332,0 -106.0941146091742,28.71334997516343,0 -106.0937858980493,28.71258030192952,0 -106.0927046559301,28.71085969289888,0 -106.0919576958258,28.7097847436654,0 -106.0915448495915,28.70922469168616,0 -106.0912312598376,28.70868151514291,0 -106.0908440258614,28.70761793470954,0 -106.0904909761526,28.70667070459782,0 -106.0901779964372,28.70577049195831,0 -106.0897483070441,28.70449959350943,0 -106.0884286464246,28.70076606294064,0 -106.0876600618678,28.69862980841901,0 -106.0867613722483,28.69606320576015,0 -106.0856059877409,28.6928110807793,0 -106.0843709935764,28.68936475482906,0 -106.083313371124,28.68983037736141,0 -106.0819808818444,28.69039744098161,0 -106.0810240700652,28.69079925184066,0 -106.0801850950137,28.69105948613536,0 -106.0790535703395,28.69152272320629,0 -106.0781796816143,28.69181901497986,0 -106.0775654304829,28.6920384590921,0 -106.0773071031074,28.69211848320346,0 -106.0763159790627,28.69237544423296,0 -106.0768748368644,28.69329312574149,0 -106.0769976856076,28.69393559623602,0 -106.0775728436919,28.69484037754501,0 -106.077993196206,28.69582804817759,0 -106.0786175158572,28.69747338874418,0 -106.079089047175,28.6992589888349,0 -106.0796664752101,28.70086923089602,0 -106.0800850534523,28.70236928417915,0 -106.0811065116575,28.7073594023072,0 -106.0818684838845,28.70921058391788,0 -106.0831618810954,28.71119070117212,0 -106.0843333250311,28.71323897487063,0 -106.0851290478144,28.71425488991303,0 -106.0864924727776,28.71812123794013,0 -106.095530299344,28.71664250446849,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-L123 PARTE 2, CDP-EL VERGEL, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin31</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.0958885873719,28.70683663640264,0 -106.0958269173358,28.70666929908928,0 -106.0956353209768,28.70652164428494,0 -106.0951661072474,28.70641755809023,0 -106.0942587011023,28.7064530951729,0 -106.0937362939162,28.70622991357545,0 -106.0934293605545,28.70588858196395,0 -106.0930790112417,28.70559046200843,0 -106.0927030220026,28.70559842780165,0 -106.0921243266878,28.70577102394303,0 -106.0917331940193,28.70569022134832,0 -106.0913561772432,28.70550663760758,0 -106.0909513975263,28.70496759124788,0 -106.0904728297284,28.7041482008689,0 -106.0898689888244,28.70383092652734,0 -106.0915025042838,28.70850040276525,0 -106.0934002696341,28.71158245741841,0 -106.0951624041839,28.71431440090843,0 -106.0970624572323,28.71512174691,0 -106.0994578332733,28.71464464547697,0 -106.103497251988,28.71295623352706,0 -106.1129635189627,28.7094829186344,0 -106.1165691027094,28.70802439401429,0 -106.1163382002995,28.70798798827966,0 -106.1153205700517,28.7080543626755,0 -106.1145389046662,28.70792674163798,0 -106.1137438665335,28.70796708184732,0 -106.1132281987925,28.7081098606639,0 -106.1125528124147,28.70817243998997,0 -106.1116807787465,28.7082353662883,0 -106.1111906819588,28.70760196334956,0 -106.1102348683416,28.70700231647472,0 -106.1083855852177,28.70724500638349,0 -106.1022858251751,28.70593397410076,0 -106.1019082418833,28.70615472484585,0 -106.1018751111506,28.7065444117177,0 -106.102402288306,28.70730145049071,0 -106.1023117785938,28.70769894895868,0 -106.1019935243198,28.70801722823784,0 -106.1017970297559,28.70814330072541,0 -106.1014657843493,28.70841262208414,0 -106.1011765331668,28.70855086444999,0 -106.100803707153,28.70851249829514,0 -106.1004386077791,28.70824779787985,0 -106.1002662487043,28.70805128688874,0 -106.1000292067383,28.70780879188382,0 -106.0998005868917,28.70762836349109,0 -106.0994855688929,28.70746167040798,0 -106.0991099126068,28.70748557596601,0 -106.0986824400488,28.70762329926451,0 -106.0982537997939,28.70766587775686,0 -106.0979479413945,28.70772755525351,0 -106.097542142264,28.70789835581064,0 -106.0970314953244,28.70793159668072,0 -106.0965274099556,28.70800169770973,0 -106.0959574125855,28.70802620359121,0 -106.0957292270255,28.70765241728084,0 -106.0958353666825,28.70714821371074,0 -106.0958885873719,28.70683663640264,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-M15, REVOLUCION, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin32</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.1222910710711,28.70054357245398,0 -106.1201769595957,28.69837882138285,0 -106.1191248208312,28.69878221942581,0 -106.1179359036192,28.6992512860042,0 -106.1159433375249,28.70008436241335,0 -106.1142731351962,28.70076565753062,0 -106.1102033433494,28.70237014841122,0 -106.1056433630932,28.70418718784362,0 -106.1021105942233,28.70557304795134,0 -106.1022332007913,28.70580822712166,0 -106.1034225137184,28.70613267104098,0 -106.1041737747041,28.70636839668543,0 -106.1067329902403,28.70678790581607,0 -106.1222910710711,28.70054357245398,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-M14, REVOLUCION, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin32</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.1200994813729,28.69830703321514,0 -106.1180009224563,28.6961443415969,0 -106.1159226322799,28.69692253397791,0 -106.1159253283266,28.69694237004219,0 -106.1159296372517,28.69694776976298,0 -106.1147246042946,28.69742312260216,0 -106.1125324241183,28.69832130944167,0 -106.1114038641724,28.69874874721418,0 -106.1089126702175,28.69973220997079,0 -106.1066592491028,28.70068916980309,0 -106.1044259993705,28.70157604798663,0 -106.1018839491572,28.70259749536749,0 -106.1008508554058,28.70294806505236,0 -106.102088218039,28.70550123550952,0 -106.1200994813729,28.69830703321514,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-M13, REVOLUCION, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin32</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.1179108567845,28.69607265773913,0 -106.1147369564357,28.69271632232644,0 -106.1094146727371,28.69459647202868,0 -106.103433421102,28.69669100241807,0 -106.0987971816309,28.69830332237412,0 -106.0995964863073,28.69902273231449,0 -106.0996603240426,28.69909582072551,0 -106.0995080612579,28.69979574964184,0 -106.0995746262745,28.70023043803628,0 -106.100826535306,28.70291261358003,0 -106.1179108567845,28.69607265773913,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-M12, FRANCISCO VILLA, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin31</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.1146206398753,28.69259691205341,0 -106.1126119800083,28.6904468188548,0 -106.1116508378857,28.69081031054318,0 -106.0935594743157,28.69723386360202,0 -106.0946818627095,28.69963383254536,0 -106.1069697668083,28.69535526443955,0 -106.1115466625035,28.69374384573208,0 -106.1137298489389,28.69294566374811,0 -106.1146206398753,28.69259691205341,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-L29, PAQUIME-LOMAS KARIKE Y DIEGO LUCERO, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.1282224714174,28.68036345995545,0 -106.128216561431,28.68033268029622,0 -106.1270340721702,28.67779206384943,0 -106.1261478632097,28.6759423141239,0 -106.124642200721,28.67276141745741,0 -106.1231744151663,28.67318412018124,0 -106.1223395048156,28.67132482299731,0 -106.1208870753653,28.67183348014656,0 -106.1213236147204,28.67277246545408,0 -106.1216209062839,28.67335513008906,0 -106.1217508477573,28.67365634122918,0 -106.1215626914325,28.67374792954719,0 -106.1221277971166,28.67501091657218,0 -106.1223287903566,28.67552580525932,0 -106.1223296385716,28.67574084541815,0 -106.1223180376059,28.67647636373288,0 -106.1228707112316,28.6777866715294,0 -106.1246880331978,28.68160389079632,0 -106.1282224714174,28.68036345995545,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-L28, TIERRA Y LIBERTAD, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin32</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.1245604236225,28.68162650732702,0 -106.1229086410525,28.67819565389485,0 -106.1227056932791,28.67828708964507,0 -106.1225292106608,28.67843578453984,0 -106.1223070838998,28.67867922813581,0 -106.1220686661215,28.67901614484144,0 -106.1216245701606,28.67964457460714,0 -106.1213114720567,28.68002613914928,0 -106.1209788989388,28.68020104677055,0 -106.1204701432918,28.68038771058607,0 -106.1199811717525,28.68057011085518,0 -106.1197537723611,28.68057354917337,0 -106.1193998039087,28.6805327825464,0 -106.119072164968,28.68045440267859,0 -106.1188056912718,28.68031052749758,0 -106.1186149715977,28.68016938755799,0 -106.1181233014461,28.67981496830383,0 -106.117707264273,28.67950390802925,0 -106.1174163920126,28.6792354780238,0 -106.1172421576002,28.67877688506827,0 -106.1170540031164,28.67854848278399,0 -106.1165087452212,28.67835799743399,0 -106.116034044403,28.67828268605486,0 -106.1154288666861,28.67832861139074,0 -106.1148118508793,28.6784956262921,0 -106.1154884962649,28.67996737758411,0 -106.1154857213978,28.6799747893661,0 -106.1163384976672,28.68179011350005,0 -106.1174208577488,28.68422150263042,0 -106.1245604236225,28.68162650732702,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-L36, INFONAVIT NACIONAL, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin32</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.1228346014182,28.67796511458955,0 -106.122188431255,28.67652365544001,0 -106.1222010883103,28.67559271037978,0 -106.1221937720783,28.67541187813314,0 -106.1221026598123,28.67521131454473,0 -106.1214309989855,28.67378674897326,0 -106.120953449654,28.67394456123003,0 -106.1206308916313,28.67398926943278,0 -106.1189366840595,28.67458148525514,0 -106.1158713489147,28.67552700323006,0 -106.1166479933574,28.67712196040479,0 -106.1167278099214,28.67728505970829,0 -106.1167027060717,28.67758854730938,0 -106.1165338176972,28.67806995525061,0 -106.1173030804099,28.67841441113395,0 -106.1174143063209,28.67857102988161,0 -106.1177302100438,28.67867645553814,0 -106.1179927198137,28.67878790921753,0 -106.1183583160461,28.67903207462369,0 -106.1186899501049,28.67932098486121,0 -106.1192346258879,28.67963006192776,0 -106.1195872042812,28.6797461207129,0 -106.1199218721698,28.67976172849646,0 -106.1204248223615,28.679605122943,0 -106.1210253791397,28.67943108491318,0 -106.1215380952097,28.67913779113769,0 -106.1217725983483,28.67895854418866,0 -106.1228346014182,28.67796511458955,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-L27, COL MAJALCA-LAURA LETICIA-LOURDES Y CHURUBUSCO, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin31</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.1161033360949,28.68158353493325,0 -106.1146522566684,28.67856118257978,0 -106.1080483181954,28.68093225240848,0 -106.1083016856655,28.68115077615036,0 -106.1086818143562,28.68156240231399,0 -106.1093368192717,28.68203038022935,0 -106.1101315863589,28.68278967783059,0 -106.1108762926832,28.68347658364914,0 -106.1161033360949,28.68158353493325,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-L26, LOS MEZQUITES-SAUCITO Y DIEGO LUCERO, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin31</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.1278836867494,28.66786741986037,0 -106.1274592788824,28.66808810113894,0 -106.1272825339816,28.66778824817245,0 -106.1271723560275,28.66761383420137,0 -106.1269358125469,28.66727032261891,0 -106.1265269560884,28.66737270946211,0 -106.1264953883957,28.66702994148591,0 -106.1264805212165,28.66675755716805,0 -106.1265139076911,28.66648118973576,0 -106.1266312835023,28.66617459006173,0 -106.1261881151649,28.66613628099763,0 -106.1259330391146,28.66607422990607,0 -106.1256630757746,28.66601780177608,0 -106.1254451348083,28.66637463908423,0 -106.1253264116195,28.66653833091714,0 -106.1251148796984,28.66669315433668,0 -106.1213610869645,28.66804593136379,0 -106.1215566388882,28.66835477760946,0 -106.1217095771644,28.66847985762909,0 -106.1218274809578,28.66854760245571,0 -106.1219883174771,28.6686323016899,0 -106.1222006877352,28.66876872562443,0 -106.1223265874929,28.66888890043099,0 -106.1224623100559,28.66900466454887,0 -106.1226337097371,28.6692274891419,0 -106.1227861894926,28.6695662693602,0 -106.1229538408778,28.66995535505711,0 -106.1233406769503,28.67096238885686,0 -106.1237232779979,28.67082529469267,0 -106.1242691444866,28.67064490814668,0 -106.1250857295095,28.67034732692587,0 -106.1259109296233,28.6700893274333,0 -106.1263193909114,28.66995756667089,0 -106.1268897728447,28.67114912481418,0 -106.1275879910576,28.67092955143365,0 -106.1280570811693,28.67058075771582,0 -106.1291828691187,28.66993456616847,0 -106.1294172196529,28.66978841684852,0 -106.1278836867494,28.66786741986037,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-L25, DIEGO LUCERO, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin31</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.1232932678226,28.6709776593159,0 -106.1228296818196,28.6699338510247,0 -106.1227037078297,28.66956489386772,0 -106.1225382148992,28.6692586206365,0 -106.1223539524559,28.66905195007936,0 -106.1221474705,28.66886819654541,0 -106.1218901171323,28.66869557800294,0 -106.121751163729,28.66864448376362,0 -106.1215508085909,28.66854621871488,0 -106.1214711352919,28.66844166015309,0 -106.1213594339663,28.66832178576566,0 -106.1212507929103,28.66807178108558,0 -106.1207069585336,28.66815303915806,0 -106.1197210855449,28.66824535002002,0 -106.1192365961437,28.66827752855738,0 -106.1189079096776,28.66833429520252,0 -106.1186879101516,28.66848614961332,0 -106.1183368320145,28.66864851998448,0 -106.1176225764657,28.66891408784911,0 -106.1171345785772,28.66907418566808,0 -106.1187806707383,28.67244702157087,0 -106.1220274040194,28.67136456799732,0 -106.1232932678226,28.6709776593159,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-M11, CDP Y SECTOR INDEPENDENCIA, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin31</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.0929536523924,28.69590685133841,0 -106.0875826583706,28.69774392182304,0 -106.0897376113237,28.70376463573706,0 -106.0955296789821,28.70184303684927,0 -106.0929536523924,28.69590685133841,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-M10, FRANCISCO VILLA, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin31</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.1125719111117,28.69041118288719,0 -106.1106907798473,28.6884452459842,0 -106.0963915724739,28.69353027181266,0 -106.096831695174,28.69447925009299,0 -106.0929386415625,28.69578580838373,0 -106.0935576454435,28.69719088637035,0 -106.1125719111117,28.69041118288719,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-M9, FRANCISCO VILLA, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin31</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.1106184520146,28.68841005880619,0 -106.1103344271379,28.68798365008546,0 -106.1101982256807,28.68747762687077,0 -106.1102699438821,28.68704438593638,0 -106.1105537173068,28.68634198638635,0 -106.1107732756884,28.68575779852136,0 -106.1109204035668,28.68533138755113,0 -106.1109822215147,28.68508654464872,0 -106.1110661057158,28.68474633130544,0 -106.1109967182775,28.6844812351373,0 -106.1108370732468,28.68403871970448,0 -106.1105648252181,28.68371262362534,0 -106.1016134102697,28.68692598677338,0 -106.1031337307839,28.6900886040233,0 -106.1007664989567,28.69096870369792,0 -106.0994136934503,28.69143761271963,0 -106.0959894449886,28.69263947679514,0 -106.0963877647658,28.69345005312711,0 -106.1034424000209,28.69092069574738,0 -106.1106184520146,28.68841005880619,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-M6, VILLA VIEJA-FRACC GLORIA Y VILLA NUEVA, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin31</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.1105906646481,28.68364463229224,0 -106.1087280220019,28.68207917753347,0 -106.1083829816946,28.68177114883669,0 -106.1081969456403,28.68162398179817,0 -106.1079562991802,28.68146563497439,0 -106.1078211486483,28.68141898826639,0 -106.1075593613204,28.6813571642912,0 -106.1074568636084,28.68133901498081,0 -106.1072782523763,28.68132781936201,0 -106.1070762135634,28.68134854156084,0 -106.1068408597448,28.68137639671562,0 -106.0966224319188,28.68504114986668,0 -106.0980872819494,28.6881156507881,0 -106.1105906646481,28.68364463229224,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-M7, VILLA VIEJA Y CTM, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin31</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.1030144492639,28.69004435011963,0 -106.1015858443855,28.68697471235589,0 -106.0980245592924,28.68823115372204,0 -106.0965200473992,28.68509166825629,0 -106.0930066369116,28.68636086493441,0 -106.0892787397792,28.68814376476815,0 -106.0929109838404,28.69576376579843,0 -106.0966406986229,28.6944534258575,0 -106.0958002346664,28.69264656658833,0 -106.1009217271233,28.69085620849138,0 -106.1030144492639,28.69004435011963,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-M4, RIO AROS-RINCON DEL LAGO-ROMA Y SANTA BARBARA, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin31</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.0998631366745,28.67435183853122,0 -106.0964271270342,28.67545499870603,0 -106.0981534653264,28.67949348070644,0 -106.1001457379912,28.68359622942782,0 -106.1074075049558,28.68100196900471,0 -106.0998631366745,28.67435183853122,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-M172, CDP, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin31</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.1020090191851,28.7059559575558,0 -106.0992479349961,28.70004621045419,0 -106.0992496998262,28.69981635869719,0 -106.0994230885966,28.69933548423669,0 -106.0994287720118,28.69903265903947,0 -106.0991131502441,28.69875786789217,0 -106.0987376613351,28.69848523363866,0 -106.0985419512901,28.69831769879188,0 -106.0946380979594,28.69968305665765,0 -106.0956012604121,28.70182089073154,0 -106.0900841783606,28.70370886157982,0 -106.0903944959023,28.7039356762299,0 -106.0906254324945,28.70411823275204,0 -106.0908452416267,28.70443074830741,0 -106.0910688206461,28.7048152332705,0 -106.0911903821354,28.70508021097229,0 -106.0913124063717,28.70529629616114,0 -106.0914742111314,28.70547876106556,0 -106.0917755387923,28.70555059918537,0 -106.0920036206745,28.70563148796098,0 -106.0921939156873,28.70561088889857,0 -106.0923279888957,28.7055505361193,0 -106.0925360434235,28.70547162771309,0 -106.0927292712437,28.7053868760452,0 -106.0929588836319,28.70539355212235,0 -106.0931464389343,28.7054330858913,0 -106.0933005944177,28.70553339941437,0 -106.0934311935479,28.70561198900154,0 -106.0935850547101,28.70581286908696,0 -106.0937182437708,28.70595060235971,0 -106.0939335657492,28.70617622980226,0 -106.0942674933114,28.70630445270932,0 -106.0945620046845,28.70632193884629,0 -106.0955972564319,28.70628435938934,0 -106.0957657506083,28.70634838756965,0 -106.0959798509637,28.7064361931417,0 -106.0960846322473,28.70662267553308,0 -106.0961024937715,28.70681426851739,0 -106.0960759573263,28.70699367605289,0 -106.0960180821497,28.70717932739104,0 -106.0959963591547,28.70733446411589,0 -106.0959445835833,28.70746458534237,0 -106.0959258860815,28.70761768214999,0 -106.0959025384734,28.70773893653515,0 -106.0959965892227,28.70786936434787,0 -106.0962284619684,28.70790354687974,0 -106.0964881641973,28.70786398654103,0 -106.0968246135061,28.70785655283817,0 -106.0970298287429,28.70785796744412,0 -106.0973806865123,28.70781789176871,0 -106.0976851711636,28.70773852520814,0 -106.0984408846991,28.70755962962371,0 -106.0988706337885,28.70742857071293,0 -106.0993307044855,28.70730849823778,0 -106.0995772719337,28.70735130005694,0 -106.0997725249954,28.70739673804282,0 -106.0999680273631,28.70750268577174,0 -106.1001517404798,28.70763745869286,0 -106.1003037263937,28.70777154626909,0 -106.1004064403378,28.70792989024406,0 -106.1005536669567,28.70807719082887,0 -106.1006484626098,28.70818448735085,0 -106.1007930917594,28.70836721212674,0 -106.1009203196484,28.70845457144666,0 -106.1010699824516,28.70846767007425,0 -106.101234803522,28.70841458945634,0 -106.1014348150812,28.70828264585839,0 -106.1016199147723,28.70813225840182,0 -106.1017507498734,28.70801322273521,0 -106.1018329032795,28.70791014046381,0 -106.1019781375934,28.70783930370082,0 -106.1021033308147,28.70777374505385,0 -106.1022079747957,28.70762721985878,0 -106.1022535044974,28.70736935183738,0 -106.1019555288142,28.7067920887941,0 -106.1017265941788,28.70635746954281,0 -106.1017458608156,28.70616974843344,0 -106.1020090191851,28.7059559575558,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-L123 PARTE 1, CDP-EL VERGEL, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.0928622684063,28.6958840365849,0 -106.0915857354475,28.69318398360921,0 -106.0906230060662,28.69347635382975,0 -106.0896198598935,28.69372210654173,0 -106.0886284543706,28.69383593413564,0 -106.0885335982666,28.69383958587886,0 -106.0884304198556,28.69373925455851,0 -106.0879788047607,28.69375358715275,0 -106.0874630573699,28.69394349105295,0 -106.0872902351886,28.69401590572307,0 -106.0870431844384,28.69406403832328,0 -106.0869300590409,28.69404945567263,0 -106.0866605838275,28.69404185936098,0 -106.0864560435934,28.69405835167008,0 -106.086325923403,28.69409156719783,0 -106.0875702630292,28.69768834326511,0 -106.0928622684063,28.6958840365849,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>HIMALAYA Y SACRAMENTO</name>
+			<LookAt>
+				<longitude>-106.087245355558</longitude>
+				<latitude>28.71786710775795</latitude>
+				<altitude>0</altitude>
+				<heading>0.01221661583011104</heading>
+				<tilt>30.00434375281654</tilt>
+				<range>967.3078532383196</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-106.0867559450057,28.71804847757992,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marca de posición sin título</name>
+			<LookAt>
+				<longitude>-106.0932334436533</longitude>
+				<latitude>28.71435517740526</latitude>
+				<altitude>0</altitude>
+				<heading>0.00933564994387103</heading>
+				<tilt>30.00286605091407</tilt>
+				<range>638.2480798042474</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-106.0944195827299,28.71416583091675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EVEREST E HIMALAYA</name>
+			<LookAt>
+				<longitude>-106.0913343740073</longitude>
+				<latitude>28.71538539414263</latitude>
+				<altitude>0</altitude>
+				<heading>0.004826236951501939</heading>
+				<tilt>29.01462454176601</tilt>
+				<range>850.841716813021</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-106.0930686842763,28.71700901181584,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ORIZABA Y EVEREST</name>
+			<LookAt>
+				<longitude>-106.0921080716471</longitude>
+				<latitude>28.71415471043228</latitude>
+				<altitude>0</altitude>
+				<heading>0.0009340000185303454</heading>
+				<tilt>28.39539174591926</tilt>
+				<range>436.7915272755512</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-106.0926603728782,28.71440799455403,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Marca de posición sin título</name>
+			<LookAt>
+				<longitude>-106.0899102560958</longitude>
+				<latitude>28.71453694417573</latitude>
+				<altitude>0</altitude>
+				<heading>0.01084992520491298</heading>
+				<tilt>30.00282370665927</tilt>
+				<range>628.8137437429233</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-106.0903078838744,28.71373020223886,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CALLE 3RA SUR</name>
+			<LookAt>
+				<longitude>-106.0852559139334</longitude>
+				<latitude>28.68487808250914</latitude>
+				<altitude>0</altitude>
+				<heading>-1.273972709743948</heading>
+				<tilt>28.01863440039735</tilt>
+				<range>2778.109371644549</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-106.0845075837435,28.69356013955418,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>A-M188, QUINTAS CAROLINAS-JARDINES DE SACRAMENTO-LOS POTREROS-, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin31</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.0865160583731,28.71812044752021,0 -106.0884605689083,28.71777789325389,0 -106.0877120940367,28.71635558938573,0 -106.087543333587,28.71584020080818,0 -106.0875384371706,28.71511685094705,0 -106.0886546323512,28.71499514843697,0 -106.0886622284127,28.71519859858174,0 -106.0886777827534,28.71541581315312,0 -106.0886488548273,28.71572321437181,0 -106.088776219857,28.71586721948941,0 -106.0890179947174,28.71585629693793,0 -106.0892426607724,28.7158373541358,0 -106.0894503289317,28.71583806609053,0 -106.0897477749148,28.71579030776438,0 -106.0901051581681,28.71566984503638,0 -106.0903917505969,28.71566781409898,0 -106.0905998578863,28.71561261391165,0 -106.090747012017,28.71553172908179,0 -106.0907806402067,28.71537565273943,0 -106.0907859776299,28.71526511070326,0 -106.0907831437283,28.7150734579875,0 -106.0907532255531,28.71492694609956,0 -106.0907323533054,28.71479111789149,0 -106.0907339567039,28.71472799094048,0 -106.0908559318504,28.71471939947506,0 -106.0909839502035,28.71470788076901,0 -106.0909835479372,28.71483207132598,0 -106.0909815697888,28.71497750247771,0 -106.0910335269196,28.71509469352566,0 -106.0911837071066,28.71503370331822,0 -106.09144050591,28.71494595693633,0 -106.0919257150622,28.71493123280566,0 -106.0922517963066,28.71487585840005,0 -106.092511530998,28.71484175922867,0 -106.0925982844479,28.71479721922936,0 -106.0925478219076,28.71447616850116,0 -106.0924480305665,28.71415809892734,0 -106.092362366213,28.71398777598321,0 -106.0922723848287,28.71386400107721,0 -106.0921487898182,28.71371740237679,0 -106.0920900086554,28.71367233645138,0 -106.0919451177975,28.71368437509421,0 -106.0917061514687,28.71370771209321,0 -106.0914920005357,28.71376670261849,0 -106.0911067567914,28.71385212500126,0 -106.0909379462458,28.71386155814864,0 -106.0908947374728,28.71389447830801,0 -106.0909476359346,28.71400190714883,0 -106.0909978407889,28.71410672256528,0 -106.0910183277736,28.7142302286666,0 -106.0910262236201,28.71433037779037,0 -106.0910250741271,28.71445120319296,0 -106.0910243779001,28.71452439059174,0 -106.0910003674247,28.71461827770051,0 -106.0909112121728,28.71467309454186,0 -106.0908274920884,28.71466552229846,0 -106.0907393622852,28.7146564613919,0 -106.0906648572577,28.71465684856601,0 -106.0906141307725,28.71464760605069,0 -106.0905867348669,28.71455841192446,0 -106.0905982222309,28.71443891560595,0 -106.0905735913482,28.71432579437369,0 -106.0905735350017,28.71418917962705,0 -106.0905072448737,28.7140250027237,0 -106.0904237175244,28.71385878701158,0 -106.0903362588949,28.71372800429886,0 -106.0900617480369,28.71375349655902,0 -106.089870924058,28.71377280033354,0 -106.089564254698,28.71382815685607,0 -106.0893539625086,28.71385277303077,0 -106.0891407748942,28.71391032062287,0 -106.0889400201116,28.71391346351836,0 -106.0887096263234,28.71393409296831,0 -106.0886530797,28.71409032819348,0 -106.0886351712001,28.71419245244715,0 -106.0886337250811,28.71428269181842,0 -106.0886317274629,28.71441591695054,0 -106.0886527253406,28.71454714288849,0 -106.0886569348725,28.71467635280887,0 -106.0886670305361,28.71482086539811,0 -106.0886240591139,28.71494584262287,0 -106.088556066168,28.71498285107174,0 -106.0884489260489,28.7149859175962,0 -106.0883240851354,28.71499573815667,0 -106.0881359822298,28.71501223558422,0 -106.0879794314757,28.71502858167595,0 -106.0878592849587,28.71503078976548,0 -106.0877286523958,28.71504174266527,0 -106.0876469357134,28.71504463296181,0 -106.0875526755472,28.71504338371116,0 -106.0874959422895,28.71498536689455,0 -106.0874769501538,28.71487380676665,0 -106.0873452106711,28.71371682021113,0 -106.0873223432916,28.71355861294459,0 -106.0863628220635,28.71382247183436,0 -106.0859001731593,28.71396392173559,0 -106.0857554419579,28.71404174689195,0 -106.0856113153038,28.71414208367813,0 -106.0854995469237,28.71419765092936,0 -106.0865160583731,28.71812044752021,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-L24, SAN IGNACIO-ROMA, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.1135568325534,28.67096701791466,0 -106.111675953697,28.67163000459311,0 -106.1103622639632,28.67210647627127,0 -106.1106622246899,28.67264704070961,0 -106.1108066807763,28.67277118145831,0 -106.1110188350244,28.6731822554554,0 -106.1109227636552,28.67322392967833,0 -106.1083873483202,28.67412115155114,0 -106.109916108776,28.67734659739316,0 -106.1156843699825,28.67545607135228,0 -106.1135568325534,28.67096701791466,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-M23, PANORAMICO, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.1149599799807,28.66458244896648,0 -106.111284615363,28.66588798201801,0 -106.1115401078115,28.66630549298187,0 -106.1117679125883,28.66673134419288,0 -106.1119856048223,28.6671722939973,0 -106.1122267811388,28.66775627418396,0 -106.1127242046847,28.66879794599186,0 -106.113380050635,28.6702476531173,0 -106.1137265669234,28.67109882828485,0 -106.1144169968027,28.67252266752972,0 -106.115828389384,28.67534462583053,0 -106.1158469059695,28.67544605461544,0 -106.1195082724397,28.67432972084603,0 -106.1149599799807,28.66458244896648,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-L22, LOMAS VALLARTA-SAN AGUSTIN Y GRANJAS, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.1053269092093,28.66731849112571,0 -106.1058493067659,28.66844363023069,0 -106.1063660084763,28.66951792337366,0 -106.1068441903307,28.67055770044428,0 -106.107445002635,28.67189559059152,0 -106.1084120442934,28.67406950045633,0 -106.1090834998994,28.67382992948762,0 -106.1096494578566,28.67361397592228,0 -106.1108972849297,28.67317887474614,0 -106.1107097056397,28.67282549038158,0 -106.1104732572543,28.67257959948651,0 -106.1102414557057,28.67207905473083,0 -106.1135027994029,28.67087624258513,0 -106.1109321782295,28.66534119514353,0 -106.1053269092093,28.66731849112571,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-L21, ARBOLEDAS, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.1156366750538,28.66579765676856,0 -106.1178104250832,28.66544228802336,0 -106.1185788388281,28.6648610063668,0 -106.1202245613526,28.6634698152863,0 -106.1212619753722,28.66229637954285,0 -106.1210147134253,28.66172210773666,0 -106.1207926109147,28.66124574554744,0 -106.1193461907272,28.66181193081384,0 -106.1188883882412,28.66141951286036,0 -106.1187725113402,28.65997008971351,0 -106.1176112360165,28.6600476840077,0 -106.1157757888615,28.66031046999951,0 -106.1147153656087,28.66049491420406,0 -106.1141961671941,28.66056789838968,0 -106.1135302388696,28.66066043694904,0 -106.1131145196001,28.66082238325741,0 -106.114621143622,28.66425752348949,0 -106.1131700712138,28.66481227648366,0 -106.1132906969347,28.66511653453339,0 -106.1150100662351,28.66448045952721,0 -106.1156366750538,28.66579765676856,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-L20, COLINAS DEL SOL-ARBOLEDAS Y LOMAS LOS FRAILES, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin20</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.1133207941338,28.66063924925438,0 -106.1141322618275,28.6604235333552,0 -106.1151847630198,28.66028693037177,0 -106.1161507787363,28.66011853279601,0 -106.1175966031352,28.65993354278358,0 -106.1187750660976,28.65983963448809,0 -106.1188640910229,28.6610758037182,0 -106.1189445131476,28.66141827765248,0 -106.1193445557107,28.66178551167135,0 -106.1208006080917,28.6612478313763,0 -106.1205731605241,28.66074602656315,0 -106.1208406747608,28.66066034523267,0 -106.1231094516798,28.65993003216428,0 -106.1248682373025,28.65925359917347,0 -106.1245912532297,28.658761195118,0 -106.1264444235762,28.65813102583522,0 -106.1274108048954,28.65768320204067,0 -106.1285316690791,28.65727560808099,0 -106.1286017179938,28.65710621422125,0 -106.1289365510164,28.65616629923695,0 -106.1291572554557,28.6558321561115,0 -106.1294241697055,28.65543286865697,0 -106.1296841405874,28.65504808741824,0 -106.1219401552147,28.65764908946412,0 -106.1203584629645,28.65816293600991,0 -106.1196229697167,28.65842401570334,0 -106.1194201751084,28.65802322417554,0 -106.1186522748963,28.65829130447396,0 -106.1186758611668,28.65877838649714,0 -106.1175226103786,28.65916200056845,0 -106.1165079723374,28.65898775859047,0 -106.1149665918035,28.65870530159966,0 -106.1129709515556,28.65837170285458,0 -106.1128805456107,28.65885471709317,0 -106.1128128639223,28.6592586341819,0 -106.1128130084522,28.65948121874503,0 -106.1133207941338,28.66063924925438,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-M150, VISTAS DE SACRAMENTO-BARRIO DEL NORTE-PASO DEL NORTE-RODOLFO AGUILAR-SAN FRANCISCO Y LINCE, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin20</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.0726554401997,28.67472957293581,0 -106.0752763534958,28.67395908066363,0 -106.0755425132631,28.67363108660003,0 -106.0784132395221,28.6727801983975,0 -106.0792384582922,28.67452357041072,0 -106.0824597968663,28.67344338164192,0 -106.080799649927,28.67005904322827,0 -106.0802458910935,28.66882214005343,0 -106.0793613139086,28.66687367671394,0 -106.07872596623,28.66561537833109,0 -106.0782868384466,28.66567925768915,0 -106.0776007160085,28.66596319294022,0 -106.0771411758307,28.66610999331895,0 -106.0764978062074,28.66630244559638,0 -106.076066266447,28.66641928668406,0 -106.0756335382408,28.66635121717125,0 -106.0747596262588,28.66598228129213,0 -106.0736648527273,28.6655731108462,0 -106.0727259457668,28.66517978112084,0 -106.0714081114106,28.66466737786792,0 -106.0701647094071,28.66420400342438,0 -106.0696584727519,28.66386502846695,0 -106.0693069688394,28.66360427734719,0 -106.0690463097437,28.66360155590262,0 -106.0689099017914,28.66372605464338,0 -106.0678233767116,28.67011019768636,0 -106.0659266354258,28.6713912608084,0 -106.0653227313069,28.67155307433729,0 -106.0642092114555,28.67192151664308,0 -106.0635618004541,28.67223702097094,0 -106.0627893352391,28.6723185464264,0 -106.061566089527,28.67185935292823,0 -106.0612599695938,28.67193589307981,0 -106.0611037960792,28.67248685589473,0 -106.0613130178658,28.67338854883625,0 -106.0622574481235,28.67353902601269,0 -106.0627395267365,28.67340387632828,0 -106.0652658406528,28.67482040648222,0 -106.0661454328306,28.67503186011502,0 -106.067485814294,28.67546537720059,0 -106.0685065196057,28.67560139645233,0 -106.0697669984891,28.67527065448726,0 -106.071257670806,28.67506778367821,0 -106.0726554401997,28.67472957293581,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-L89, POPULAR-EL BAJO-SANTO NIÑO-HACIENDA DE LA FLOR Y JOSEFA ORTIZ DE DOMINGUEZ, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin20</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.0744918470423,28.66206843883787,0 -106.0763060986426,28.66151514587709,0 -106.0760834825043,28.6610424620693,0 -106.0782524570404,28.65949750548727,0 -106.0781620554362,28.65911148441779,0 -106.0778207667052,28.65817523343535,0 -106.0787573391763,28.65732670278065,0 -106.0795831315602,28.65674221067931,0 -106.0856921566644,28.65109572732854,0 -106.0840330689133,28.64968325884447,0 -106.0831811774866,28.64893391243184,0 -106.082371563355,28.6481293302404,0 -106.0798637585437,28.64584525721649,0 -106.0790352080129,28.64505168487825,0 -106.0774140588685,28.64349583651077,0 -106.0763154448053,28.64262060560028,0 -106.0757091381752,28.64327441051562,0 -106.075199333576,28.64381108059448,0 -106.0746768934518,28.64450562032291,0 -106.0742048411829,28.64546998940921,0 -106.0738336216635,28.64638717666501,0 -106.0731372145617,28.64817573774808,0 -106.0725282282023,28.64890953532541,0 -106.0714233298428,28.64957056156872,0 -106.067765254519,28.64636375091642,0 -106.0660192015834,28.64802651492109,0 -106.0650106442404,28.64912086921416,0 -106.0605846090921,28.65348711746552,0 -106.0598059419086,28.65426842883361,0 -106.0589591233321,28.6550869627966,0 -106.0578515864053,28.65625493920836,0 -106.0568295946647,28.6572498534695,0 -106.0577226870998,28.6577621357135,0 -106.0581570770412,28.65811594096212,0 -106.0589055471695,28.65858788146032,0 -106.0595372357062,28.6588784215227,0 -106.0605414541274,28.65916185173348,0 -106.061793136667,28.65929611623013,0 -106.0626527708713,28.65934272707636,0 -106.0636020617374,28.65931728634575,0 -106.0642756685239,28.65946564058599,0 -106.0648034210814,28.65962346811601,0 -106.0654414959108,28.65988118136612,0 -106.0660429502329,28.66017332907089,0 -106.0665658891561,28.66054559738793,0 -106.0673077247024,28.66110116289821,0 -106.067928644968,28.66165375247692,0 -106.068258836259,28.66196026827878,0 -106.0685676433017,28.66229041668462,0 -106.0688176477534,28.66257748772329,0 -106.0688914423438,28.66294674481925,0 -106.0690897707695,28.66307477395175,0 -106.0745937404479,28.66233691778876,0 -106.0744918470423,28.66206843883787,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-M5, VALLARTA-ROMA-KARIKE-LAGOS Y ZARAGOZA, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin20</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.104769407936,28.67823384225428,0 -106.1054076623412,28.67880234196606,0 -106.109882793218,28.67738889066521,0 -106.1057521180914,28.66848287819827,0 -106.1010191475118,28.67018337983876,0 -106.104769407936,28.67823384225428,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-M3, VICENTE GUERRERO-ADOLFO LOPEZ MATEOS Y OASIS REVOLUCION, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.1000473875819,28.68365340170849,0 -106.0988076854915,28.68104773566201,0 -106.0914822927639,28.68329716106582,0 -106.0875178839824,28.6751154016542,0 -106.0856390000613,28.67573030504508,0 -106.0846150942424,28.67600963257613,0 -106.0838305020132,28.67619956431091,0 -106.0822106011738,28.67659150346434,0 -106.0801472662721,28.67712998808177,0 -106.080977719176,28.67921231976613,0 -106.0817188717971,28.6812610798589,0 -106.0823802260009,28.68304502162353,0 -106.0833425755952,28.68603865568204,0 -106.0844651556695,28.6891383687403,0 -106.0863056647715,28.6940188317838,0 -106.0867473263984,28.69388763590854,0 -106.0869153937128,28.69393462897047,0 -106.0871652489988,28.69399420345335,0 -106.0873112740888,28.69397343809442,0 -106.0876618075419,28.69382060567078,0 -106.0878951615735,28.69373381781804,0 -106.0881409153872,28.69366023193082,0 -106.0882728801257,28.69369291061573,0 -106.0885201195025,28.69372256008905,0 -106.0886538319252,28.69376213454813,0 -106.0895425944339,28.6935873188359,0 -106.0906034775674,28.6932933518001,0 -106.0915236507385,28.69306579010697,0 -106.0911686842766,28.69231436261816,0 -106.0891866285625,28.68810029525701,0 -106.0896281068541,28.68780155394764,0 -106.091828570079,28.68669588570593,0 -106.1000473875819,28.68365340170849,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-M2, LOS NOGALES-SACRAMENTO-MORELOS-CONTINENTAL-NOMBRE DE DIOS-REAL SAN JUAN-SAN VIENTE-LUZ MARIA Y SAN CARLOS, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.0795630152119,28.67594410235857,0 -106.0784214226107,28.67285939399334,0 -106.0777380934854,28.67305294377795,0 -106.0773863291624,28.67315956751034,0 -106.0766039724491,28.67339182261446,0 -106.0763189456136,28.67346546648687,0 -106.0763610857395,28.67354906145498,0 -106.0762544067325,28.67360834143362,0 -106.0758884514103,28.67370533068164,0 -106.075816586109,28.67370681671331,0 -106.0757470191941,28.67370182998116,0 -106.0756772005994,28.67369230509025,0 -106.0756514440411,28.67370218256987,0 -106.0756046636949,28.67373549926501,0 -106.0755672682877,28.67379885502606,0 -106.0755151157508,28.67389337966114,0 -106.0754549086773,28.67393558536695,0 -106.0753561555389,28.67397217653207,0 -106.0745486925712,28.67422725427581,0 -106.0743130005507,28.67437430951903,0 -106.0734811540725,28.67459414145912,0 -106.0729194837888,28.67474471278268,0 -106.0720250422252,28.674973390835,0 -106.0712796604086,28.67514930079299,0 -106.0715161594536,28.67579151944962,0 -106.0717468510548,28.67630166701164,0 -106.0724075162666,28.67765084620168,0 -106.0729107768916,28.67866631775478,0 -106.0735611608127,28.67999193826636,0 -106.0742505644675,28.68190573652348,0 -106.0745833161145,28.6832773487903,0 -106.074907579831,28.68417645906851,0 -106.0753956728503,28.68498530338504,0 -106.0759145738962,28.68609614608,0 -106.076200853386,28.68685793194615,0 -106.0763732431158,28.68780185969766,0 -106.076744358125,28.68974643740669,0 -106.0768666024004,28.69049275333621,0 -106.0770166938238,28.69112911384589,0 -106.0772563218685,28.69197641078776,0 -106.0784269652104,28.69162997863911,0 -106.0810830122799,28.6906273994456,0 -106.0819527070916,28.69027314843554,0 -106.0826299108865,28.68998513771687,0 -106.0832239991555,28.68979756201331,0 -106.0832910025698,28.68968370701655,0 -106.0843666500849,28.68933283231643,0 -106.0795630152119,28.67594410235857,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-M1, SAN RENE-LINCE-EL VALLECILLO-SAN JUAN BAUTISTA-JUNTA DE LOS RIOS Y CERRO PRIETO, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.0747902659047,28.66276397109885,0 -106.0737167939511,28.66293513831609,0 -106.0724112427775,28.66312575059613,0 -106.0701258895173,28.66343726543873,0 -106.0694508550909,28.66353237920876,0 -106.069200959632,28.66348284248128,0 -106.0686196445853,28.66314793491052,0 -106.0684023420122,28.66318415253566,0 -106.0676550499544,28.66336272972724,0 -106.0673946072277,28.66295161279212,0 -106.0666863913657,28.66238850691941,0 -106.065881747944,28.66186666693708,0 -106.0648573601247,28.66115342940097,0 -106.0642945608823,28.66116244324827,0 -106.0638192290884,28.66110209339656,0 -106.0631667343006,28.66201881893564,0 -106.0631229526398,28.66224218090014,0 -106.0629490158765,28.66258518481499,0 -106.0629774869499,28.66307821616324,0 -106.0628170266092,28.66328992659621,0 -106.0627794133926,28.66341588663252,0 -106.0629258293602,28.66354547031,0 -106.062968926486,28.66369331486312,0 -106.0628810623347,28.66389213717992,0 -106.06274614955,28.66402777009838,0 -106.0630291601298,28.66418939096877,0 -106.063091013372,28.66437427462627,0 -106.0632164783313,28.66481327410903,0 -106.0645069138937,28.66545397816612,0 -106.0645897392645,28.66566262782534,0 -106.0647289245532,28.66617247339703,0 -106.0650130331557,28.66676552427574,0 -106.0655279519003,28.66719379414161,0 -106.0658022188052,28.66737922786056,0 -106.0664748336652,28.66724500115469,0 -106.0672203776434,28.66699044158358,0 -106.0673362362252,28.66663494678024,0 -106.0672266296737,28.66628405141881,0 -106.0671306167767,28.66583285586991,0 -106.0670357267725,28.66553545500035,0 -106.0670858415205,28.66524695823455,0 -106.067253059138,28.66491921745443,0 -106.067415640257,28.66471696165208,0 -106.0677121271954,28.6645182535099,0 -106.0677806220937,28.6642061694666,0 -106.0678218988516,28.66382240818994,0 -106.0677548778091,28.66350308270447,0 -106.0682437100265,28.66342520490429,0 -106.0685083698379,28.66341343128783,0 -106.0685834571972,28.66357818097094,0 -106.0689158081101,28.66357760318867,0 -106.0693689839536,28.66354377238826,0 -106.0695035201657,28.66361068546802,0 -106.0699059445334,28.6638539323956,0 -106.0702591405595,28.66410549004863,0 -106.0711672956242,28.66446958240321,0 -106.07251176062,28.66500010164482,0 -106.0733148210498,28.66533147348195,0 -106.075119680666,28.66604037432852,0 -106.0759502964412,28.66634343470426,0 -106.0760769197567,28.66631012681246,0 -106.0747902659047,28.66276397109885,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-L135, LA CONCORDIA-ROBINSON Y ARTURO GAMEZ, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.0521008623196,28.65471891751792,0 -106.050704047492,28.65400353300787,0 -106.0494729292943,28.6532598292226,0 -106.0451934568723,28.65110546681546,0 -106.0444478385383,28.65087301439183,0 -106.0435604014021,28.65059443407696,0 -106.0423820381542,28.65032526002747,0 -106.0416596983424,28.65021624594779,0 -106.0408194748187,28.6500060045788,0 -106.0394174321756,28.64963372906962,0 -106.0392520781668,28.65077707642288,0 -106.0381278658246,28.65118298574518,0 -106.03718396701,28.65147473699449,0 -106.0362945209851,28.65175489344636,0 -106.0358067106586,28.65174239582918,0 -106.0341904851357,28.65173585502038,0 -106.0337771053861,28.65169693779388,0 -106.0337176425567,28.6517691455603,0 -106.0336663657099,28.6518784533499,0 -106.0334671415681,28.65268538889209,0 -106.0335998349963,28.65287163058292,0 -106.0338509792553,28.65332823192339,0 -106.0339641880586,28.65366564849837,0 -106.0340603865933,28.65443766195642,0 -106.033957430564,28.65525229425553,0 -106.0345252343604,28.65515471161942,0 -106.0354623239246,28.65481821619928,0 -106.036879000173,28.65388094786401,0 -106.0375553216641,28.65328442103177,0 -106.0384192893635,28.65283399633911,0 -106.0389043997502,28.65262689566031,0 -106.0393205050441,28.65247986850783,0 -106.0398645824736,28.65240021398778,0 -106.0404702539507,28.6522616099137,0 -106.0408136152228,28.65200219337272,0 -106.0409907864759,28.65178477468769,0 -106.0412897075199,28.65184919559452,0 -106.0418268751732,28.65167423324327,0 -106.0422708692226,28.651726271248,0 -106.0429697608843,28.65184442625169,0 -106.0438268338656,28.65219954508615,0 -106.0447307604998,28.65252598832931,0 -106.0465783143707,28.65346431813845,0 -106.0469150199259,28.65354325681633,0 -106.0471519771307,28.65319128997413,0 -106.0473245381839,28.65328134489768,0 -106.0475019654589,28.6535643188945,0 -106.0477097927803,28.65398561607686,0 -106.0478535926693,28.65432871640827,0 -106.0479635564546,28.65456117667649,0 -106.0481786558727,28.65469292438306,0 -106.0485002721898,28.65474149342939,0 -106.0487960199761,28.6547205180641,0 -106.0490038566008,28.65462420587593,0 -106.0490308831008,28.65462503032962,0 -106.0492984199674,28.65484153034921,0 -106.0500308061775,28.65519351371253,0 -106.050841601879,28.6558370493152,0 -106.0514620820004,28.6560755471575,0 -106.0519556345615,28.65635550188737,0 -106.05272936852,28.65669860807813,0 -106.0531439037143,28.6569456427008,0 -106.0534570664362,28.65695988160387,0 -106.0536996391379,28.65696447849468,0 -106.0539693119848,28.65699375790951,0 -106.0541214939309,28.65692787190416,0 -106.0543328426743,28.65701821971185,0 -106.0544190311806,28.65716826726268,0 -106.0545786982074,28.65754034567529,0 -106.0549385732426,28.65790473974355,0 -106.0551847038546,28.65803842554123,0 -106.0560783300246,28.65769364503854,0 -106.0566196197136,28.65723481713615,0 -106.0570729074031,28.65686327230353,0 -106.0521008623196,28.65471891751792,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-M130, GIRASOLES, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.0256147416713,28.6562619335232,0 -106.0253300152222,28.65614512475058,0 -106.0250804738401,28.65568265697908,0 -106.0203049940608,28.65384549091957,0 -106.0096661120078,28.66850686889218,0 -106.0127768123948,28.6703875952911,0 -106.0156891558223,28.66697897396869,0 -106.0190460312732,28.66322663200316,0 -106.0211416156502,28.6618768887029,0 -106.0256147416713,28.6562619335232,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-M178, TABALAOPA-SANTO DOMINGO-GIRASOLES II-III-IV-V-VI, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.0292761016076,28.65716915838982,0 -106.0203351204621,28.65385916439388,0 -106.0190820196667,28.65525586931323,0 -106.0172834550673,28.65435233001521,0 -106.0157249572047,28.65471331757637,0 -106.0151335084136,28.65461822329603,0 -106.0129288024767,28.65571218205788,0 -106.010532804767,28.65686288710259,0 -106.0102239781982,28.657165726374,0 -106.008786671343,28.6575054020868,0 -106.0060387998508,28.65984081526208,0 -106.0057686576436,28.66048373107048,0 -106.0028669744441,28.67088196109387,0 -106.0011980452268,28.67310965076749,0 -105.9997962138432,28.67319807187975,0 -105.9986980670587,28.67252989507668,0 -105.9977550436957,28.67442678423474,0 -105.9977219997711,28.67636405604998,0 -105.9982589498578,28.67786887706131,0 -105.9993738791404,28.67898945710121,0 -106.0006719348221,28.67979985847759,0 -106.0026186797339,28.68130169484924,0 -106.0085575366104,28.68547814677456,0 -106.0090755116301,28.68370814977752,0 -106.0122326913279,28.67910962473208,0 -106.0144272052151,28.67807319844378,0 -106.0160899124764,28.67624815076393,0 -106.0177649801249,28.67609507510229,0 -106.01878314613,28.67512595475647,0 -106.0182872098939,28.67298841425657,0 -106.0193475042463,28.67206118865501,0 -106.0200464222776,28.67152657369731,0 -106.0213588378534,28.67055243182211,0 -106.022451560192,28.6698778767645,0 -106.0231353005145,28.66965442505841,0 -106.0230079895877,28.6679823301767,0 -106.0232274103813,28.66656231243432,0 -106.0236047948038,28.66424155878304,0 -106.0239234127358,28.66246333474896,0 -106.0243503737225,28.66059219170854,0 -106.0246220737617,28.6596555113132,0 -106.0255264418721,28.6578749901695,0 -106.0274772370795,28.65801425216172,0 -106.0292761016076,28.65716915838982,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-L90, TIRADORES-POPULAR-RUBEN JARAMILLO, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.0604433734878,28.65345311232576,0 -106.0579253155094,28.65145975805077,0 -106.0570130550501,28.65073190200684,0 -106.0560553220886,28.64998391355609,0 -106.0551490986538,28.64930783970216,0 -106.0549452503812,28.64915335404645,0 -106.0545407882038,28.64885792279388,0 -106.0541291296351,28.64862935789869,0 -106.0537063988749,28.64833132618344,0 -106.0535956073219,28.64866878231422,0 -106.0535390207133,28.64889277996401,0 -106.0534838015192,28.64912610881869,0 -106.0534389881303,28.64936139146928,0 -106.0532785342649,28.64949766893373,0 -106.0531856414993,28.64964374049594,0 -106.0531789471869,28.64982292093514,0 -106.0533325189658,28.65001222138129,0 -106.0533571132899,28.65020236669676,0 -106.0534057310219,28.65039957035478,0 -106.0540618471786,28.65071415815132,0 -106.0538584835455,28.6511943844026,0 -106.0537280675619,28.65165924779102,0 -106.0536326473149,28.65199766778374,0 -106.0535010234725,28.65220407463704,0 -106.0532833382753,28.65233318340376,0 -106.0529178264502,28.65245175825729,0 -106.0525033614643,28.65253920636096,0 -106.0521229718613,28.65257852297502,0 -106.0517599903752,28.6525465666605,0 -106.0513036910286,28.65260443783911,0 -106.0509212956654,28.65265194520945,0 -106.0503154585034,28.65251621010716,0 -106.0499230398963,28.65237043436575,0 -106.0497816914584,28.65196861151308,0 -106.0494924393155,28.65177299643039,0 -106.049181681773,28.65148279397584,0 -106.0494597902813,28.65120269092233,0 -106.0491502498381,28.65107705581221,0 -106.0488373050801,28.65096776351249,0 -106.0485960653051,28.65076330470992,0 -106.0483176253791,28.65054415145735,0 -106.0480045042365,28.6503251602057,0 -106.0477267573514,28.6502352597117,0 -106.047729639213,28.64999303310631,0 -106.0475358436808,28.64986682787696,0 -106.0472707494358,28.64974096952425,0 -106.0471506553688,28.64960107294018,0 -106.0472035995213,28.64953190666263,0 -106.0471431131598,28.64947889258126,0 -106.0470107893843,28.64935772977756,0 -106.0468171925884,28.64933476330769,0 -106.0466681246408,28.64938195308302,0 -106.0463906712207,28.64940138244715,0 -106.0463343867155,28.64925299349977,0 -106.0462376984058,28.64911257845,0 -106.0459652279282,28.64909906765977,0 -106.0457614903386,28.64887577573051,0 -106.0455294763285,28.64889031312373,0 -106.0454757456687,28.64881364366041,0 -106.0453048078593,28.64898134054238,0 -106.0450412772604,28.64925788471776,0 -106.0448338234619,28.64952731454542,0 -106.0447655385783,28.64987816519174,0 -106.0446726995998,28.65019008173179,0 -106.0445883907483,28.65044215715178,0 -106.0445422648531,28.65056034364187,0 -106.0445039586946,28.65062012581136,0 -106.045579041535,28.65099357157494,0 -106.0463373612944,28.6513361477169,0 -106.0470724140084,28.65175962890201,0 -106.0481987894818,28.65238724711223,0 -106.0495579338453,28.65311231232368,0 -106.0502719671468,28.65352537481569,0 -106.0519228813829,28.65432428309057,0 -106.0528935672894,28.6547730103336,0 -106.0539049629868,28.65533143413271,0 -106.0549735210924,28.65578964549007,0 -106.0559701431396,28.65619227241956,0 -106.0564805323072,28.65639865320109,0 -106.0571587248288,28.65670979021129,0 -106.0604433734878,28.65345311232576,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>A-L19, LAS GRANJAS, LIFER DEL NORTE</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-106.1109401076558,28.6652453650014,0 -106.1069722825551,28.6569002224773,0 -106.1014068097066,28.6589563031681,0 -106.105307924769,28.66727968522218,0 -106.1109401076558,28.6652453650014,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>EMPALME</name>
+			<LookAt>
+				<longitude>-106.0127956451965</longitude>
+				<latitude>28.66469572350302</latitude>
+				<altitude>0</altitude>
+				<heading>-7.115812343402956</heading>
+				<tilt>26.43249710242518</tilt>
+				<range>6784.54864767637</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-106.0142714603469,28.66657637712544,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

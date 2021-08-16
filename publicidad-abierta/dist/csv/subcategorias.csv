@@ -1,0 +1,46 @@
+#,"Categorías del servicio","Subcategorías del servicio",Estatus
+1,Cine,Cine,Activo
+2,Internet,"Medios Digitales",Activo
+3,Internet,"Otro tipo de difusión por Internet",Activo
+4,Internet,"Redes sociales y buscadores",Activo
+5,"Medios complementarios","Artículos promocionales",Activo
+6,"Medios complementarios",Cenefas,Activo
+7,"Medios complementarios",Dovelas,Activo
+8,"Medios complementarios","Mobiliario urbano",Activo
+9,"Medios complementarios","Muros o bardas",Activo
+10,"Medios complementarios","Otros medios complementarios",Activo
+11,"Medios complementarios",Parabuses,Activo
+12,"Medios complementarios","Publicidad móvil",Activo
+13,"Medios complementarios","Rótulos o anuncios exteriores",Activo
+14,"Medios complementarios","Tarjetas telefónicas",Activo
+15,"Medios complementarios",Vallas,Activo
+16,"Medios complementarios",Videobus,Activo
+17,"Medios impresos","Diarios Editados en el D.F.",Activo
+18,"Medios impresos","Diarios Editados en los Estados",Activo
+19,"Medios impresos",Encartes,Activo
+20,"Medios impresos","Medios Impresos Internacionales",Activo
+21,"Medios impresos","Otros medios impresos",Activo
+22,"Medios impresos",Revistas,Activo
+23,"Medios impresos",Suplementos,Activo
+24,Radio,"Cadenas radiofónicas",Activo
+25,Radio,"Radiodifusoras comunitarias e indígenas",Activo
+26,Radio,"Radiodifusoras internacionales",Activo
+27,Radio,"Radiodifusoras locales",Activo
+28,Televisión,"Publicidad virtual",Activo
+29,Televisión,"Televisión abierta local",Activo
+30,Televisión,"Televisión abierta nacional",Activo
+31,Televisión,"Televisión internacional",Activo
+32,Televisión,"Televisión restringida",Activo
+33,"Análisis, estudios y métricas","Estudios (Pre-Campaña, Post-Campaña)",Activo
+34,"Análisis, estudios y métricas","Plan de medios",Activo
+35,Impresiones,"Carteles o Pósters",Activo
+36,Impresiones,"Folletos, Dípticos o Trípticos",Activo
+37,Impresiones,"Mantas o Lonas",Activo
+38,Impresiones,"Otro tipo de materiales impresos",Activo
+39,"Producción de contenidos",Copiado,Activo
+40,"Producción de contenidos","Diseño y servicios publicitarios",Activo
+41,"Producción de contenidos","Otro tipo de servicio de producción",Activo
+42,"Producción de contenidos",Post-Producción,Activo
+43,"Producción de contenidos",Producción,Activo
+44,"Medios complementarios",Espectaculares,Activo
+45,Streaming,Streaming,Activo

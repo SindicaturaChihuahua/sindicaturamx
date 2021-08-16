@@ -1,0 +1,11 @@
+#,"Clasificación del servicio","Categorías del servicio","Título gráfica","Color gráfica",Estatus
+1,"Servicios de difusión en medios de comunicación",Radio,Radio,#004858,Activo
+2,"Servicios de difusión en medios de comunicación",Televisión,TV,#699DB3,Activo
+3,"Servicios de difusión en medios de comunicación",Cine,Cine,#756EA0,Activo
+4,"Servicios de difusión en medios de comunicación","Medios impresos",Medios,#13B6E3,Activo
+5,"Servicios de difusión en medios de comunicación","Medios complementarios",Complementarios,#1287C1,Activo
+6,"Servicios de difusión en medios de comunicación",Internet,Internet,#81CEF3,Activo
+7,"Otros servicios asociados a la comunicación ","Producción de contenidos",Contenidos,#08AFBC,Activo
+8,"Otros servicios asociados a la comunicación ","Análisis, estudios y métricas",Estudios,#BBE4E7,Activo
+9,"Otros servicios asociados a la comunicación ",Impresiones,Impresiones,#51B27C,Activo
+10,"Otros servicios asociados a la comunicación ",Streaming,Streaming,#A2CCAE,Activo

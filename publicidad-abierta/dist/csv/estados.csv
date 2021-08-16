@@ -1,0 +1,35 @@
+#,"Nombre del estado","Código del estado",Estatus
+1,Aguascalientes,mx-ag,Activo
+2,"Baja California",mx-bc,Activo
+3,"Baja California Sur",mx-bs,Activo
+4,Campeche,mx-cm,Activo
+5,Coahuila,mx-co,Activo
+6,Colima,mx-cl,Activo
+7,Chiapas,mx-cs,Activo
+8,Chihuahua,mx-ch,Activo
+9,"Ciudad de México",mx-df,Activo
+10,Durango,mx-dg,Activo
+11,Guanajuato,mx-gj,Activo
+12,Guerrero,mx-gr,Activo
+13,Hidalgo,mx-hg,Activo
+14,Jalisco,mx-ja,Activo
+15,México,mx-mx,Activo
+16,Michoacán,mx-mi,Activo
+17,Morelos,mx-mo,Activo
+18,Nayarit,mx-na,Activo
+19,"Nuevo León",mx-nl,Activo
+20,Oaxaca,mx-oa,Activo
+21,Puebla,mx-pu,Activo
+22,Querétaro,mx-qt,Activo
+23,"Quintana Roo",mx-qr,Activo
+24,"San Luis Potosí",mx-sl,Activo
+25,Sinaloa,mx-si,Activo
+26,Sonora,mx-so,Activo
+27,Tabasco,mx-tb,Activo
+28,Tamaulipas,mx-tm,Activo
+29,Tlaxcala,mx-tl,Activo
+30,Veracruz,mx-ve,Activo
+31,Yucatán,mx-yu,Activo
+32,Zacatecas,mx-za,Activo
+33,Federación,mx-fe,Activo
+34,Internacional,int,Activo

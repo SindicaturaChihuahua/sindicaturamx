@@ -1,0 +1,7 @@
+#,Usuario,Email,Nombre,Apellido,"Sujeto Obligado",Estatus
+1,admin,admin@admin.com,admin,admin,,Activo
+2,Pedrojoel,pedroviga94@gmail.com,"Pedro Joel",Villanueva,,Activo
+3,EQUIPOINAI,claudia.cordero@inai.org.mx,Claudia,Cordero,,Activo
+4,"Gabriela Aguirre",gaby.edith1306@gmail.com,Gabriela,Aguirre,,Activo
+5,test_capturista,alan@folklore.mx,test_capturista,test_capturista,Chihuahua,Activo
+6,Zurdo,oescobarcarrete@gmail.com,Omar,Escobar,Chihuahua,Activo

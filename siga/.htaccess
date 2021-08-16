@@ -1,0 +1,20 @@
+AddHandler cgi-script .pl
+Options ExecCGI FollowSymlinks
+DirectoryIndex index.php index.html
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+Options +FollowSymLinks
+RewriteEngine On
+RewriteBase /sindicaturamx/siga/
+RewriteRule ^login/?$ ./login.php [QSA,L]
+RewriteRule ^p/([\w-]+)/([\w-]+)/([\w-]+)/([\w-]+)/?$ ./index.php?alfa=$1&beta=$2&gama=$3&delta=$4&tipo=pages [QSA,L]
+RewriteRule ^p/([\w-]+)/([\w-]+)/([\w-]+)/?$ ./index.php?alfa=$1&beta=$2&gama=$3&tipo=pages [QSA,L]
+RewriteRule ^p/([\w-]+)/([\w-]+)/?$ ./index.php?alfa=$1&beta=$2&tipo=pages [QSA,L]
+RewriteRule ^p/([\w-]+)/?$ ./index.php?alfa=$1&tipo=pages [QSA,L]
+RewriteRule ^s/([\w-]+)/([\w-]+)/([\w-]+)/([\w-]+)/([\w-]+)/?$ ./index.php?alfa=$1&beta=$2&gama=$3&delta=$4&epsilon=$5&tipo=secciones [QSA,L]
+RewriteRule ^s/([\w-]+)/([\w-]+)/([\w-]+)/([\w-]+)/?$ ./index.php?alfa=$1&beta=$2&gama=$3&delta=$4&tipo=secciones [QSA,L]
+RewriteRule ^s/([\w-]+)/([\w-]+)/([\w-]+)/?$ ./index.php?alfa=$1&beta=$2&gama=$3&tipo=secciones [QSA,L]
+RewriteRule ^s/([\w-]+)/([\w-]+)/?$ ./index.php?alfa=$1&beta=$2&tipo=secciones [QSA,L]
+RewriteRule ^s/([\w-]+)/?$ ./index.php?alfa=$1&tipo=secciones [QSA,L]

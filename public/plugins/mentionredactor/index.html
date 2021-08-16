@@ -1,0 +1,105 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Mention</title>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+    <link href='_tmp/style.css' rel='stylesheet' type='text/css'>
+    <link href='jquery.mentionsInput.css' rel='stylesheet' type='text/css'>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js" type="text/javascript"></script>
+    <script src='http://documentcloud.github.com/underscore/underscore-min.js' type='text/javascript'></script>
+
+    <!-- Redactor -->
+    <link rel="stylesheet" href="redactor.css" />
+    <script src="redactor.js"></script>
+    <script src="lang/es.js"></script>
+</head>
+<body style="background:#ccc;">
+
+<div class="container" style="padding:20px;">
+
+    <textarea id="content" class='mention'></textarea>
+    <a class="button get-syntax-text">Mostrar html final</a>&nbsp;&nbsp;&nbsp;
+    <a class="button get-mentions">Mostar coleccion de menciones</a>
+
+</div>
+  
+  <script type="text/javascript">
+    $(function(){
+        $('#content').redactor({
+            fixed:false,
+            maxHeight: 500,
+            lang: 'es',
+            imageUpload:"image-upload.php",
+            buttons: ['html', 'formatting', 'bold', 'italic', 'deleted', 'unorderedlist', 'orderedlist', 'outdent', 'indent', 'image', 'file', 'link', 'alignment', 'horizontalrule'],
+            syncCallback: function(){
+                 this.$element.trigger('keyinput.mention');
+            },
+            keydownCallback: function(e){
+                var dmmentionopen = $('textarea.mention').data('mentionsInput').sugerencias();
+                this.$element.trigger('keydown.mention',e.originalEvent);
+                if(dmmentionopen && (e.keyCode == 13 || e.keyCode == 9 || e.keyCode == 37 || e.keyCode == 38 || e.keyCode == 39 || e.keyCode == 40)){
+                    return false;
+                }
+            },
+            keyupCallback: function(e){
+                this.$element.trigger('keyup.mention',e.originalEvent);
+            },
+            clickCallback: function(e){
+                this.$element.trigger('click.mention',e.originalEvent);
+            },
+            blurCallback: function(e){
+                this.$element.trigger('blur.mention',e.originalEvent);
+            }
+        });
+    });
+  </script>
+
+  <!-- Mention -->
+  <script src='lib/jquery.events.input.js' type='text/javascript'></script>
+  <script src="dm.mention.js"></script>
+
+  <script type="text/javascript">
+  $(document).ready(function(){
+      $('#content').mentionsInput({
+        triggerChar: '@',
+        hashtag: '#',
+        wiki: '^',
+        redactor: true,
+        onDataRequest:function (mode, query, trigger, callback) {
+            $.ajax({
+                type: "POST",
+                url: 'data.php',
+                data: {'mode':mode, 'query':query, 'trigger':trigger},
+                dataType: "json"
+            }).done(function(responseData, status, objXHR){
+                responseData = _.filter(responseData, function(item) { return item.name.toLowerCase().indexOf(query.toLowerCase()) > -1 });
+                callback.call(this, responseData);
+            }).fail(function(objXHR, status){ 
+                // launchToastr('warning','Error: No hay respuesta de servidor');
+            }).always(function(responseData){ 
+            });
+        },
+        onCaret: true
+      });
+
+      $('.get-syntax-text').click(function() {
+        $('textarea.mention').mentionsInput('val', function(text) {
+          alert(text);
+        });
+      });
+
+      $('.get-mentions').click(function() {
+        $('textarea.mention').mentionsInput('getMentions', function(data) {
+          alert(JSON.stringify(data));
+        });
+      });
+
+
+  });
+  </script>
+
+</body>
+</html>

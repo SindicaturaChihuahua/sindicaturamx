@@ -1,0 +1,31 @@
+AddHandler cgi-script .pl
+Options ExecCGI FollowSymlinks
+DirectoryIndex index.php index.html
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+Options +FollowSymLinks
+RewriteEngine On
+RewriteBase /sindicaturamx/
+
+# NO-SSL
+# RewriteCond %{HTTP_HOST} !^www.dmuela.com$ [NC]
+# RewriteRule ^(.*)$ http://www.dmuela.com/$1 [L,R=301]
+
+# SSL
+# RewriteCond %{HTTPS} !=on
+# RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+# RewriteCond %{HTTP_HOST} !^www.sindicatura.mx$ [NC]
+# RewriteRule ^(.*)$ https://www.sindicatura.mx/$1 [L,R=301]
+
+RewriteCond %{THE_REQUEST} \ /(.*?)(%20)+([^\?\ ]*)
+RewriteRule ^ /%1+%3 [L,R=301,NE]
+
+RewriteRule ^([\w-\+]+)/([\w-\+]+)/([\w-\+]+)/([\w-\+]+)/([\w-\+]+)/?$ ./index.php?alfa=$1&beta=$2&gama=$3&delta=$4&epsilon=$5 [QSA,L]
+RewriteRule ^([\w-\+]+)/([\w-\+]+)/([\w-\+]+)/([\w-\+]+)/?$ ./index.php?alfa=$1&beta=$2&gama=$3&delta=$4 [QSA,L]
+RewriteRule ^([\w-\+]+)/([\w-\+]+)/([\w-\+]+)/?$ ./index.php?alfa=$1&beta=$2&gama=$3 [QSA,L]
+RewriteRule ^([\w-\+]+)/([\w-\+]+)/?$ ./index.php?alfa=$1&beta=$2 [QSA,L]
+RewriteRule ^([\w-\+]+)/?$ ./index.php?alfa=$1 [QSA,L]
+
+ErrorDocument 404 ./e404.php
