@@ -8,7 +8,7 @@ require_once( DMSIGA . 'exclusive_functions.php' );
 
 /*
  * Start PHP Process here
- */
+*/
 
 $access=false;
 $controlador=false;
